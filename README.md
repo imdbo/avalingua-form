@@ -1,8 +1,8 @@
 ## Instruções para executar a build versão:
  #### sudo apt-get install nodejs<br>
  #### sudo apt-get install npm<br>
- #### npm install -g serve OU yarn global add serve<br>
- #### npm run build <br>
+ #### npm install -g serve || yarn global add serve<br>
+ #### npm run build || yarn build <br>
  #### cd build<br>
  #### serve -s<br>
 
