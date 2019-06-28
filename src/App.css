@@ -11,7 +11,7 @@
   margin: 0;
   font-family: 'Mali', cursive;
   font-family: 'Noto Sans KR', sans-serif;
-  font-family: 'Crimson Text', serif;
+  font-family: 'Times New Roman', serif;
   font-size: 11px;
   grid-gap: 1em;
 }
@@ -94,6 +94,7 @@
     height: 50%;
   border-width: 0px 0px 1px 0px;
   margin-top:1rem;
+  font-size: 1rem;
 }
 .aval-formin-pop{
   position: relative;
@@ -194,7 +195,7 @@
   grid-row: 5;
 }
 @media(max-width:768px){
-  .form-container{
+  .form-container, .dark-overlay{
     grid-column: 1/4;
   }
   .tagmods-popup{

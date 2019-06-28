@@ -1,5 +1,8 @@
-    import React, { Component } from 'react';
-
+import React, { Component } from 'react';
+//TODOs:
+    //TODO: vazio: eliminar text input para ∅
+    //TODO: permitir adicionar nome de regra/warn
+    //TODO: if finalizar tag undefined && taginput not empty -> append it
   export default class Header extends Component {
     constructor(props) {
       super(props);
@@ -434,6 +437,7 @@
                   {this.state.ExtraMod.join("\n")
                   }
                   <span><br></br>{this.state.noNextMod}</span>
+                  <div className="span">%</div>
                 </div>
               </div>
           </div>
