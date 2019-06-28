@@ -1,0 +1,13 @@
+.header-container{
+    margin: 0;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: 10% 40% 50%
+}
+
+.header-logo{
+    
+}
+.leftbutton{
+    list-style-type: none;
+}
