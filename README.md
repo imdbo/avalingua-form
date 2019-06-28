@@ -2,6 +2,7 @@
   sudo apt-get install nodejs<br>
   sudo apt-get install npm<br>
   npm install -g serve OU yarn global add serve<br>
+  npm run build
   cd build<br>
   serve -s<br>
 
