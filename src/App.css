@@ -48,7 +48,7 @@
   height: 100%;
   display: grid;
   grid-template-columns: auto;
-  grid-template-rows: 10% 5% 45% 20% 20%;
+  grid-template-rows: 10% 15% 35% 20% 20%;
   border-style: solid;
   border-width: 0.2px 0.2px 0.2px 0.2px;
   border-color: #036;
@@ -67,7 +67,7 @@
   min-height: 50rem;
   grid-template-columns: 25% 50% 25%;
 }
-.aval-dep-fblock, .aval-dep-fblock-construtor{
+.aval-dep-fblock, .aval-dep-fblock-construtor, .aval-dep-fblock-CWS{
   grid-column: 1;
   width: 80%;
   height: 100%;
@@ -101,7 +101,7 @@
   min-width: 30%;
   height: 55%;
 }
-.aval-formin:focus{
+.aval-formin:focus, .aval-formin-pop:focus{
   border-color: #036;
 }
 .formin-check{
@@ -111,8 +111,8 @@
   color: black;
   background-color: rgba(255, 255, 255, 0);
   border-style: solid;
-  border-color: grey;
-  border-width: 0px 0px 1px 0px;
+  border-color: rgba(128, 128, 128, 0.589);
+  border-width: 0px 0px 2px 0px;
   outline:none;
 }
 .formin-check:hover, .formin-check:focus{
@@ -149,8 +149,18 @@
 .costructor-labels-choices{
   margin: auto;
 }
+.costructor-labels-choices-3{
+  grid-row: 3
+}
 .ok-button{
   text-align: right;
+}
+.check-button{
+  height: 2rem;
+  width: 2rem;
+
+}.check-button:hover{
+  background-color: rgba(4, 186, 92, 0.047)
 }
 #footer{
   grid-row: 3;
@@ -180,21 +190,32 @@
 .gerador{
   border-style: solid;
   border-color: grey;
-  border-width: 2px;
+  border-width: 1px;
   outline:none;
   max-height: 100%;
 }
 .gerador:hover{
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
   border-color: #036;
-  background-color: rgba(4, 35, 82, 0.089);
-
+  background-color: rgba(6, 74, 175, 0.089);
+}
+.gerador-ok{
+  width: 15rem;
 }
 .text-popup{
   grid-row: 5;
 }
-@media(max-width:768px){
+.vazio-wrap{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: row;
+  text-align: center;
+}
+@media(max-width:850px){
   .form-container, .dark-overlay{
     grid-column: 1/4;
   }

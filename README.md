@@ -1,11 +1,3 @@
-## Instruções para executar a build versão:
- #### sudo apt-get install nodejs<br>
- #### sudo apt-get install npm || sudo apt-get install yarn<br>
- #### npm install -g serve || yarn global add serve<br>
- #### npm run build || yarn build <br>
- #### cd build<br>
- #### serve -s<br>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

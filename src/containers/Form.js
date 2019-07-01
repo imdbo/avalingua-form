@@ -1,7 +1,5 @@
-import React, { Component } from 'react';
+    import React, { Component } from 'react';
 //TODOs:
-    //TODO: vazio: eliminar text input para ∅
-    //TODO: permitir adicionar nome de regra/warn
     //TODO: if finalizar tag undefined && taginput not empty -> append it
   export default class Header extends Component {
     constructor(props) {
@@ -29,12 +27,28 @@ import React, { Component } from 'react';
           x: '',
           textPop: '',
           seePopText: false,
-          userTagInput: []
+          userTagInput: [],
+          cwText: '',
+          CorrWarn: ''
         }
+    }
+    componentWillUpdate() {
+      if(this.state.setTag[this.state.setTag.length-1] === "∅:"){
+        if(this.state.modifiersInner.length !== 0) {
+          this.setState({
+            modifiersInner: []
+          });
+        }
+      } 
     }
     handleX = (e) => {
       this.setState({
         xtrasText: e.target.value
+      });
+    }
+    handleCw = (e) => {
+      this.setState({
+        cwText: e.target.value
       });
     }
     handleChange = (e) => {
@@ -99,8 +113,19 @@ import React, { Component } from 'react';
         console.log("singletagging")
         console.log("tagging "+this.state.setTag[0])
         if(this.state.setTag.includes("∅:")){
+          let userInputInProcess = this.state.userInput+" "+this.state.userNewInput;
+          let modList = this.state.modifiers;
+          if(modList.includes("[ ]")){
+            modList.splice(modList.indexOf("[ ]"), 1);
+            userInputInProcess = this.state.userInput+" "+ "["+this.state.userNewInput+"]";
+          }
+          this.state.modifiers.map((mod) => {
+            userInputInProcess = userInputInProcess+mod
+            modList.splice(modList.indexOf(mod), 1);
+          });
           this.setState({
-            userInput: this.state.userInput+" "+"["+this.state.userNewInput+"]"
+            userInput: userInputInProcess,
+            modifiers: []
           });
         }else {
           this.handleSingleTagging(this.state.setTag[0])
@@ -109,11 +134,14 @@ import React, { Component } from 'react';
       this.fecharTags()
       this.setState({
         setTag: [],
-        userTagInput: '',
+        userTagInput: [],
       });
       console.log("postlog: "+this.state.setTag)
     }
     handleMultipleTagging = (tagArr) => {
+      if(this.state.userTagInput.includes("∅")){
+        this.fecharTags()
+      }else{
       let userInputInProcess;
       let modList = this.state.modifiers;
       const innerModList = this.state.modifiersInner.join("");
@@ -152,39 +180,44 @@ import React, { Component } from 'react';
           modifiers: [],
           modifiersInner: []
         });
+      }
     }
     handleSingleTagging = (e1) => {
-      let modList = this.state.modifiers;
-      let innerModList = this.state.modifiersInner;
-      let userInputInProcess;
-      let iModList = '';
-      innerModList.map((iMod)=> { 
-          iModList = iModList+iMod;
-          innerModList.splice(innerModList.indexOf(iMod), 1);
-      });
-      console.log("hola"+iModList);
-      if(modList.includes("[ ]")){
-        modList.splice(modList.indexOf("[ ]"), 1);
-        userInputInProcess = this.state.userInput+" "+"["+this.state.userNewInput + 
-        "<"+e1 + this.state.userTagInput[0] +iModList+">"+"]"
-        this.state.modifiers.map((mod) => {
-          userInputInProcess = userInputInProcess+mod
-          modList.splice(modList.indexOf(mod), 1);
-        });
+      if(this.state.userTagInput.includes("∅")){
+        this.fecharTags()
       }else{
-        userInputInProcess = this.state.userInput +" "+ this.state.userNewInput + 
-        "<"+e1 +this.state.userTagInput[0]+iModList+">"
-        this.state.modifiers.map((mod) => {
-          userInputInProcess = userInputInProcess+mod
-          modList.splice(modList.indexOf(mod), 1);
+        let modList = this.state.modifiers;
+        let innerModList = this.state.modifiersInner;
+        let userInputInProcess;
+        let iModList = '';
+        innerModList.map((iMod)=> { 
+            iModList = iModList+iMod;
+            innerModList.splice(innerModList.indexOf(iMod), 1);
         });
-      }
+        console.log("hola"+iModList);
+        if(modList.includes("[ ]")){
+          modList.splice(modList.indexOf("[ ]"), 1);
+          userInputInProcess = this.state.userInput+" "+"["+this.state.userNewInput + 
+          "<"+e1 + this.state.userTagInput[0] +iModList+">"+"]"
+          this.state.modifiers.map((mod) => {
+            userInputInProcess = userInputInProcess+mod
+            modList.splice(modList.indexOf(mod), 1);
+          });
+        }else{
+          userInputInProcess = this.state.userInput +" "+ this.state.userNewInput + 
+          "<"+e1 +this.state.userTagInput[0]+iModList+">"
+          this.state.modifiers.map((mod) => {
+            userInputInProcess = userInputInProcess+mod
+            modList.splice(modList.indexOf(mod), 1);
+          });
+        }
       this.setState({
         userInput: userInputInProcess,
         modifiers: [],
         modifiersInner: [],
         userTagInput : []
       });
+      }
     }
     fecharTags = () => {
       this.setState({
@@ -205,15 +238,14 @@ import React, { Component } from 'react';
     const value = e;
     let modifiers = this.state.modifiers;
     console.log(this.state.modifiers);
-    if(!(this.state.modifiers.includes(value))){
-      this.setState({
-        modifiers: [...this.state.modifiers, value]
-      });
-    }else{
+    if(this.state.modifiers.includes(value)){
       modifiers.splice(modifiers.indexOf(value), 1);
-      console.log(modifiers)
       this.setState({
         modifiers: modifiers
+      });
+    }else{
+      this.setState({
+        modifiers: [...this.state.modifiers, value]
       });
     }
   }
@@ -330,26 +362,40 @@ import React, { Component } from 'react';
     }
     stylePopText = () => {
       return {
-        display: this.state.seePopText? 'block' :'none'
+        display: this.state.seePopText? 'flex' :'none'
+      }
+    }
+    vazio = () => {
+      return {
+        display: this.state.setTag[this.state.setTag.length-1] === "∅:"? 'none' :'flex'
+      }
+    }
+    vazio2 = () => {
+      return {
+        display: this.state.setTag[this.state.setTag.length-1] === "∅:"? 'none' :'block'
       }
     }
     render() {
-      const avalHolderText = '';
       return (
         <div className="form-tab" style={{gridColumn: "1/4"}}>
           <div className="dark-overlay"style={this.formOverdark()}></div>
           <div className="tagmods-popup" style={this.tagPopStyle()}>
            <div className="construtor-labels" >
              <div className="text-popup" style={this.stylePopText()}>
-              <label htmlFor="form-nomer" style={this.editorDeRegras(this.state.seePopText)}
-                className="floating-labelo">texto para {this.state.setTag[this.state.setTag.length-1]}</label>
-              <input type="text" id="form-popup" onKeyPress={e => {
-                if (e.key === 'Enter') {
-                  this.hidePopText(e.target.value);
-                }
-              }} 
-              onChange={this.handleTextPop} value={this.state.textPop} className="aval-formin-pop"/>
-              <span className="gerador" onClick={(e)=>this.hidePopText(document.getElementById("form-popup").value)}>ok</span>
+               <div className="vazio-wrap"style={this.vazio()}>
+                 <div className="text-square">
+                  <label htmlFor="form-nomer" style={this.editorDeRegras(this.state.seePopText)}
+                    className="floating-labelo">texto para {this.state.setTag[this.state.setTag.length-1]}</label>
+                  <input type="text" id="form-popup" onKeyPress={e => {
+                    if (e.key === 'Enter') {
+                      this.hidePopText(e.target.value);
+                    }
+                  }} 
+                  onChange={this.handleTextPop} value={this.state.textPop} className="aval-formin-pop"/>
+                </div>
+                <div className="check-button" onClick={(e)=>this.hidePopText(document.getElementById("form-popup").value)}><i class="fas fa-2x fa-check"></i>
+                </div>
+              </div>
              </div>
              <span className="ok-button" style={{gridRow: "1"}} onClick={()=>this.fecharTags()}><i className="fas fa-2x fa-window-close"></i></span>
              <div className="costructor-labels-choices" style={{gridRow: "2"}}>
@@ -359,7 +405,7 @@ import React, { Component } from 'react';
                       )
               })}
               </div>
-              <div className="costructor-labels-choices" style={{gridRow: "3"}}>
+              <div className="costructor-labels-choices-3" style={this.vazio2()}>
                 {this.state.innerTagMods.map((tag) => {
                   let tagex;
                     for(let i = 0; i < tag.length; i++){
@@ -391,10 +437,16 @@ import React, { Component } from 'react';
               <div className="aval-dep-fblock" style={{gridRow: "1",  width:"100%", marginTop:"1rem"}}>
                   <label htmlFor="form-nomer" style={this.editorDeRegras(this.state.AVAL)}className="floating-label">Nome da regra</label>
                   <input type="text" id="form-nomer" onChange={this.handleTitle} value={this.state.AVAL} className="aval-formin"/>
-                </ div>
-              <div className="aval-dep-fblock" style={{gridRow: "2"}}>
-                    <button onClick={()=> this.CorrWarn("Corr: ")}className="formin-check">Corr</button>
-                    <button onClick={()=> this.CorrWarn("Warning: ")}className="formin-check">Warning</button>
+                </div>
+              <div className="aval-dep-fblock-construtor" style={{gridRow: "2"}}>
+              <div className="corrWarn-text" style={{gridRow: "2"}}>
+                <label htmlFor="aval-formin-cw" style={this.editorDeRegras(this.state.cwText)} className="floating-label">Nome da Corr ou Warning</label>
+                <input className="aval-formin-pop" id="aval-formin-cw" onChange={this.handleCw}></input><br/>
+              </div>
+                <div className="corrWarn-block"style={{gridRow: "1"}}>
+                    <button onClick={()=> this.CorrWarn("Corr")}className="formin-check">Corr</button>
+                    <button onClick={()=> this.CorrWarn("Warning")}className="formin-check">Warning</button>
+                </div>
               </div>
               <div className="aval-dep-fblock" style={{gridRow: "3",
                                                        display: "flex",
@@ -411,18 +463,18 @@ import React, { Component } from 'react';
               </div>
               <div className="aval-dep-fblock-construtor" style={{gridRow: "4", width:"100%"}}>
               <div className="aval-dep-fblock" style={{gridRow: "1"}}>
-              <label htmlFor="aval-formin-X" style={this.editorDeRegras(this.state.xtrasText)} className="floating-labelo">Texto Inherit|Recursivity|Add</label>
-              <input className="aval-formin-pop" id="aval-formin-X" onChange={this.handleX}></input><br/>
-              {this.state.Extras.map((x) => {
-                    return(
-                        <button id={x} className="formin-check" key={x}  onClick={e =>this.xtras(x)}>{x}</button>
-                    )
-                  })}
-                  {this.state.noNext.map((x) => {
-                    return(
-                      <button id={x} className="formin-check" key={x}  onClick={e =>this.noX(e.target.id)}>{x}</button>
-                    )
-                  })}
+                <label htmlFor="aval-formin-X" style={this.editorDeRegras(this.state.xtrasText)} className="floating-labelo">Texto Inherit|Recursivity|Add</label>
+                <input className="aval-formin-pop" id="aval-formin-X" onChange={this.handleX}></input><br/>
+                {this.state.Extras.map((x) => {
+                      return(
+                          <button id={x} className="formin-check" key={x}  onClick={e =>this.xtras(x)}>{x}</button>
+                      )
+                    })}
+                    {this.state.noNext.map((x) => {
+                      return(
+                        <button id={x} className="formin-check" key={x}  onClick={e =>this.noX(e.target.id)}>{x}</button>
+                      )
+                    })}
               </div>
                 <div className="construtor-text" style={{gridRow: "2"}}>
                   <label htmlFor="form-regra" style={this.editorDeRegras(this.state.userInput)} className="floating-label">Editor</label>
@@ -433,7 +485,7 @@ import React, { Component } from 'react';
                 <label htmlFor="regra">Regra resultante</label>
                 <div className="regra-final">
                   <span>##AVAL: regra {this.state.AVAL}<br></br></span>
-                  <span>{this.state.CorrWarn}{this.state.userInput}<br></br></span>
+                  <span>{this.state.CorrWarn+this.state.cwText+":"}{this.state.userInput}<br></br></span>
                   {this.state.ExtraMod.join("\n")
                   }
                   <span><br></br>{this.state.noNextMod}</span>
