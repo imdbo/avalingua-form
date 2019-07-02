@@ -485,10 +485,13 @@
                 <label htmlFor="regra">Regra resultante</label>
                 <div className="regra-final">
                   <span>##AVAL: regra {this.state.AVAL}<br></br></span>
-                  <span>{this.state.CorrWarn+this.state.cwText+":"}{this.state.userInput}<br></br></span>
-                  {this.state.ExtraMod.join("\n")
-                  }
-                  <span><br></br>{this.state.noNextMod}</span>
+                  <span>{this.state.CorrWarn+this.state.cwText+":"}{this.state.userInput}<pre/></span>
+                  {this.state.ExtraMod.map((xM) => {
+                    return(
+                      <div className="xM-tag">{xM}<br/></div>
+                    )
+                  })}
+                  <span>{this.state.noNextMod}</span>
                   <div className="span">%</div>
                 </div>
               </div>
