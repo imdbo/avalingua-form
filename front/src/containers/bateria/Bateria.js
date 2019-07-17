@@ -5,7 +5,7 @@ const child = window.require('child_process')
 var convert = require('xml-js');
 var xpath = require('xpath');
 var dom = require('xmldom').DOMParser;
-var fs = window.require('fs');
+var fs = window.require('fs-extra');
 var date = new Date();
 var moment = window.require('moment');
 var lineByLine = window.require('n-readlines');
@@ -29,12 +29,34 @@ export default class Bateria extends Component {
       parsed: '',
       xmlout: '',
       annotations: [],
-      visibleLog: ["vazio"],
+      visibleLog: [],
     }
   }
   //bateria de textos. Comparar log duma versao coa nova.
   componentDidMount () {
-    console.log(this.props.logStandard)
+    if(!fs.existsSync('./log')){
+      fs.mkdirSync('./log')
+    }
+    const lastLog = './log/log'+date.getDate()+'-'+date.getMonth()+'-'+date.getFullYear()+'.txt'
+    try{
+      fs.readFile(lastLog, 'utf-8', (err, data)=> {
+        const logs = data;
+        if(err){
+            alert(err);
+            return;
+        }
+        console.log(logs)
+        const frases = xpath.select("/avalingua/text",logs)
+        console.log(frases)
+        for(let f in frases){
+          this.setState({
+            visibleLog: [...this.state.visibleLog, f]
+          })
+        }
+      })
+    }catch(error){
+      console.error(error)
+    }
   }
   componentWillUnmount() {
     console.log(this.state.output)
@@ -85,9 +107,9 @@ export default class Bateria extends Component {
         opt === "bateria" ? (
           this.bateriaVergleich() )
           : 
-          (log = this.state.jsout+"\n"+"analisado às "+moment().format('h:mm:ss a, MMMM Do YYYY'),
+          (log = this.state.xmlout+"\n"+"analisado às "+moment().format('h:mm:ss a, MMMM Do YYYY'),
           //TODO: xpath erros, numero de nomes, adj, etc
-          fs.appendFile('log'+date.getDate()+"-"+date.getMonth()+"-"+date.getFullYear()+".txt", log, function(err){
+          fs.appendFile('./log/log'+date.getDate()+'-'+date.getMonth()+'-'+date.getFullYear()+'.txt', log, function(err){
             if (err){
               console.log(err)
             }
@@ -98,7 +120,7 @@ export default class Bateria extends Component {
     }
   }
   bateriaVergleich = () => {
-    const lastLog = 'bateria-log'+date.getDate()+"-"+date.getMonth()+"-"+date.getFullYear()+".txt";
+    const lastLog = './log/bateria-log'+date.getDate()+"-"+date.getMonth()+"-"+date.getFullYear()+".txt";
     /*const logs = [this.props.logStandard, lastLog];
     let line;
     const cb = (err) => {
@@ -257,11 +279,11 @@ export default class Bateria extends Component {
                 </div>
               </div>
               <div className="historial-log">
-                {this.state.visibleLog.map((f)=>{
+                {this.state.visibleLog.map((f, i)=>{
                   console.log(this.state.visibleLog)
                   return(
-                    <div className="queried-input">
-                      <button className="formin-wide">{f}</button>
+                    <div key={"frase-"+f+"-"+"i"}className="queried-input">
+                      <button onClick={(e) =>this.initParsing(f)}className="formin-wide">{f}</button>
                     </div>
                   )
                 })}
