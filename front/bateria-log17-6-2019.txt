@@ -1,0 +1,153 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8</end_offset>
+    <explanation>&lt;strong&gt;Falsos amigos.&lt;/strong&gt; Palabras reconocidas y válidas ortográficamente pero mal usadas sintácticamente. Por ejemplo: &lt;em&gt;*El numero 2&lt;/em&gt;, no es el presente del verbo &lt;em&gt;numerar&lt;/em&gt;, sino el sustantivo &lt;em&gt;número&lt;/em&gt;.
+</explanation>
+    <information></information>
+    <label>falso amigo</label>
+    <label_code>fakes</label_code>
+    <start_offset>3</start_offset>
+    <suggestion>número</suggestion>
+    <type>err</type>
+    <word>numero</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>42</end_offset>
+    <explanation>&lt;strong&gt;Falsos amigos.&lt;/strong&gt; Palabras reconocidas y válidas ortográficamente pero mal usadas sintácticamente. Por ejemplo: &lt;em&gt;*El numero 2&lt;/em&gt;, no es el presente del verbo &lt;em&gt;numerar&lt;/em&gt;, sino el sustantivo &lt;em&gt;número&lt;/em&gt;.
+</explanation>
+    <information></information>
+    <label>falso amigo</label>
+    <label_code>fakes</label_code>
+    <start_offset>41</start_offset>
+    <suggestion>última</suggestion>
+    <type>err</type>
+    <word>ultima</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>77</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres femeninos que en singular empiezan por &lt;strong&gt;a- tónica&lt;/strong&gt; llevan el artículo en masculino (&lt;em&gt;el, un&lt;/em&gt;).&lt;br&gt;Ej.: &lt;em&gt;Tengo un &lt;strong&gt;ha&lt;/strong&gt;mbre atroz. Me gusta más el &lt;strong&gt;a&lt;/strong&gt;gua fría.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 2</label>
+    <label_code>CorrNoConcordElL</label_code>
+    <start_offset>76</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>la agua</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>95</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres femeninos que en singular empiezan por &lt;strong&gt;a- tónica&lt;/strong&gt; llevan el artículo en masculino (&lt;em&gt;el, un&lt;/em&gt;).&lt;br&gt;Ej.: &lt;em&gt;Tengo un &lt;strong&gt;ha&lt;/strong&gt;mbre atroz. Me gusta más el &lt;strong&gt;a&lt;/strong&gt;gua fría.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 2</label>
+    <label_code>CorrNoConcordElL</label_code>
+    <start_offset>94</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>La arte</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>135</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres femeninos que en singular empiezan por &lt;strong&gt;a- tónica&lt;/strong&gt; llevan el artículo en masculino (&lt;em&gt;el, un&lt;/em&gt;).&lt;br&gt;Ej.: &lt;em&gt;Tengo un &lt;strong&gt;ha&lt;/strong&gt;mbre atroz. Me gusta más el &lt;strong&gt;a&lt;/strong&gt;gua fría.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 2</label>
+    <label_code>CorrNoConcordElL</label_code>
+    <start_offset>134</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>La águila</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>178</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>171</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>veintiún pesetas</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>227</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>225</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>una mil</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>274</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>266</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>veintiuna millón</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>327</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; los numerales &lt;em&gt;veintiún, un, tercer, primer&lt;/em&gt; y derivados no llevan la desinencia -o (por ej. &lt;em&gt;veintiuno, uno, primero&lt;/em&gt;) cuando anteceden al substantivo masculino con el que concuerdan: &lt;em&gt;veintiuno casos&lt;/em&gt; es incorrecto. En las expresiones con &lt;em&gt;por ciento&lt;/em&gt; sí que necesitan la desinencia: &lt;em&gt;el uno o veintiuno por ciento&lt;/em&gt; es correcto.
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 3</label>
+    <label_code>CorrNoConcordUnL</label_code>
+    <start_offset>321</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>tercero puesto</word>
+  </annotation>
+  <score>
+    <score_gram>0</score_gram>
+    <score_lex>8.33333333333333</score_lex>
+    <score_total>4.16666666666667</score_total>
+  </score>
+  <statistics>
+    <forms>36</forms>
+    <grammar_errors>7</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>60</tokens>
+  </statistics>
+  <text>
+El numero de personas. 
+María ha ocupado la ultima plaza.
+No me gusta beber la agua caliente.
+La arte moderna es la que más me gusta.
+La águila me ha picado. 
+He ahorrado veintiún pesetas esta semana.
+He ahorrado cincuenta y una mil pesetas esta semana.
+He ahorrado veintiuna millón de pesetas esta semana.
+He ocupado el tercero puesto de la fila.
+
+</text>
+</avalingua>

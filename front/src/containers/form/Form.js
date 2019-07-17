@@ -333,21 +333,6 @@
         }
       }
     }
-    editorDeRegras = (state) => {
-      if(state.length !== 0){
-        return{
-          transform: "translate3d(0, -70%, 0)",
-          color: "#036",
-          opacity: "0.8"
-        }
-        }else{
-          return{
-            position: "absolute",
-            transition: "all 200ms",
-            opacity: "0.5"
-          }
-        }
-      }
       
     avalHolder = (avalHolderText) => {
     }
@@ -384,7 +369,7 @@
              <div className="text-popup" style={this.stylePopText()}>
                <div className="vazio-wrap"style={this.vazio()}>
                  <div className="text-square">
-                  <label htmlFor="form-nomer" style={this.editorDeRegras(this.state.seePopText)}
+                  <label htmlFor="form-nomer" style={this.props.editorDeRegras(this.state.seePopText)}
                     className="floating-labelo">texto para {this.state.setTag[this.state.setTag.length-1]}</label>
                   <input type="text" id="form-popup" onKeyPress={e => {
                     if (e.key === 'Enter') {
@@ -393,7 +378,7 @@
                   }} 
                   onChange={this.handleTextPop} value={this.state.textPop} className="aval-formin-pop"/>
                 </div>
-                <div className="check-button" onClick={(e)=>this.hidePopText(document.getElementById("form-popup").value)}><i class="fas fa-2x fa-check"></i>
+                <div className="check-button" onClick={(e)=>this.hidePopText(document.getElementById("form-popup").value)}><i className="fas fa-2x fa-check"></i>
                 </div>
               </div>
              </div>
@@ -435,12 +420,12 @@
           </div>
           <div className="form-container">
               <div className="aval-dep-fblock" style={{gridRow: "1",  width:"100%", marginTop:"1rem"}}>
-                  <label htmlFor="form-nomer" style={this.editorDeRegras(this.state.AVAL)}className="floating-label">Nome da regra</label>
+                  <label htmlFor="form-nomer" style={this.props.editorDeRegras(this.state.AVAL)}className="floating-label">Nome da regra</label>
                   <input type="text" id="form-nomer" onChange={this.handleTitle} value={this.state.AVAL} className="aval-formin"/>
                 </div>
               <div className="aval-dep-fblock-construtor" style={{gridRow: "2"}}>
               <div className="corrWarn-text" style={{gridRow: "2"}}>
-                <label htmlFor="aval-formin-cw" style={this.editorDeRegras(this.state.cwText)} className="floating-label">Nome da Corr ou Warning</label>
+                <label htmlFor="aval-formin-cw" style={this.props.editorDeRegras(this.state.cwText)} className="floating-label">Nome da Corr ou Warning</label>
                 <input className="aval-formin-pop" id="aval-formin-cw" onChange={this.handleCw}></input><br/>
               </div>
                 <div className="corrWarn-block"style={{gridRow: "1"}}>
@@ -463,7 +448,7 @@
               </div>
               <div className="aval-dep-fblock-construtor" style={{gridRow: "4", width:"100%"}}>
               <div className="aval-dep-fblock" style={{gridRow: "1"}}>
-                <label htmlFor="aval-formin-X" style={this.editorDeRegras(this.state.xtrasText)} className="floating-labelo">Texto Inherit|Recursivity|Add</label>
+                <label htmlFor="aval-formin-X" style={this.props.editorDeRegras(this.state.xtrasText)} className="floating-labelo">Texto Inherit|Recursivity|Add</label>
                 <input className="aval-formin-pop" id="aval-formin-X" onChange={this.handleX}></input><br/>
                 {this.state.Extras.map((x) => {
                       return(
@@ -477,8 +462,8 @@
                     })}
               </div>
                 <div className="construtor-text" style={{gridRow: "2"}}>
-                  <label htmlFor="form-regra" style={this.editorDeRegras(this.state.userInput)} className="floating-label">Editor</label>
-                  <textarea className="aval-formin" id="form-regra" onChange={this.handleChange} value={this.state.userInput}></textarea>
+                  <label htmlFor="form-regra" style={this.props.editorDeRegras(this.state.userInput)} className="floating-label">Editor</label>
+                <textarea className="aval-formin" id="form-regra" onChange={this.handleChange} value={this.state.userInput}></textarea>
                 </div>
               </div>
               <div className="aval-dep-fblock" style={{gridRow: "5", width:"100%", textAlign:"left"}}>

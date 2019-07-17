@@ -1,0 +1,10 @@
+REGRA	FRASE
+##AVAL el numero -> el número	El numero de personas. 
+##AVAL el numero -> el número	María ha ocupado la ultima plaza.
+#AVAL: regras concordancia especificas: una/la agua, la águila, la arte -> un agua, un águila, el arte	No me gusta beber la agua caliente.
+#AVAL: regras concordancia especificas: una/la agua, la águila, la arte -> un agua, un águila, el arte	La arte moderna es la que más me gusta.
+#AVAL: regras concordancia especificas: una/la agua, la águila, la arte -> un agua, un águila, el arte	La águila me ha picado. 
+#AVAL:Regra de concordancia com numerais: veintiún pesetas -> veitiuna pesetas	He ahorrado veintiún pesetas esta semana.
+#AVAL:Regra de concordancia com numerais: veintiún pesetas -> veitiuna pesetas	He ahorrado cincuenta y una mil pesetas esta semana.
+#AVAL:Regra de concordancia com numerais: veintiún pesetas -> veitiuna pesetas	He ahorrado veintiuna millón de pesetas esta semana.
+#AVAL:Regra de concordancia com numerais: veintiún pesetas -> veitiuna pesetas	He ocupado el tercero puesto de la fila.
