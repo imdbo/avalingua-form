@@ -41,6 +41,7 @@ export default class Settings extends Component {
                 </div>
                 <div className="settings-box"style={{girdRow:"3"}}>
                 <label htmlFor="logs"
+                //TODO: adicionar fetch para tomar os dados do csv online
                     className="floating-labelb"> Path do .csv standard </label>
                     <input id="logs" className="aval-formin" type="text" value={this.props.logDir}/>
                     <button id="logDir" className="formin-wide" onClick={(e)=> this.readPath(document.getElementById("exe"), e.target.id)}>modificar</button>

@@ -8,3 +8,199 @@ REGRA	FRASE
 #AVAL:Regra de concordancia com numerais: veintiún pesetas -> veitiuna pesetas	He ahorrado cincuenta y una mil pesetas esta semana.
 #AVAL:Regra de concordancia com numerais: veintiún pesetas -> veitiuna pesetas	He ahorrado veintiuna millón de pesetas esta semana.
 #AVAL:Regra de concordancia com numerais: veintiún pesetas -> veitiuna pesetas	He ocupado el tercero puesto de la fila.
+#AVAL: regras concordancia gerais DET-NOUN (não se tomam em conta os nomes com género comum: NCC)	El pequeña cuarto.
+#AVAL: regras concordancia gerais DET-NOUN (não se tomam em conta os nomes com género comum: NCC)	La pequeño habitación. 
+#AVAL: regras concordancia sujeito verbo 	Yo haces los deberes
+#AVAL: regras concordancia sujeito verbo 	Yo hace los deberes.
+#AVAL: regras concordancia sujeito verbo 	Yo hacemos los deberes.
+#AVAL: regras concordancia sujeito verbo 	Vosotros hago la cama.
+#AVAL: regras concordancia sujeito verbo 	 Vosotros haces la cama. 
+##AVAL: regra A PARTE / APARTE: de parte aparte -> de parte a parte ; aparte alguna -> a parte alguna   	Cruzó la ciudad de parte aparte.
+##AVAL: regra A PARTE / APARTE: de parte aparte -> de parte a parte ; aparte alguna -> a parte alguna	Este problema no nos llevará aparte alguna. 
+##AVAL: regra APARTE/A PARTE: a parte de ser idiota -> aparte de ser idiota	A parte de ser pesado, eres idiota.
+##AVAL: regra APARTE/A PARTE: a parte de ser idiota -> aparte de ser idiota	Necesito un a parte en mi vida.
+##AVAL: regra APARTE/A PARTE: a parte de ser idiota -> aparte de ser idiota	Este chico es un caso a parte.
+##AVAL: regra QUERELLARSE A -> QUERELLARSE CONTRA	La asociación de vecinos se querellará a la oficina de empleo.
+##AVAL: regra VELAR PARA -> VELAR POR	María vela incansablemente para su tía.
+AVAL: regra CONLLEVAR A -> CONLLEVAR	La separación conlleva a un divorcio.
+##AVAL: regra DISCREPA CON -> DISCREPA DE	Isabel discrepa con lo que has dicho.
+##AVAL: regra DISCREPA CON -> DISCREPA DE	Isabel discrepa con fuerza con lo que has dicho. 
+##AVAL: regra A COMIDO -> HA COMIDO	Hoy emos jugado al baloncesto en el colegio. 
+##AVAL: regra A COMIDO -> HA COMIDO	Hoy a comido lentejas. 
+##AVAL: regra TU -> TÚ (diante de verbo ou final de frase)	Tu te comes todas las manzanas.
+##AVAL: regra TU -> TÚ (diante de verbo ou final de frase)	Tu haces la cama. 
+##AVAL: regra TU -> TÚ (diante de verbo ou final de frase)	A mí no me importa lo que quieras tu. 
+##AVAL: regra EL -> ÉL (diante de verbo ou final de frase)	El se casa mañana.
+##AVAL: regra EL -> ÉL (diante de verbo ou final de frase)	He traído pasteles para el. 
+##AVAL: regra MI -> MÍ (pronome tónico)	A mi me gusta el rojo.
+##AVAL: regra MI -> MÍ (pronome tónico)	Para mi no es así. 
+##AVAL: regra SE -> SÉ (diante de lo/yo: lo_sé, yo_se)	No se cómo resolver el ejercicio.
+##AVAL: regra SE -> SÉ (diante de lo/yo: lo_sé, yo_se)	Yo se lo difícil que es.
+##AVAL: regra SE -> SÉ (diante de lo/yo: lo_sé, yo_se)	Yo no se si podré hacerlo. 
+##AVAL: regra HABER QUE/QUÉ/SI -> A VER QUE/QUÉ/SI	Haber qué se puede hacer.
+##AVAL: regra Y ITALIA/HIJOS -> E ITALIA/HIJOS excepto com ditongos ('y hierba') ##falta considear exepção com números romanos: "y IV"	Madres y hijas tienen que acudir a la reunión
+##AVAL: regra Y ITALIA/HIJOS -> E ITALIA/HIJOS excepto com ditongos ('y hierba') ##falta considear exepção com números romanos: "y IV"	Tienes que trabajar duro y hincar los codos.
+##AVAL: regra Y ITALIA/HIJOS -> E ITALIA/HIJOS excepto com ditongos ('y hierba') ##falta considear exepção com números romanos: "y IV"	Este verano hemos visitado Argentina y Italia.
+##AVAL: regra Y ITALIA/HIJOS -> E ITALIA/HIJOS excepto com ditongos ('y hierba') ##falta considear exepção com números romanos: "y IV"	Este verano hemos visitado Argentina y Islandia.
+##AVAL: regra O OJOS/HONDURAS -> U OJOS/HONDURAS	Tienes que comprobar cómo funciona en manos o ojos.
+##AVAL: regra O OJOS/HONDURAS -> U OJOS/HONDURAS	Tienes que comprobar cómo funciona en manos o orejas.
+##AVAL: regra O OJOS/HONDURAS, U OJOS/HONDURAS	Este verano, iremos a Berlín o Holanda.
+##AVAL: regra AMBAS (ambas las ciudades -> ambas ciudades ; las ambas manos -> ambas manos)	Ambas las ciudades son españolas.
+##AVAL: regra AMBAS (ambas las ciudades -> ambas ciudades ; las ambas manos -> ambas manos)	Ya terminamos ambos los proyectos. 
+##AVAL: regra AMBAS (ambas las ciudades -> ambas ciudades ; las ambas manos -> ambas manos)	  Los ambos proyectos son difíciles. 
+##AVAL: regra AMBAS (ambas las ciudades -> ambas ciudades ; las ambas manos -> ambas manos)	Recórtalo por ambos dos extremos. 
+##AVAL: regra MINHA (detrás mía -> detrás de mi)	Marcos vive bastante cerca mía. 
+##AVAL: regra MINHA (detrás mía -> detrás de mi)	Viene detrás mía un gato negro. 
+##AVAL: regra MINHA (detrás mía -> detrás de mi)	Hay dos hombres enfrente mía. 
+##AVAL: regra ESTARNOSER (Pedro es cansado -> Pedro está cansado)	Pedro era cansado.
+##AVAL: regra ESTARNOSER (Pedro es cansado -> Pedro está cansado)	Eso es bien.
+##AVAL: regra ESTARNOSER (Pedro es cansado -> Pedro está cansado)	Esta mañana somos en Santiago.
+##AVAL: regra SERNOESTAR (está Vigo -> es Vigo; está Pedro -> es Pedro)	La ciudad donde nací está Vigo.
+##AVAL: regra SERNOESTAR (está Vigo -> es Vigo; está Pedro -> es Pedro)	Mi hermana está Lucía.
+##AVAL: regra SERNOESTAR (está Vigo -> es Vigo; está Pedro -> es Pedro)	Mi hermana Lucía está de Pontevedra.
+##AVAL: regra SERNOESTAR (está Vigo -> es Vigo; está Pedro -> es Pedro)	El bolso está de Paco.
+##AVAL: regra SICOND (si me gustaría -> si me gustase)	Me iría de vacaciones si podría.
+##AVAL: regra SICOND (si me gustaría -> si me gustase)	Nos comeríamos el pimiento si nos gustaría tanto como a ti.
+##AVAL: regra SUPER (super grande -> supergrande)	El vestido que te compraste es súper precioso.
+##AVAL: regra SUPER (super grande -> supergrande)	El programa funciona super lentamente.
+##AVAL: regra SIN FIN DE (un sin fin de barbaridades -> un sinfín)	Hoy en día las estudiantes tienen un sin fin de oportunidades que no aprovechan.
+##AVAL: regra SINFIN (crecimiento sinfín -> crecimiento sin fin)	Vuestra relación es como una historia sinfín.
+##AVAL: regra CONTRA MÁS (contra más lo repitas, peor -> cuanto más lo repitas, peor)	Contra más lo hagas, mejor te saldrá.
+##AVAL: regra CUANTO MÁS NOUN (cuanto más información, mejor -> cuanta más información, mejor)	Cuanto más leche, más líquido será.
+##AVAL: regra ONCEAVO (onceavo disco -> decimoprimer disco)	Sés ha sacado a la venta su onceavo disco.
+##AVAL: regra ONCEAVO (onceavo disco -> decimoprimer disco)	Mi hermano se ha comido el doceavo pastel.
+##AVAL: regra DAR ABASTO (no da a basto -> no da abasto)	Mi hija no da a basto con tantos deberes.
+##AVAL: regra TITULOS: el Rey Felipe ->  el rey Felipe  	El Príncipe Carlos vive en León.
+##AVAL: regra EX PAISES: ex Yugoslavia ->  antigua Yugoslavia 	La ex Checoslovaquia fue invadida por la Alemania nazi. 
+##AVAL: regra EX PAISES: ex Yugoslavia -> antigua Yugoslavia	Él vivía en el territorio de la ex Unión Soviética.
+##AVAL: regra SOBRE TODO: sobretodo -> sobre todo	Todos me caéis mal, sobretodo tú.
+##AVAL: regra SOBRE TODO: sobretodo -> sobre todo	Lo más importante es, sobretodo, saber actuar en caso de emergencia. 
+#AVAL: regra cerca/lejos a -> de	La escuela está bastante cerca a mi casa.
+#AVAL: regra cerca/lejos a -> de	Tu madre vive bastante lejos a ti.
+#AVAL: regra a junto -> junto a	Mañana tengo que ir a junto mi tía.
+#AVAL: regra a junto -> junto a	Mañana tengo que ir a junto de mi tía.
+##AVAL: regra por cuanto, no por cuanto que	El hecho no debía haberse producido por cuanto que España no tiene acuerdo con Marruecos
+##AVAL: Relacionado a -> con	El ejercicio está relacionado al temario de clase.
+##AVAL aveces -> a veces	Aveces tengo pesadillas.
+##AVAL aveces -> a veces	Tú no me entiendes aveces.
+##AVAL: hay a veces que > hay veces que	Hay a veces en que siento ganas de matarte.
+##AVAL mucho caro -> muy caro	Los pendientes son mucho caros.
+##AVAL muy rapidíssimo -> erro	El tren iba muy rapidísimo.
+##AVAL muy peor; muy después ; más antes -> erro	Esta versión es menos peor que la anterior.
+##AVAL gracias para -> gracias por	Gracias para ayudarme todos estos días.
+##AVAL gracias para -> gracias por	Muchísimas gracias para la gran cena de ayer.
+##AVAL vivir a Lisboa -> vivir en Lisboa	Marcos vive a Lugo.
+##AVAL vivir a Lisboa -> vivir en Lisboa	He vivido a Polonia hasta los diez años.
+##AVAL estamos en sábado-> estamos a sábado	Ya estamos en viernes.
+##AVAL es por adultos -> es para adultos ; #falta por fazer nomes de pessoa/organizaçom: es por Alejandra -> es para Alejandra ##excepções: es por celos:	Este juego no es por niños pequeños. 
+##AVAL es por adultos -> es para adultos ; #falta por fazer nomes de pessoa/organizaçom: es por Alejandra -> es para Alejandra ##excepções: es por celos:	El festival es por la semana que viene.
+##AVAL es por adultos -> es para adultos ; #falta por fazer nomes de pessoa/organizaçom: es por Alejandra -> es para Alejandra ##excepções: es por celos:	El festival es por la semana próxima.
+##AVAL es por adultos -> es para adultos ; #falta por fazer nomes de pessoa/organizaçom: es por Alejandra -> es para Alejandra ##excepções: es por celos:	El bocadillo es por mañana.
+##AVAL es para hambre -> es por hambre 	Si se comporta así es para hambre.
+##AVAL: regra IR/VOLVER DE BICI -> ir en bici	Fueron de bici hasta Santiago.
+##AVAL: regra IR/VOLVER DE BICI -> ir en bici	Volvieron de Francia de coche.
+#AVAL: regra datas: 15 de octubre en 2011 -> 15 de octubre del 2011	Hoy estamos a 16 de marzo en 2016.
+#AVAL: regra datas: 15 de octubre en 2011 -> 15 de octubre del 2011	Hoy estamos a 16 a julio en 2016.
+##AVAL tiene de venir -> tiene que venir	Marcos tiene de hacer estos deberes.
+##AVAL tiene de venir -> tiene que venir	Mis padres tienen de comprar la cena.
+##AVAL Jugar tenis -> jugar al tenis	Miguel juega fútbol todos los domingos. 
+##AVAL Jugar tenis -> jugar al tenis	Paula jugaba bádminton cuando era pequeña.
+##AVAL Tocar flauta -> tocar la flauta	Yo toco flauta. 
+##AVAL Me duele mi pierna -> me duele la pierna	Me cortaron mi brazo a causa de un tumor. 
+##AVAL Me duele mi pierna -> me duele la pierna	¿Te duele tu cabeza? 
+##AVAL Me duele mi pierna -> me duele la pierna	La tienen que operar de su brazo.
+##AVAL: como ti -> como tú	Yo soy tan rápida como ti.
+##AVAL: hacen años que -> hace años que	Ya hacen muchos años que no nos vemos. 
+##AVAL: hacen años que -> hace años que	Hacen varios años estábamos en la playa de Samil.
+##AVAL: de sobras -> de sobra	Ese dinero le da de sobras para comer todo el mes.
+##AVAL: la mía casa -> mi casa	La mía casa es bastante grande. 
+##AVAL: la mía casa -> mi casa	 El mío coche es de color azul. 
+##AVAL: la mía casa -> mi casa	Los tuyos zapatos son demasiado calientes. 
+##AVAL: esta mañana fui a casa -> he ido	Esta tarde fui a casa para descansar un rato.
+##AVAL: bueno hombre -> buen hombre	Hay que reconocer que Fidel es un bueno hombre. 
+##AVAL: bueno hombre -> buen hombre	Esta tarde tenemos la fiesta de Santo Agustín.
+##AVAL: bueno hombre -> buen hombre	Tu hija es verdaderamente una grande mujer. 
+##AVAL SUBJ y no IND. puede ser que vienes -> que vengas (antes das perífrases: puede ser....)	Puede ser que haces los deberes mañana. 
+##AVAL SUBJ y no IND. puede ser que vienes -> que vengas (antes das perífrases: puede ser....)	Puede ser que venimos esta noche. 
+##AVAL: HAYA y no HALLA. halla/aya tenido -> haya tenido (excepçom: "se halla representado/constituido...)	No tiene nada que ver con que halla tenido vacaciones. 
+##AVAL: HAYA y no HALLA. halla/aya tenido -> haya tenido (excepçom: "se halla representado/constituido...)	No tiene nada que ver con que hallas trabajado el martes. 
+##AVAL: HAYA y no HALLA. halla/aya tenido -> haya tenido (excepçom: "se halla representado/constituido...)	No tiene nada que ver con que halla escrito un libro.
+##AVAL: HAYA y no HALLA. halla/aya tenido -> haya tenido (excepçom: "se halla representado/constituido...)	No tiene nada que ver con que halláis encontrado los huesos. 
+##AVAL: HAYA y no HALLA. halla/aya tenido -> haya tenido (excepçom: "se halla representado/constituido...)	No tiene nada que ver con que hallan entrado por la mañana. 
+##AVAL: regra Habían impersonal (hemos habido-> ha habido; han habido -> ha habido)	Has habido un accidente esta mañana.
+##AVAL: regra Habían impersonal (hemos habido-> ha habido; han habido -> ha habido)	He habido un accidente esta mañana. 
+##AVAL: regra Habían impersonal (hemos habido-> ha habido; han habido -> ha habido)	Hemos habido un accidente esta mañana.
+##AVAL: regra Habían impersonal (hemos habido-> ha habido; han habido -> ha habido)	Habéis habido un accidente esta mañana. 
+##AVAL: regra Habían impersonal (hemos habido-> ha habido; han habido -> ha habido)	Han habido un accidente esta mañana.
+##AVAL: HALLAR y no HAYAR. hayé algo en el campo-> hallé algo en el campo	Hayamos algo en el campo. 
+##AVAL: HALLAR y no HAYAR. hayé algo en el campo-> hallé algo en el campo	Hayaron algo en el campo. 
+##AVAL: INTERROGATIVAS INDIRECTAS: no sé para que -> no sé para qué	No entiendo que es lo que pasa. 
+##AVAL: INTERROGATIVAS INDIRECTAS: no sé para que -> no sé para qué	No sé cuando nos vamos. 
+##AVAL: INTERROGATIVAS INDIRECTAS: no sé para que -> no sé para qué	No sé como hacer el ejercicio. 
+##AVAL: INTERROGATIVAS INDIRECTAS: no sé para que -> no sé para qué	Nos preguntamos donde podemos comer. 
+##AVAL: INTERROGATIVAS INDIRECTAS: no sé para que -> no sé para qué	Me pregunto cual debo hacer primero. 
+##AVAL: INTERROGATIVAS INDIRECTAS: no sé para que -> no sé para qué	Os preguntáis que decir en estas situaciones.
+##AVAL: regra QUEÍSMO COM DE: ENTERARSE QUE -> ENTERARSE DE QUE	Estoy convencida que puedes dar más de ti.
+##AVAL: regra QUEÍSMO COM DE: ENTERARSE QUE -> ENTERARSE DE QUE	Estaba completamente segura que lo lograríamos hasta que llegaste tú.
+##AVAL: regra QUEÍSMO COM DE: ENTERARSE QUE -> ENTERARSE DE QUE	Acabamos de caer en la cuenta que no tenemos suficiente dinero.
+##AVAL: regra QUEÍSMO COM DE: ENTERARSE QUE -> ENTERARSE DE QUE	Se han dado cuenta que no queríamos participar en el juego.
+##AVAL: regra QUEÍSMO COM DE: ENTERARSE QUE -> ENTERARSE DE QUE	Siempre tenéis la impresión que va a salir mal.
+##AVAL: regra QUEÍSMO COM DE: ENTERARSE QUE -> ENTERARSE DE QUE	¿Tienes miedo que algo salga mal?
+##AVAL: regra QUEÍSMO COM DE: ENTERARSE QUE -> ENTERARSE DE QUE	Se enteró que había ganado la lotería.
+##AVAL: regra QUEISMO COM EN: INSISTIR QUE ->  INSISTIR EN QUE  	Ana insistió bastante que fuésemos a su casa.
+##AVAL: regra QUEISMO COM EN: INSISTIR QUE ->  INSISTIR EN QUE  	Raquel confía que todo salga bien. 
+##AVAL: regra QUEISMO COM EN: INSISTIR QUE ->  INSISTIR EN QUE  	Después de la cena se fijó que le faltaba el anillo.
+##AVAL: regra DEQUEISMO: SOÑAR DE QUE -> SOÑAR QUE	Sara soñó de que se casaba con Diego.
+##AVAL: regra DEQUEISMO: SOÑAR DE QUE -> SOÑAR QUE	Mariña considera de que todo salió mal.
+##AVAL: regra DEQUEISMO: SOÑAR DE QUE -> SOÑAR QUE	Me alegré mucho que Anxo aprobara el examen.
+##AVAL: regra DEQUEISMO: SOÑAR DE QUE -> SOÑAR QUE	Me olvidé que venías hoy.
+##AVAL: regra DEQUEISMO: SOÑAR DE QUE -> SOÑAR QUE	Me preocupa de que no llegues a tiempo.
+##AVAL: regra DEQUEISMO: SOÑAR DE QUE -> SOÑAR QUE	Le gusta de que ayudemos a los demás.
+##AVAL: regra DEQUEISMO: SOÑAR DE QUE -> SOÑAR QUE	Es necesario de que sigamos los pasos. 
+##AVAL: regra DEQUEISMO: SOÑAR DE QUE -> SOÑAR QUE	Es posible de que no lleguéis a tiempo.
+##AVAL: regra SiNo (sino+verbo = si no / sino comía -> si no)	Su padre le dijo que sino se terminaba el puré no podría jugar.
+##AVAL: regra Sino2 (no es eso, si no que -> sino)	No quiere tomarse un agua, si no que prefiere un zumo de naranja.
+##AVAL: regra Sino2 (no es eso, si no que -> sino)	No lo hago porque me obliguen, si no porque me gusta.
+##AVAL: regra Sino2 (no es eso, si no que -> sino)	Además, estos préstamos no pueden considerarse reales y auténticos, si no más bien potenciales y remotos
+##AVAL: regra Sino2 (no es eso, si no que -> sino)	No solo se trata de cumplir los requisitos, si no también de trabajar duro. 
+##AVAL: regra Laísmo (la dije -> le dije)	No la hice caso. 
+##AVAL: regra Laísmo (la dije -> le dije)	La conté un secreto.
+##AVAL: regra Laísmo (la dije -> le dije)	La dije los aspectos más relevantes.
+##AVAL: regra Laísmo (la dije -> le dije)	La di mi número de teléfono.
+##AVAL: regra Habían impersonal (habían muchos niños-> había muchos niños)	Habían muchas mujeres en la manifestación.
+##AVAL: regra Habían impersonal (habían muchos niños-> había muchos niños)	Habíamos muchas mujeres en la manifestación.
+##AVAL: regra habemos que hacer -> hay que hacer	Habemos que hacer los deberes para mañana.
+##AVAL: regra habemos que hacer -> hay que hacer	Hemos que hacer los deberes para mañana.
+##AVAL: regra AUN: ni aún-> ni aun  	Le indiqué todos los pasos y ni aún así es capaz de resolverlo.
+##AVAL: regra AUN: ni aún-> ni aun  	Se equivoca aún cuando le estamos ayudando.
+##AVAL: ayer he ido a casa -> ayer fui a casa	Ayer he hecho la compra del mes.
+##AVAL: ayer he ido a casa -> ayer fui a casa	He comprado manzanas ayer.
+##AVAL: ayer he ido a casa -> ayer fui a casa	Anoche hemos fregado los cacharros. 
+##AVAL: ayer he ido a casa -> ayer fui a casa	Hemos cenado pizza anoche.
+##AVAL: a mí gusta -> a mí me gusta	A mí gustan las manzanas asadas. 
+##AVAL: a mí gusta -> a mí me gusta	A vosotros gustan las manzanas asadas.
+#AVAL: regras concordancia sujeito verbo	Yo haces las camas.
+#AVAL: regras concordancia sujeito verbo	Tú bebo una cerveza.
+#AVAL: regras concordancia sujeito verbo	Él comen fresas con nata.
+#AVAL: regras concordancia sujeito verbo	Vosotros tienes hambre.
+##AVAL SUBJ y no IND (QUIERO QUE VENGAS) no te permito que hablas así -> no te permito que hables así	No permito que se toman su tiempo.
+##AVAL SUBJ y no IND (QUIERO QUE VENGAS) no te permito que hablas así -> no te permito que hables así	Me da vergüenza que vienes conmigo.
+##AVAL SUBJ y no IND (QUIERO QUE VENGAS) no te permito que hablas así -> no te permito que hables así	Da gusto que trabajan tanto.
+##AVAL SUBJ y no IND (QUIERO QUE VENGAS) no te permito que hablas así -> no te permito que hables así	No hay nada que me interesa.
+##AVAL SUBJ y no IND (Sustantivos) la necesidad de que vienes -> la necesidad de que vengas	Siente la necesidad de que llegas.
+##AVAL SUBJ y no IND (Sustantivos) la necesidad de que vienes -> la necesidad de que vengas	Tenemos la esperanza de que ganas el concurso.
+AdjnL: ADJ|CONJ<coord:adj> [ADV]? NOUN	El pequeña caballo.
+AdjnL: ADJ|CONJ<coord:adj> [ADV]? NOUN	 El miel está en el bote. 
+AdjnL: ADJ|CONJ<coord:adj> [ADV]? NOUN	El harina está en la caja.
+AdjnL: ADJ|CONJ<coord:adj> [ADV]? NOUN	La problema se hace cada vez más grande.
+##AVAL: regra IR/VOLVER COMER -> ir a comer (tomar em conta que 'ir' se lematiza como 'ser' com as formas ambiguas)	Juan fue a casa comer.
+##AVAL: regra IR/VOLVER COMER -> ir a comer (tomar em conta que 'ir' se lematiza como 'ser' com as formas ambiguas)	Marcos vino por el instituto preguntar varias dudas.
+##AVAL: regra IR/VOLVER COMER -> ir a comer (tomar em conta que 'ir' se lematiza como 'ser' com as formas ambiguas)	Marcos vino con su familia pasar unos días.
+##AVAL: regra IR/VOLVER COMER -> ir a comer (tomar em conta que 'ir' se lematiza como 'ser' com as formas ambiguas)	Marcos fue con su familia de Valencia buscar un apartamento para veranear. 
+##AVAL: regra desencadenar en -> desembocar en / originar	La fiesta desencadenó en tremendas consecuencias para la familia.
+##AVAL: regras de concordancia com gustar (hai que ter em conta as constr. coordenadas: me gustan el mar y la montaña)	Me gusta el mar y la montaña.
+##AVAL: regras de concordancia com gustar (hai que ter em conta as constr. coordenadas: me gustan el mar y la montaña)	Nos gustan la flor roja.
+##AVAL: regras de concordancia com gustar (hai que ter em conta as constr. coordenadas: me gustan el mar y la montaña)	Te gusta las naranjas.
+##AVAL WARNING: gusta de algo -> me gusta algo	Ellos gustan de los animales. 
+##AVAL: regra Laísmo (la dije -> le dije)	La compro unas flores.
+##AVAL: regra Laísmo (la dije -> le dije)	No la hace mucho caso.

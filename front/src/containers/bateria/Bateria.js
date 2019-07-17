@@ -9,6 +9,8 @@ var fs = window.require('fs');
 var date = new Date();
 var moment = window.require('moment');
 var lineByLine = window.require('n-readlines');
+var gitDiff = require('git-diff')
+
 
 function sleep (time) {
   return new Promise((resolve) => setTimeout(resolve, time));
@@ -26,7 +28,8 @@ export default class Bateria extends Component {
       errout: '',
       parsed: '',
       xmlout: '',
-      annotations: []
+      annotations: [],
+      visibleLog: ["vazio"],
     }
   }
   //bateria de textos. Comparar log duma versao coa nova.
@@ -42,8 +45,6 @@ export default class Bateria extends Component {
     });
   }
   waitFor = (ms) => new Promise(r => setTimeout(r, ms));
-  //COMENTAR NATALIA: frases con algun tipo de erro
-  //também texto sem erros
   initParsing = (txt, opt) => {
     //TODO: Add different log for standard test.
     let result;
@@ -54,10 +55,22 @@ export default class Bateria extends Component {
       console.warn("windows not supported")
     }else if(this.props.sys === "Linux"){
       if(txt instanceof Array){
+        if(opt !== "bateria"){
+          txt.map((f) => {
+            return(
+              this.setState(previousState =>({
+                visibleLog: [...this.state.visibleLog, f]
+              }))
+            )
+          })
+        }
         console.log('array')
         command = 'echo "'+ txt.join("\n") + '" ' + '|' +  this.props.pathToExe+ ' ' + this.props.lang
         console.log(command)
       }else{
+        this.setState(previousState =>({
+          visibleLog: [...this.state.visibleLog, txt]
+        }))
         console.log('no array')
         command = 'echo "'+ txt + '" ' + '|' +  this.props.pathToExe+ ' ' + this.props.lang
       }
@@ -93,7 +106,7 @@ export default class Bateria extends Component {
           console.log(err)
      }
     }
-    const log = this.state.jsout
+    const log = this.state.xmlout
     fs.writeFileSync(lastLog, log, 'utf-8')
     let td = new TextDecoder()
     logs.map((v, k)=>{
@@ -106,8 +119,8 @@ export default class Bateria extends Component {
         ["log"+k]: lines
       })
     })
-    const log0 = new String(this.state.log0.join("|"))
-    const log1 = new String(this.state.log1.join("|"))
+    const log0 = this.state.log0
+    const log1 = this.state.log1
     log0 == log1 ? console.log("good") : console.log("wtf")
     for(let i = 0; i < this.state.log0.length; i++){
       let str0 = JSON.stringify(this.state.log0[i]);
@@ -121,15 +134,27 @@ export default class Bateria extends Component {
     }*/
     
     const currLog = this.state.xmlout;
-    let td = new TextDecoder();
-    fs.writeFileSync(lastLog, this.state.xmlout, 'utf-8')
     const standardLog = fs.readFileSync(this.props.logStandard, 'utf-8')
+    fs.writeFileSync(lastLog, this.state.xmlout, 'utf-8')
     //it works
     standardLog === currLog ? console.log("same") : console.log("idk")
-    const diff = Diff.diffChars(currLog, standardLog);
-    for(let d of diff){
-      console.log(d)
+    //settings gitDiff
+    var options = {
+      color: true,      // Add color to the git diff returned?
+      flags: null,       // A space separated string of git diff flags from https://git-scm.com/docs/git-diff#_options
+      forceFake: false,  // Do not try and get a real git diff, just get me a fake? Faster but may not be 100% accurate
+      noHeaders: false,  // Remove the ugly @@ -1,3 +1,3 @@ header?
+      save: false,       // Remember the options for next time?
+      wordDiff: false    // Get a word diff instead of a line diff?
     }
+    let diff = gitDiff(currLog, standardLog, options);
+    console.log(diff)
+    if(diff === undefined){
+      diff = "bateria analisada com sucesso"
+    }
+    this.setState({
+      displayOutput: diff
+    })
   }
   runBateria = () => {
     let bateria;
@@ -178,33 +203,32 @@ export default class Bateria extends Component {
     return (
         <div className="bateria-wrapper">
             <div className="bateria-container-txt">
-            <textarea type="text" id="formB" style={{height: "80%"}} onChange={this.handleChange} value={this.state.input} className="aval-formin"/>
-            <button className="formin-wide" onClick={(e) => this.initParsing(this.state.formB)}>analisar texto</button>
-            </div>
-            <div className="bateria-output">
-            {/*annots.map((an, i) =>{
-              const clss  = xpath.select("class/text()", an)
-              const expl  = xpath.select("explanation/text()", an)
-              const label  = xpath.select("label/text()", an)
-              const labelC = xpath.select("label_code/text()", an)
-              const sug  = xpath.select("suggestion/text()", an)
-              const type  = xpath.select("type/text()", an)
-              const word = xpath.select("word/text()", an)
-              return(
-                console.log(annots.length),
-                <div key={annots[i]+"key"+i}>
-                  <div key={clss+"key"+i} className="an-expl">{clss.toString()}</div>
-                  <div key={expl+"key"+i} className="an-expl">{expl.toString()}</div>
-                  <div key={label+"key"+i} className="an-expl">{label.toString()}</div>
-                  <div key={labelC+"keyC"+i} className="an-expl">{labelC.toString()}</div>
-                  <div key={sug+"key"+i} className="an-expl">{sug.toString()}</div>
-                  <div key={type+"key"+i} className="an-expl">{type.toString()}</div>
-                  <div key={word+"key"+i} className="an-expl">{word.toString()}</div>
-                </div>
-                )
-
-            })*/}
-            </div>
+              <textarea type="text" id="formB" style={{height: "80%"}} onChange={this.handleChange} value={this.state.input} className="aval-formin"/>
+              <button className="formin-wide" onClick={(e) => this.initParsing(this.state.formB)}>analisar texto</button>
+              </div>
+              <div className="bateria-output">
+              {this.state.displayOutput/*annots.map((an, i) =>{
+                const clss  = xpath.select("class/text()", an)
+                const expl  = xpath.select("explanation/text()", an)
+                const label  = xpath.select("label/text()", an)
+                const labelC = xpath.select("label_code/text()", an)
+                const sug  = xpath.select("suggestion/text()", an)
+                const type  = xpath.select("type/text()", an)
+                const word = xpath.select("word/text()", an)
+                return(
+                  console.log(annots.length),
+                  <div key={annots[i]+"key"+i}>
+                    <div key={clss+"key"+i} className="an-expl">{clss.toString()}</div>
+                    <div key={expl+"key"+i} className="an-expl">{expl.toString()}</div>
+                    <div key={label+"key"+i} className="an-expl">{label.toString()}</div>
+                    <div key={labelC+"keyC"+i} className="an-expl">{labelC.toString()}</div>
+                    <div key={sug+"key"+i} className="an-expl">{sug.toString()}</div>
+                    <div key={type+"key"+i} className="an-expl">{type.toString()}</div>
+                    <div key={word+"key"+i} className="an-expl">{word.toString()}</div>
+                  </div>
+                  )
+              })*/}
+              </div>
             <div className="bateria-history">
               <div className="history-menu">
                 <div className="header">
@@ -228,4 +252,22 @@ export default class Bateria extends Component {
                       type="text"
                       name="itemQuery"
                       value={this.state.itemQuery}
-                      on
+                      onChange={this.handleChange}
+                  />
+                </div>
+              </div>
+              <div className="historial-log">
+                {this.state.visibleLog.map((f)=>{
+                  console.log(this.state.visibleLog)
+                  return(
+                    <div className="queried-input">
+                      <button className="formin-wide">{f}</button>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+        </div>
+    )
+  }
+}

@@ -255,10 +255,14 @@ body{
 }
 .bateria-output{
 width: 100%;
+overflow: scroll;
 grid-row: 2;
 grid-column: 1;
   
   min-height: 100%;
+}
+.historial-log{
+  overflow: scroll;
 }
 .bateria-history{
   resize: both;
