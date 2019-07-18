@@ -40,17 +40,23 @@ export default class Bateria extends Component {
     const lastLog = './log/log'+date.getDate()+'-'+date.getMonth()+'-'+date.getFullYear()+'.txt'
     try{
       fs.readFile(lastLog, 'utf-8', (err, data)=> {
-        const logs = data;
+        const logs = new dom().parseFromString(data);
         if(err){
             alert(err);
             return;
         }
-        console.log(logs)
-        const frases = xpath.select("/avalingua/text",logs)
-        console.log(frases)
-        for(let f in frases){
+        console.log(logs);
+        let frases = logs.getElementsByTagName("text")[0].childNodes[0].textContent;
+        console.log(frases);
+        if(frases instanceof Array){
+          for(let f in frases){
+            this.setState({
+              visibleLog: [...this.state.visibleLog, f]
+            })
+          }
+        }else{
           this.setState({
-            visibleLog: [...this.state.visibleLog, f]
+            visibleLog: [...this.state.visibleLog, frases]
           })
         }
       })
@@ -68,7 +74,6 @@ export default class Bateria extends Component {
   }
   waitFor = (ms) => new Promise(r => setTimeout(r, ms));
   initParsing = (txt, opt) => {
-    //TODO: Add different log for standard test.
     let result;
     let xml;
     let command;
@@ -282,7 +287,7 @@ export default class Bateria extends Component {
                 {this.state.visibleLog.map((f, i)=>{
                   console.log(this.state.visibleLog)
                   return(
-                    <div key={"frase-"+f+"-"+"i"}className="queried-input">
+                    <div key={"frase-"+f+"-"+i}className="queried-input">
                       <button onClick={(e) =>this.initParsing(f)}className="formin-wide">{f}</button>
                     </div>
                   )

@@ -12,6 +12,7 @@ class App extends React.Component  {
   constructor(props){
     super(props);
     this.state = {
+      //TODO: modify paths to look for /log/xxx
       appOnDisplay: 'Bateria',
       pathToExe: '/home/sound/git/avalingua/bin/avalingua_exe.perl',
       lang: 'es',
