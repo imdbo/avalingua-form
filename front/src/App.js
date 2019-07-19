@@ -12,13 +12,16 @@ class App extends React.Component  {
   constructor(props){
     super(props);
     this.state = {
+      //TODO: create log with settings
+      //TODO: Allow logged sentences to be selected and removed/compare logs
       //TODO: modify paths to look for /log/xxx
+      //TODO: set path to url
       appOnDisplay: 'Bateria',
-      pathToExe: '/home/sound/git/avalingua/bin/avalingua_exe.perl',
+      pathToExe: '/home/imdbo/git/avalingua/bin/avalingua_exe.perl',
       lang: 'es',
-      logDir: '/home/sound/git/avatools/ERROS DETECTADOS - Sheet1.tsv',
+      logDir: '/home/imdbo/git/avalingua-form/ERROS DETECTADOS - Sheet1.tsv',
       sys: '',
-      logStandard: '/home/sound/git/avatools/front/bateria-standard-log.txt'
+      logStandard: '/home/imdbo/git/avalingua-form/front/bateria-standard-log.txt'
     }
   }
   componentDidMount() {

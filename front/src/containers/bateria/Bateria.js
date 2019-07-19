@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Output from  './Output';
 
 var Diff = require('diff');
 const child = window.require('child_process')
@@ -28,6 +29,7 @@ export default class Bateria extends Component {
       errout: '',
       parsed: '',
       xmlout: '',
+      jsout: {},
       annotations: [],
       visibleLog: [],
     }
@@ -40,29 +42,33 @@ export default class Bateria extends Component {
     const lastLog = './log/log'+date.getDate()+'-'+date.getMonth()+'-'+date.getFullYear()+'.txt'
     try{
       fs.readFile(lastLog, 'utf-8', (err, data)=> {
-        const logs = new dom().parseFromString(data);
-        if(err){
-            alert(err);
-            return;
-        }
-        console.log(logs);
-        let frases = logs.getElementsByTagName("text")[0].childNodes[0].textContent;
-        console.log(frases);
-        if(frases instanceof Array){
-          for(let f in frases){
-            this.setState({
-              visibleLog: [...this.state.visibleLog, f]
-            })
+        if(data !== undefined){
+          console.log("reading log")
+          const logs = new dom().parseFromString(data);
+          if(err){
+              alert(err);
+              return;
           }
-        }else{
-          this.setState({
-            visibleLog: [...this.state.visibleLog, frases]
-          })
-        }
-      })
-    }catch(error){
-      console.error(error)
-    }
+          console.log(logs);
+          let frases = logs.getElementsByTagName("text");
+            console.log(frases);
+            if(frases[1] !==  undefined){
+              for(let i=0; i< frases.length; i++){
+                console.log(frases[i])
+                this.setState({
+                  visibleLog: [...this.state.visibleLog, frases[i].childNodes[0].textContent]
+                })
+              }
+            }else{
+              this.setState({
+                visibleLog: [...this.state.visibleLog, frases]
+              })
+            }
+          }
+        })   
+      }catch(error){
+        console.error(error)
+      }
   }
   componentWillUnmount() {
     console.log(this.state.output)
@@ -104,11 +110,13 @@ export default class Bateria extends Component {
       child.exec(command, (err, stdout, stderr) => (
         console.log("\n----------------------------------------"),
         xml = new dom().parseFromString(stdout),
+        console.log(stdout),
         this.setState({
-          xmlout: stdout,
-          jsout: convert.xml2json(stdout, {compact: true, spaces: 4})
+          stdout: stdout,
+          xmlout: xml,
+          jsout: convert.xml2json(xml, {compact: true, spaces: 4})
         }),
-        console.log(this.state.jsout),
+        console.log(this.state.xmlout),
         opt === "bateria" ? (
           this.bateriaVergleich() )
           : 
@@ -160,11 +168,11 @@ export default class Bateria extends Component {
       }
     }*/
     
-    const currLog = this.state.xmlout;
+    const currLog = this.state.stdout;
     const standardLog = fs.readFileSync(this.props.logStandard, 'utf-8')
     fs.writeFileSync(lastLog, this.state.xmlout, 'utf-8')
     //it works
-    standardLog === currLog ? console.log("same") : console.log("idk")
+    standardLog === this.state.xmlout ? console.log("same") : console.log("idk")
     //settings gitDiff
     var options = {
       color: true,      // Add color to the git diff returned?
@@ -172,10 +180,10 @@ export default class Bateria extends Component {
       forceFake: false,  // Do not try and get a real git diff, just get me a fake? Faster but may not be 100% accurate
       noHeaders: false,  // Remove the ugly @@ -1,3 +1,3 @@ header?
       save: false,       // Remember the options for next time?
-      wordDiff: false    // Get a word diff instead of a line diff?
+      wordDiff: true    // Get a word diff instead of a line diff?
     }
     let diff = gitDiff(currLog, standardLog, options);
-    console.log(diff)
+    console.log('diffs: '+diff)
     if(diff === undefined){
       diff = "bateria analisada com sucesso"
     }
@@ -234,27 +242,9 @@ export default class Bateria extends Component {
               <button className="formin-wide" onClick={(e) => this.initParsing(this.state.formB)}>analisar texto</button>
               </div>
               <div className="bateria-output">
-              {this.state.displayOutput/*annots.map((an, i) =>{
-                const clss  = xpath.select("class/text()", an)
-                const expl  = xpath.select("explanation/text()", an)
-                const label  = xpath.select("label/text()", an)
-                const labelC = xpath.select("label_code/text()", an)
-                const sug  = xpath.select("suggestion/text()", an)
-                const type  = xpath.select("type/text()", an)
-                const word = xpath.select("word/text()", an)
-                return(
-                  console.log(annots.length),
-                  <div key={annots[i]+"key"+i}>
-                    <div key={clss+"key"+i} className="an-expl">{clss.toString()}</div>
-                    <div key={expl+"key"+i} className="an-expl">{expl.toString()}</div>
-                    <div key={label+"key"+i} className="an-expl">{label.toString()}</div>
-                    <div key={labelC+"keyC"+i} className="an-expl">{labelC.toString()}</div>
-                    <div key={sug+"key"+i} className="an-expl">{sug.toString()}</div>
-                    <div key={type+"key"+i} className="an-expl">{type.toString()}</div>
-                    <div key={word+"key"+i} className="an-expl">{word.toString()}</div>
-                  </div>
-                  )
-              })*/}
+                <Output editorDeRegras={this.props.editorDeRegras} 
+                        data={this.state.xmlout}
+                        />
               </div>
             <div className="bateria-history">
               <div className="history-menu">
@@ -285,12 +275,14 @@ export default class Bateria extends Component {
               </div>
               <div className="historial-log">
                 {this.state.visibleLog.map((f, i)=>{
-                  console.log(this.state.visibleLog)
+                  f= this.state.visibleLog[this.state.visibleLog.length-i]
+                  if(f !== undefined){
                   return(
                     <div key={"frase-"+f+"-"+i}className="queried-input">
-                      <button onClick={(e) =>this.initParsing(f)}className="formin-wide">{f}</button>
+                      <button onClick={(e) =>this.initParsing(f)} className="aval-formin">{f}</button>
                     </div>
                   )
+                  }
                 })}
               </div>
             </div>

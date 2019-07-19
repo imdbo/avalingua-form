@@ -3,6 +3,7 @@ html {
   width: 100%;
   min-height: 100%;
   height: 100%;
+  max-height: 100%;
 }
 
 body{
@@ -10,7 +11,9 @@ body{
   width: 100%;
   min-height: 100%;
   padding: 0;
+  max-height: 100%;
 }
+
 #root{
   width: 100%;
   min-height: 100%;
@@ -196,6 +199,13 @@ body{
   padding: -0.5em 0 0 5rem;
   z-index: 2;
 }
+.floating-label{
+  position:absolute;
+  transition: all 300ms;
+  opacity: 0.5;
+  padding: -0.5em 0 0 5rem;
+  z-index: 2;
+}
 .floating-labelo{
   position:absolute;
   transition: all 300ms;
@@ -241,7 +251,7 @@ body{
   width: 100%;
   height: 100%;
   min-height: 100%;
-  grid-template-columns: 70% 30%;
+  grid-template-columns: 80% 20%;
   grid-template-rows: 30% 70%;
   margin: 0;
   border-style: solid;
@@ -256,21 +266,36 @@ body{
 .bateria-output{
 width: 100%;
 overflow: scroll;
-grid-row: 2;
+grid-row: 2/3;
 grid-column: 1;
-  
-  min-height: 100%;
+max-height: 100%;
+}
+
+.output-box{
+  width: 100%;
+  max-width: 100%;
+  height:100%;
+  max-height:100%;
+}
+.out-stats, .out-score{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1rem;
+  justify-content: space-evenly;
+}
+.stat-out, .score-out{
+  margin: 1rem;
 }
 .historial-log{
   overflow: scroll;
+  max-height: 100%;
 }
 .bateria-history{
-  resize: both;
   margin: 0;
   height: 100%;
   min-height: 100%;
   grid-column: 2;
-  grid-row: 1/4;
+  grid-row: 1/3;
   display: grid;
   grid-template-rows: 40% 60%;
   text-align: center;
@@ -301,6 +326,8 @@ grid-column: 1;
   border-color: rgba(0, 51, 102, 0.459);
   border-width: 0px 0px 2px 0px ;
   outline:none;
+  text-overflow: clip;
+  white-space: nowrap;
 }
 .formin-wide:hover, .formin-wide:focus{
   border-color: #036;
@@ -339,7 +366,7 @@ grid-column: 1;
   resize: both;
 }
 .settings-wrapper{
-  mwidth: 50%;
+  min-width: 50%;
   margin: auto;
   height: 100%;
   display: grid;
@@ -350,11 +377,18 @@ grid-column: 1;
   margin: auto;
   justify-content: center;
 }
-@media(max-width:1000px){
+@media(max-width:1400px){
   .form-container, .dark-overlay{
     grid-column: 1/4;
   }
   .tagmods-popup{
     width: 100%;
+  }
+  .bateria-history{
+    grid-column: 1;
+    grid-template-rows: 70% 30%;
+  }
+  .bateria-wrapper{
+    grid-template-columns: 75% 25%;
   }
 }

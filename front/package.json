@@ -13,6 +13,7 @@
     "electron-is-dev": "^1.1.0",
     "electron-tabs": "^0.9.5",
     "git-diff": "^2.0.6",
+    "jsonpath-plus": "^0.20.1",
     "moment": "^2.24.0",
     "n-readlines": "^1.0.0",
     "react": "^16.8.6",
@@ -37,7 +38,7 @@
     "electron-build": "electron-builder",
     "release": "yarn react-build && electron-builder --publish=always",
     "build": "yarn react-build && yarn electron-build",
-    "start":  "concurrently \"BROWSER=none npm run-script react-start\" \"wait-on http://localhost:3000 && electron .\""
+    "start": "concurrently \"BROWSER=none npm run-script react-start\" \"wait-on http://localhost:3000 && electron .\""
   },
   "eslintConfig": {
     "extends": "react-app"
