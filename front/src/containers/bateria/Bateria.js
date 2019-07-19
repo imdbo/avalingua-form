@@ -239,8 +239,17 @@ export default class Bateria extends Component {
         <div className="bateria-wrapper">
             <div className="bateria-container-txt">
               <textarea type="text" id="formB" style={{height: "80%"}} onChange={this.handleChange} value={this.state.input} className="aval-formin"/>
-              <button className="formin-wide" onClick={(e) => this.initParsing(this.state.formB)}>analisar texto</button>
+              <div className="txt-buttons">
+                <button className="formin-wide" onClick={(e) => this.initParsing(this.state.formB)}>analisar texto</button>
+                <button className="formin-wide">analisar marcada</button>
+                <button className="formin-wide" onClick={() => this.runBateria()}>Executar batería </button>
+                <button className="formin-wide">eliminar marcada</button>
+                <button className="formin-wide">eliminar todas </button>
+                <button className="formin-wide">mostrar sem erros</button>
+                <button className="formin-wide">mostrar com erros</button>
+                <button className="formin-wide">Comparar logs</button>
               </div>
+            </div>
               <div className="bateria-output">
                 <Output editorDeRegras={this.props.editorDeRegras} 
                         data={this.state.xmlout}
@@ -251,39 +260,27 @@ export default class Bateria extends Component {
                 <div className="header">
                   <h3>historial</h3>
                 </div>
-                <div className="history-panel">
-                  <div className="log-opts">
-                    <button className="formin-wide">analisar marcada</button>
-                    <button className="formin-wide" onClick={() => this.runBateria()}>Executar batería </button>
-                    <button className="formin-wide">eliminar marcada</button>
-                    <button className="formin-wide">eliminar todas </button>
-                    <button className="formin-wide">mostrar sem erros</button>
-                    <button className="formin-wide">mostrar com erros</button>
-                    <button className="formin-wide">Comparar logs</button>
-                  </div>
-                </div>
                 <div className="log-queries">
-                <label htmlFor="querier"
+                <label htmlFor="itemQuery"
                     className="floating-labelb"style={this.props.editorDeRegras(this.state.itemQuery)}>Pesquisar</label>
-                <input className="aval-formin" id="itemQuery"
+                <input style={{height: "100%"}} className="aval-formin" id="itemQuery"
                       type="text"
                       name="itemQuery"
                       value={this.state.itemQuery}
                       onChange={this.handleChange}
                   />
                 </div>
-              </div>
-              <div className="historial-log">
-                {this.state.visibleLog.map((f, i)=>{
-                  f= this.state.visibleLog[this.state.visibleLog.length-i]
-                  if(f !== undefined){
-                  return(
-                    <div key={"frase-"+f+"-"+i}className="queried-input">
-                      <button onClick={(e) =>this.initParsing(f)} className="aval-formin">{f}</button>
-                    </div>
-                  )
-                  }
-                })}
+                <div className="historial-log">
+                  {this.state.visibleLog.map((f, i)=>{
+                    if(f !== undefined){
+                    return(
+                      <div key={"frase-"+f+"-"+i}className="queried-input">
+                        <button onClick={(e) =>this.initParsing(f)} className="aval-formin">{f}</button>
+                      </div>
+                    )
+                    }
+                  })}
+                </div>
               </div>
             </div>
         </div>
