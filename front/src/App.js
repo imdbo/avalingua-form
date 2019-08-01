@@ -6,28 +6,79 @@ import Bateria from './containers/bateria/Bateria';
 import Settings from './containers/settings/Settings'
 import './App.css';
 
+//node imports
+var fs = window.require('fs-extra');
+
 
 
 class App extends React.Component  {
   constructor(props){
     super(props);
     this.state = {
-      //TODO: create log with settings
       //TODO: Allow logged sentences to be selected and removed/compare logs
       //TODO: modify paths to look for /log/xxx
       //TODO: set path to url
       appOnDisplay: 'Bateria',
-      pathToExe: '/home/imdbo/git/avalingua/bin/avalingua_exe.perl',
+      pathToExe: './home/imdbo/avalingua/bin/avalingua_exe.perl',
       lang: 'es',
-      logDir: '/home/imdbo/git/avalingua-form/ERROS DETECTADOS - Sheet1.tsv',
+      logDir: './textos/ERROS DETECTADOS - Sheet1.tsv',
       sys: '',
-      logStandard: '/home/imdbo/git/avalingua-form/front/bateria-standard-log.txt'
+      logStandard: '/textos/bateria-standard-log.txt',
+      dirOr: './textos/textos-tsv.tsv',
+      dirCorp: '/textos/corpus'
     }
   }
   componentDidMount() {
+    console.log(document.getElementById("xml-out").classList)
     this.getOS()
+    const settings = [this.props.pathToExe, this.props.lang, this.props.logDir, this.props.logStandard, this.props.dirOr]
+    const confPath = './settings.conf'
+    fs.readFile(confPath, 'utf-8', (err, data)=> {
+      if(data !== undefined){
+        console.log("reading log")
+        console.log(data)
+        if(err){
+            alert(err);
+            return;
+        }
+        data = data.split(",")
+        for(let d =0; d<data.length; d++){
+          console.log(data[d])
+          if(d === 0){
+          this.setState({
+            pathToExe: [data[d]]
+          })
+        }else if(d === 1){
+          this.setState({
+            lang  : data[d]
+          })
+        }else if(d === 2){
+          this.setState({
+            logDir: data[d]
+          })
+        }else if(d === 3){
+          this.setState({
+            logStandard: data[d]
+          })
+        }else if(d === 4){
+          this.setState({
+            dirOr: data[d]
+          })
+        }else if(d === 5){
+          this.setState({
+            dirCorp: data[d]
+          })
+        }
+        }
+      }
+    })
   }
   
+  hChange = (e) => {
+    this.setState({
+      [e.target.id]: [e.target.value]
+    });
+  }
   setPath = (e, p) => {
     this.setState({
       [e]: p
@@ -66,8 +117,7 @@ class App extends React.Component  {
     if(state.length !== 0){
       return{
         transform: "translate3d(0, -70%, 0)",
-        color: "#036",
-        opacity: "0.8"
+        opacity: "1"
       }
       }else{
         return{
@@ -88,8 +138,10 @@ class App extends React.Component  {
         appOn = <Bateria logDir={this.state.logDir}
                           logStandard={this.state.logStandard}
                           asFor={this.asFor}
+                          dirOr={this.state.dirOr}
                           lang={this.state.lang} 
                           sys = {this.state.sys}
+                          dirCorp = {this.state.dirCorp}
                           pathToExe={this.state.pathToExe} 
                           editorDeRegras={this.editorDeRegras}/>;
       break;
@@ -98,15 +150,21 @@ class App extends React.Component  {
         logStandard={this.state.logStandard}
                           setPath={this.setPath}
                           sys = {this.state.sys} 
-                          lang={this.state.lang} 
+                          dirOr={this.state.dirOr}
+                          hChange={this.hChange}
+                          lang={this.state.lang}
+                          dirCorp = {this.state.dirCorp} 
                           pathToExe={this.state.pathToExe} 
                           editorDeRegras={this.editorDeRegras}/>;
       break;
     default:
       appOn = <Settings logDir={this.state.logDir} 
-      logStandard={this.state.logStandard}
+                        logStandard={this.state.logStandard}
                         setPath={this.setPath} 
                         sys = {this.state.sys}
+                        hChange={this.hChange}
+                        dirOr={this.state.dirOr}
+                        dirCorp = {this.state.dirCorp}
                         lang={this.state.lang} 
                         pathToExe={this.state.pathToExe} 
                         editorDeRegras={this.editorDeRegras}/>;

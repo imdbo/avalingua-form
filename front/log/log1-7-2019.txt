@@ -1,0 +1,422 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>17</end_offset>
+    <explanation>&lt;strong>Errores ortográficos.&lt;/strong> Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information/>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12</start_offset>
+    <suggestion>detrás</suggestion>
+    <type>err</type>
+    <word>detras</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Errores ortográficos.&lt;/strong> Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information/>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>mía</suggestion>
+    <type>err</type>
+    <word>mia</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>mia.</suggestion>
+    <type>err</type>
+    <word>mia^</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>5</end_offset>
+    <explanation>&lt;strong>Concordancia.&lt;/strong> Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br>Ej.: &lt;em>Cruzaron el puente romano. Bebieron toda la leche.&lt;/em>
+</explanation>
+    <information/>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>3</start_offset>
+    <suggestion/>
+    <type>err</type>
+    <word>la pan</word>
+  </annotation>
+  <score>
+    <score_gram>0</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>0</score_total>
+  </score>
+  <statistics>
+    <forms>5</forms>
+    <grammar_errors>1</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>4</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>5</tokens>
+  </statistics>
+  <text>
+la pan esta detras mia
+
+</text>
+</avalingua>
+analisado às 12:09:43 am, August 1st 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>17</end_offset>
+    <explanation>&lt;strong>Errores ortográficos.&lt;/strong> Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information/>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12</start_offset>
+    <suggestion>detrás</suggestion>
+    <type>err</type>
+    <word>detras</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Errores ortográficos.&lt;/strong> Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information/>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>mía</suggestion>
+    <type>err</type>
+    <word>mia</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>mia.</suggestion>
+    <type>err</type>
+    <word>mia^</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>5</end_offset>
+    <explanation>&lt;strong>Concordancia.&lt;/strong> Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br>Ej.: &lt;em>Cruzaron el puente romano. Bebieron toda la leche.&lt;/em>
+</explanation>
+    <information/>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>3</start_offset>
+    <suggestion/>
+    <type>err</type>
+    <word>la pan</word>
+  </annotation>
+  <score>
+    <score_gram>0</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>0</score_total>
+  </score>
+  <statistics>
+    <forms>5</forms>
+    <grammar_errors>1</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>4</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>5</tokens>
+  </statistics>
+  <text>
+la pan esta detras mia
+
+</text>
+</avalingua>
+analisado às 12:09:50 am, August 1st 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>17</end_offset>
+    <explanation>&lt;strong>Errores ortográficos.&lt;/strong> Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information/>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12</start_offset>
+    <suggestion>detrás</suggestion>
+    <type>err</type>
+    <word>detras</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Errores ortográficos.&lt;/strong> Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information/>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>mía</suggestion>
+    <type>err</type>
+    <word>mia</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>mia.</suggestion>
+    <type>err</type>
+    <word>mia^</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>5</end_offset>
+    <explanation>&lt;strong>Concordancia.&lt;/strong> Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br>Ej.: &lt;em>Cruzaron el puente romano. Bebieron toda la leche.&lt;/em>
+</explanation>
+    <information/>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>3</start_offset>
+    <suggestion/>
+    <type>err</type>
+    <word>la pan</word>
+  </annotation>
+  <score>
+    <score_gram>0</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>0</score_total>
+  </score>
+  <statistics>
+    <forms>5</forms>
+    <grammar_errors>1</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>4</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>5</tokens>
+  </statistics>
+  <text>
+la pan esta detras mia
+
+
+
+</text>
+</avalingua>
+analisado às 12:56:05 am, August 1st 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>10</end_offset>
+    <explanation>&lt;strong>Otra lengua.&lt;/strong> Palabras de otras lenguas que forman parte de un discurso en otro idioma.
+</explanation>
+    <information/>
+    <label>otra lengua</label>
+    <label_code>otra-leng</label_code>
+    <start_offset>8</start_offset>
+    <suggestion/>
+    <type>warn</type>
+    <word>dal</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>El</suggestion>
+    <type>err</type>
+    <word>^el</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>14</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>12</start_offset>
+    <suggestion>pie.</suggestion>
+    <type>err</type>
+    <word>pie^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>4</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>1</lexical_warnings>
+    <tokens>4</tokens>
+  </statistics>
+  <text>
+el dedo dal pie
+
+</text>
+</avalingua>
+analisado às 12:59:32 am, August 1st 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>17</end_offset>
+    <explanation>&lt;strong>Errores ortográficos.&lt;/strong> Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information/>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12</start_offset>
+    <suggestion>detrás</suggestion>
+    <type>err</type>
+    <word>detras</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Errores ortográficos.&lt;/strong> Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information/>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>mía</suggestion>
+    <type>err</type>
+    <word>mia</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>mia.</suggestion>
+    <type>err</type>
+    <word>mia^</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>5</end_offset>
+    <explanation>&lt;strong>Concordancia.&lt;/strong> Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br>Ej.: &lt;em>Cruzaron el puente romano. Bebieron toda la leche.&lt;/em>
+</explanation>
+    <information/>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>3</start_offset>
+    <suggestion/>
+    <type>err</type>
+    <word>la pan</word>
+  </annotation>
+  <score>
+    <score_gram>0</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>0</score_total>
+  </score>
+  <statistics>
+    <forms>5</forms>
+    <grammar_errors>1</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>4</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>5</tokens>
+  </statistics>
+  <text>
+la pan esta detras mia
+
+
+
+</text>
+</avalingua>
+analisado às 1:09:37 am, August 1st 2019

@@ -1,0 +1,747 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>4468</end_offset>
+    <explanation>&lt;strong&gt;Palabras compuestas.&lt;/strong&gt; Palabras compuestas que no están en el diccionario y que pueden escribirse con guión o separadas.
+</explanation>
+    <information></information>
+    <label>compuesto</label>
+    <label_code>comp</label_code>
+    <start_offset>4457</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>carta-oferta</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>663</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>662</start_offset>
+    <suggestion>De</suggestion>
+    <type>err</type>
+    <word>^de</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1423</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>1422</start_offset>
+    <suggestion>De</suggestion>
+    <type>err</type>
+    <word>^de</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2494</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2487</start_offset>
+    <suggestion>Cláusula</suggestion>
+    <type>err</type>
+    <word>CLAÚSULA</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>3001</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2997</start_offset>
+    <suggestion>junio</suggestion>
+    <type>err</type>
+    <word>Junio</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>3073</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>3072</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>.-</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>3132</end_offset>
+    <explanation>&lt;strong&gt;Falta el símbolo de interrogación inicial.&lt;/strong&gt;
+</explanation>
+    <information></information>
+    <label>interrogación</label>
+    <label_code>interr</label_code>
+    <start_offset>3132</start_offset>
+    <suggestion>¿.-</suggestion>
+    <type>err</type>
+    <word>^^.-</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>4060</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>4057</start_offset>
+    <suggestion>mayo</suggestion>
+    <type>err</type>
+    <word>Mayo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>4497</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>4484</start_offset>
+    <suggestion>administración, Administración</suggestion>
+    <type>err</type>
+    <word>administracion</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5909</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5899</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>licitaci��n</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7224</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7224</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7248</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7248</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>761</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>759</start_offset>
+    <suggestion>De</suggestion>
+    <type>err</type>
+    <word>^de</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7326</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7326</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7339</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7339</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7354</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7354</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7404</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7404</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7470</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7470</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7487</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7475</start_offset>
+    <suggestion>nacionalidad</suggestion>
+    <type>err</type>
+    <word>●nacionalidad</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7498</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7492</start_offset>
+    <suggestion>gestado, testado, restado, estado</suggestion>
+    <type>err</type>
+    <word>●estado</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7518</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7509</start_offset>
+    <suggestion>profesión</suggestion>
+    <type>err</type>
+    <word>●profesión</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7575</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7575</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7614</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7614</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>880</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>879</start_offset>
+    <suggestion>De</suggestion>
+    <type>err</type>
+    <word>^de</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7631</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7619</start_offset>
+    <suggestion>nacionalidad</suggestion>
+    <type>err</type>
+    <word>●nacionalidad</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7642</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7636</start_offset>
+    <suggestion>estado, gestado, restado, testado</suggestion>
+    <type>err</type>
+    <word>●estado</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7662</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7653</start_offset>
+    <suggestion>profesión</suggestion>
+    <type>err</type>
+    <word>●profesión</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7676</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7667</start_offset>
+    <suggestion>domicilio</suggestion>
+    <type>err</type>
+    <word>●domicilio</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7703</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7703</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7719</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7719</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7743</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7743</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8013</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>8013</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8107</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>8098</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>exclusi��n</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8179</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>8179</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>892</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>890</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>���</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8185</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>8185</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8205</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>8205</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8220</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>8220</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>●</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12807</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12804</start_offset>
+    <suggestion>esta</suggestion>
+    <type>err</type>
+    <word>ésta</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>14259</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>14256</start_offset>
+    <suggestion>esta</suggestion>
+    <type>err</type>
+    <word>ésta</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>940</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>940</start_offset>
+    <suggestion>B</suggestion>
+    <type>err</type>
+    <word>^b</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1128</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>1127</start_offset>
+    <suggestion>De</suggestion>
+    <type>err</type>
+    <word>^de</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1140</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>1139</start_offset>
+    <suggestion>De</suggestion>
+    <type>err</type>
+    <word>^de</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1237</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>1235</start_offset>
+    <suggestion>De</suggestion>
+    <type>err</type>
+    <word>^de</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1363</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>1356</start_offset>
+    <suggestion>Expedido</suggestion>
+    <type>err</type>
+    <word>^expedido</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>288</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>284</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>OTRA PARTE</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>873</end_offset>
+    <explanation>&lt;strong&gt;Él y el.&lt;/strong&gt; &lt;em&gt;Él&lt;/em&gt; es un pronombre personal. &lt;em&gt;El&lt;/em&gt; es un artículo determinado que funciona como determinante de los nombres.&lt;br&gt;Ej.: &lt;em&gt;Él no es así. El libro es para él. Devuélveme el boli, por favor.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>él y no el</label>
+    <label_code>CorrEl</label_code>
+    <start_offset>872</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el .</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>4273</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>4270</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el acta</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>10380</end_offset>
+    <explanation>&lt;strong&gt;Él y el.&lt;/strong&gt; &lt;em&gt;Él&lt;/em&gt; es un pronombre personal. &lt;em&gt;El&lt;/em&gt; es un artículo determinado que funciona como determinante de los nombres.&lt;br&gt;Ej.: &lt;em&gt;Él no es así. El libro es para él. Devuélveme el boli, por favor.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>él y no el</label>
+    <label_code>CorrEl</label_code>
+    <start_offset>10377</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>El:- ,</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>12948</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>12948</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>E IDENTIFICACIÓN</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>15154</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>15151</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el acta</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>15639</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>15636</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el acta</word>
+  </annotation>
+  <score>
+    <score_gram>9.64285714285714</score_gram>
+    <score_lex>8.87755102040816</score_lex>
+    <score_total>9.26020408163265</score_total>
+  </score>
+  <statistics>
+    <forms>586</forms>
+    <grammar_errors>7</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>44</lexical_errors>
+    <lexical_warnings>1</lexical_warnings>
+    <tokens>1960</tokens>
+  </statistics>
+  <text>
+&lt;p&gt; CONTRATO DE PRESTACIÓN DE SERVICIOS DE ADMINISTRACIÓN PARA AUTOFINANCIAMIENTO &lt;/p&gt; &lt;p&gt; CONTRATO DE PRESTACIÓN DE SERVICIOS DE ADMINISTRACIÓN PARA AUTOFINANCIAMIENTO, QUE CELEBRAN POR UNA PARTE……………, S.A. DE C.V, A LA QUE EN LO SUCESIVO DE DESIGNARÁ COMO “LA SOCIEDAD”, Y POR OTRA PARTE LA C. ……………………….., A QUIEN EN LO SUCESIVO SE DESIGNARÁ COMO EL INTEGRANTE, AL TENOR DE LAS SIGUIENTES: &lt;/p&gt; &lt;p&gt; DECLARACIONES &lt;/p&gt; &lt;p&gt; I. DECLARA……………, A TRAVÉS DE SU REPRESENTANTE LEGAL: &lt;/p&gt; &lt;p&gt; a) Que es una sociedad mercantil organizada y constituida conforme a las leyes de la República Mexicana, como se acredita con la escritura pública número ……………… de fecha …….. de ………… de …………, pasada ante la fe del licenciado ………………………………., Notario Público número ……………….. del Distrito Federal, cuyo primer testimonio fue inscrito en el Registro Público de la Propiedad y del Comercio, el ….. de ………… de ���………, bajo el folio mercantil número ………………………. b) Que el sistema de comercialización que promueve, cuenta con la autorización que estipula el artículo 63 de la Ley Federal de Protección al Consumidor, según permiso número ……………………….. de fecha .. de ………… de …………, otorgado por la Secretaría de Economía, así como el permiso número ……………………….. del … de ………… de ………… otorgado por la Secretaría de Gobernación y el registro del modelo del contrato número ……………………….. expedido por la Procuraduría Federal del Consumidor con fecha ….. de ………… de ………….   &lt;p&gt; Entre la Junta de Condominio del CONJUNTO RESIDENCIAL ___________ vigente y en funciones para la firma de este contrato, representada en este acto por su Presidente, ciudadano ______________________________, quien es de nacionalidad ____________________, mayor de edad, de estado civil _____________, de este domicilio y titular de la Cédula de Identidad No. _____________________ y quien para los efectos de este contrato se llamará en lo sucesivo LA MANDANTE, por un lado y por el otro, la sociedad mercantil “_________, S.A.”, sociedad mercantil en fecha ________ del mes de ______ del año dos mil ____ bajo el No. ___, tomo _____.; titular del Número de Registro de Información Fiscal J- ____ y del Número de Identificación Tributaria _____, representada en este acto por su Presidente, ciudadano _______, quien es de nacionalidad venezolana, mayor de edad, de este domicilio, de profesión ______, titular de la Cédula de Identidad No. _________, estando plenamente facultado para realizar este negocio jurídico, según lo dispuesto en la CLAÚSULA DÉCIMA PRIMERA, literal “d” de su Documento Constitutivo y los Estatutos Sociales y quien en lo adelante se denominará a los fines de este contrato, LA ADMINISTRADORA, se ha convenido en celebrar en presente CONTRATO DE ADMINISTRACIÓN, el cual se regirá por las cláusulas que a continuación se señalan, a saber: &lt;/p&gt;  CONTRATO DE ARRENDAMIENTO DE SERVICIOS PROFESIONALES PARA LA ADMINISTRACION DE LA COMUNIDAD DE PROPIETARIOS “TAL Y CUAL” Y DE MANDATO PARA LA SECRETARIA DE LA MISMA En Sevilla a 1 de Junio de dos mil diez REUNIDOS De una parte D. , mayor de edad, con D.N.I ..- , domiciliado a los efectos del presente contrato en 4100?-Sevilla, c/ , y de otra D. ZXX, mayor de edad, con D.N.I , con domicilio a efectos del presente contrato en 41001-Sevilla, . Actúa el primero en nombre y representación de la COMUNIDAD DE PROPIETARIOS “TAL Y CUAL” como Presidente de la misma, con CIF H , y el segundo en su propio nombre y derecho o en nombre y representación de la mercantil S.L, con CIF B , como Apoderado. Ambos comparecientes declaran expresamente la plena vigencia en esta fecha de sus respectivos cargos, lo que acreditaran donde y cuando sea necesario mediante la exhibición documental que proceda, reconociéndose mutuamente la necesaria capacidad jurídica para obligarse y al respecto EXPONEN 1º) Que en la Junta General Extraordinaria del día XX de XXXX de 2010, por acuerdo mayoritario y al amparo de lo dispuesto en el artículo 13.7 párrafo segundo de la Ley de Propiedad Horizontal se adoptó, entre otros, el acuerdo de revocar con fecha 31 de Mayo de 2010 en los cargos de Secretario-Administrador de la Comunidad al profesional de la administración de fincas que los desempeñaba, basándose para ello en los fundamentos y argumentaciones que constan en el acta de la referida Junta General. En la misma Junta se autorizó al Sr. Presidente para nombrar un nuevo SecretarioAdministrador. 2º) Que para cumplimentar el citado acuerdo, se solicitó carta-oferta a la firma de administracion de fincas compareciente, la cual fue aceptada, por lo que cumplimentando lo normado en el artículo 13.6 de la Ley de Propiedad Horizontal sobre acumulación de cargos se le nombró Secretario-Administrador de la Comunidad meritada. El Sr. , en la representación que ostenta acepta a su favor el citado doble nombramiento, y toma en el momento de la firma de este compromiso posesión de sus cargos.  Fuente Carrantona, 8 28030 Madrid Exp.: 300/2017/00668 PLIEGO DE CLÁUSULAS ADMINISTRATIVAS PARTICULARES QUE HA DE REGIR EN EL CONTRATO ADMINISTRATIVO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO DE LA ESCUELA INFANTIL EL LIRON DEL DISTRITO DE MORATALAZ, CON SERVICIO DE DESAYUNO, COMIDA Y MERIENDA QUE INCORPOREN PRODUCTOS DE COMERCIO JUSTO, A ADJUDICAR POR PROCEDIMIENTO ABIERTO. ÍNDICE CAPÍTULO PRIMERO.- DISPOSICIONES GENERALES .............................................. 4 Cláusula 1. Régimen jurídico............................................................................................. 4 Cláusula 2. Capacidad para contratar................................................................................. 5 Sección primera. Del contrato ............................................................................................. 5 Cláusula 3. Objeto del contrato.......................................................................................... 5 Cláusula 4. Presupuesto base de licitaci��n y precio del contrato. ..................................... 6 Cláusula 5. Existencia de crédito. ...................................................................................... 6 Cláusula 6. Procedimiento ................................................................................................. 7 Cláusula 7. Criterios de adjudicación ................................................................................ 7 Cláusula 8. Efectos de la propuesta de adjudicación. Renuncia y desistimiento. .............. 8 Cláusula 9. Adjudicación del contrato. .............................................................................. 8 Cláusula 10. Perfección y formalización del contrato. .................................................... 12 Cláusula 11. Riesgo y ventura. ........................................................................................ 13 Cláusula 12. Cesión del contrato. .................................................................................... 13 Cláusula 13. Subcontratación. ......................................................................................... 13 Cláusula 14. Resolución del contrato. .............................................................................   CONTRATO DE SERVICIO DE ADMINISTRACION DE INMUEBLE En Santiago, a [●] de 2016, comparecen [●], persona jurídica de derecho privado, de giro comercial, con domicilio en [●], oficina [●], comuna de [●], Región Metropolitana, Rol Único Tributario N°[●], en adelante también “el administrador”, representada por don [●], [●nacionalidad], [●estado civil], [●profesión], del mismo domicilio anterior, cédula de identidad N°[●], por una parte y, por la otra, don [●], [●nacionalidad], [●estado civil], [●profesión], [●domicilio], cédula de identidad N°[●], teléfono N°[●], correo electrónico [●], en adelante también “el propietario”, convienen el siguiente contrato de prestación de servicios de administración de inmueble, en adelante también “el contrato”: PRIMERO. Consentimiento. Por el presente instrumento el propietario declara que acepta y contrata con [●] el servicio de “administración de propiedades” que tiene por objeto gestionar con exclusi��n de cualquier tercero, el arrendamiento del inmueble ubicado en calle [●] N°[●], departamento N°[●], comuna de [●], Región Metropolitana, en adelante también &quot;la propiedad administrada&quot; o &quot;el inmueble administrado&quot;. SEGUNDO. Facultades otorgadas al administrador. En virtud de este contrato el administrador deberá procurar que el inmueble administrado permanezca arrendado y que los lapsos en que permanezca desocupado sean razonablemente breves.  &lt;p&gt; CONTRATO PRESTACION DE SERVICIOS ADMINISTRACION ARRAYANES DE SAUSALITO &lt;/p&gt; &lt;p&gt; en la ciudad de Bogotá, D.C., obrando como PRESIDENTE del CONSEJO DE &lt;/p&gt; &lt;p&gt; ADMINISTRACION y en las condiciones descritas en la ley 675 de 2001 de EL &lt;/p&gt; &lt;p&gt; CONJUNTO RESIDENCIALLOSARRAYANES DE SAUZALlTO PH, con Escritura 2384, del &lt;/p&gt; &lt;p&gt; 30 de noviembre de 2005 Notaria Cuarenta y cuatro. Especificación: 0331 Reforma &lt;/p&gt; &lt;p&gt; reglamento de Propiedad Horizontal escritura 1408 del 15 de mayo de 1989, Notario &lt;/p&gt; &lt;p&gt; veinte, Personería jurídica No. 089 de junio 23 de 2006, y NIT: 800.142.993-1, quien en &lt;/p&gt; &lt;p&gt; adelante y para todos los efectos del presente CONTRATO, se denominará EL &lt;/p&gt; &lt;p&gt; CONTRANTE, de una parte; y de la otra CAROLINA VELASQUEZARAGON, mayor de &lt;/p&gt; &lt;p&gt; edad, identificada con la Cédula de Ciudadanía número 52.171.854 de Bogotá D.C., &lt;/p&gt; &lt;p&gt; domiciliado y residente en la ciudad de Bogotá D.C., en la dirección carrera 75 # 41- 30 &lt;/p&gt; &lt;p&gt; sur interior 1apto 202 barrio Tlmlza, quien en adelante y para los efectos del &lt;/p&gt; &lt;p&gt; presente contrato se denominará EL CONTRATlSTA, hacemos constar que hemos &lt;/p&gt; &lt;p&gt; celebrado el presente contrato de Prestación de servicios de Administración de &lt;/p&gt; &lt;p&gt; Propiedad Horizontal, contenido en las siguientes cláusulas: &lt;/p&gt; &lt;p&gt; CLAUSULA PRIMERA. OBJETO- El CONTRATANTE,contrata la parte CONTRATISTA,para &lt;/p&gt; &lt;p&gt; ADMINISTRAR los bienes de uso común del CONJUNTO RESIDENCIALLOSARRAYANES &lt;/p&gt; &lt;p&gt; DE SAUZALlTO PH, ubicado en la actual nomenclatura Carrera 69 O # 24 - 15, &lt;/p&gt; &lt;p&gt; constituido en propiedad horizontal, bajo el régimen de la ley 675 de agosto 3 del 2001, &lt;/p&gt; &lt;p&gt; según escritura pública No. 2384 del 30 de noviembre de 2005 de la notoria Cuarenta y , _ &lt;/p&gt; &lt;p&gt; cuatro del Circulo de Bogotá D.C., persona jurídica sin ánimo de lucro; para lo cual El:-, &lt;/p&gt;   &lt;p&gt; Cláusulas de un contrato laboral: información obligatoria y pactos adicionales &lt;/p&gt; &lt;p&gt; La campaña navideña está a la vuelta de la esquina y son muchas las pequeñas empresas y los autónomos, especialmente los dedicados al sector comercial, que necesitan reforzar la plantilla. En Infoautónomos hemos hablado largo y tendido sobre contratación: las claves de éxito para contratar a un trabajador, los tipos de contratos laborales con los que cuentas para incorporar un nuevo empleado al negocio o las bonificaciones a la cuota empresarial, que, según ha anunciado el Gobierno, parecen tener los días contados. Hoy, te detallamos las principales cláusulas de un contrato laboral, tanto las obligatorias como las adicionales. Descubre qué debe incluir tu asesoría laboral a la hora de formalizar el contrato. &lt;/p&gt; &lt;p&gt; Cláusulas obligatorias en el contrato laboral &lt;/p&gt; &lt;p&gt; A continuación se puntualizan cada uno de los aspectos básicos recogidos en el contrato de trabajo que debe ser presentado en el Servicio Público de Empleo Estatal (SEPE): &lt;/p&gt; &lt;p&gt; La identidad de las partes del contrato de trabajo. &lt;/p&gt; &lt;p&gt; La fecha de comienzo de la relación laboral entre el trabajador y la empresa. Si dicha relación no es indefinida sino de carácter temporal hay que indicar la duración previsible de la misma. &lt;/p&gt; &lt;p&gt; El domicilio social de la empresa o la dirección del centro de trabajo. Han de constar todos los centros de trabajo donde el trabajador va a desarrollar habitualmente su función. &lt;/p&gt; &lt;p&gt; La categoría, el grupo profesional del puesto de trabajo, la caracterización y la descripción resumida para comprobar su ajuste a las tablas salariales del convenio colectivo que rige la empresa. &lt;/p&gt; &lt;p&gt; El convenio colectivo aplicable a la relación laboral, precisando los datos concretos que permitan su identificación. &lt;/p&gt; &lt;p&gt; Las condiciones del salario: cuantía y periodicidad de pago así como los complementos salariales si los hubiera. &lt;/p&gt;   &lt;p&gt; MODELO DE CONTRATO DE TRABAJO POR HORAS &lt;/p&gt; &lt;p&gt; MODELO DE CONTRATO DE TRABAJO POR HORAS &lt;/p&gt; &lt;p&gt; Entre: NOMBRE DE LA EMPRESA Y DATOS DE REGISTRO, representada en este acto por PATRICIA ELENA CABRERA MANFREDI, venezolana, mayor de edad, casada, titular de la cédula de identidad No. 9.472.150, inscrita en el Instituto de Previsión Social del Abogado bajo el No. 58.079, domiciliada en Mérida, Estado Bolivariano de Mérida y jurídicamente hábil, empresa ésta que de ahora en adelante y a los efectos del presente contrato se denominará LA COMPAÑÍA por una parte, y por la otra, el Ciudadano NOMBRE E IDENTIFICACIÓN DEL TRABAJADOR quien para los efectos del presente documento se denominará EL TRABAJADOR A TIEMPO PARCIAL, se ha convenido en suscribir el presente MODELO DE CONTRATO DE TRABAJO POR HORAS O TIEMPO PARCIAL, el cual se regirá por las siguientes cláusulas: &lt;/p&gt; &lt;p&gt; PRIMERA: EL TRABAJADOR A TIEMPO PARCIAL se compromete a prestar sus servicios a LA COMPAÑÍA, en el cargo de VENDEDOR POR CUATRO HORAS (tiempo parcial). Ambas partes acuerdan que las retenciones al salario para el I.V.S.S., L.R.P.E. y F.A.O.V. se harán tomando como base el salario mínimo completo, y los aportes realizados por LA COMPAÑÍA igualmente se harán con base al salario mínimo mensual decretado por el Ejecutivo Nacional, ya que ello va en beneficio del trabajador, y además los portales web de esos organismos y las diferentes “formas” o planillas, no están adecuadas para el salario a tiempo parcial. &lt;/p&gt; &lt;p&gt; SEGUNDA: Las funciones de EL TRABAJADOR A TIEMPO PARCIAL son: &lt;/p&gt; &lt;p&gt; NUMERAR Y ESPECIFICAR LO MÁS DETALLADAMENTE POSIBLE LAS ACTIVIDADES QUE REALIZARÁ EL TRABAJADOR (MODELO DE CONTRATO DE TRABAJO POR HORAS O TIEMPO PARCIAL) &lt;/p&gt; &lt;p&gt; TERCERA: EL TRABAJADOR A TIEMPO PARCIAL declara que los datos aportados a LA COMPAÑÍA en su resumen curricular, así como las referencias aportadas son ciertos, por lo cual ésta puede proceder a la verificación de dichos datos, referencias y demás circunstancias que soportan resumen curricular. Si se comprobase que EL TRABAJADOR A TIEMPO PARCIAL aportó datos falsos a la compañía, ello será causal de despido justificado en los términos establecidos en el artículo 79 de la Ley Orgánica del Trabajo, las Trabajadoras y los Trabajadores, tanto como por falta de probidad, como por incumplimiento a las obligaciones que le impone la relación de trabajo. &lt;/p&gt;  &lt;p&gt; miércoles, 24 de agosto de 2016 &lt;/p&gt; &lt;p&gt; PLAZO O VIGENCIA DEL CONTRATO &lt;/p&gt; &lt;p&gt; PLAZO O VIGENCIA DEL CONTRATO &lt;/p&gt; &lt;p&gt; Término para liquidar y ejercer las potestades excepcionales. &lt;/p&gt; &lt;p&gt; El que da lugar a la iniciación del trámite de liquidación de un contrato estatal, es el fenecimiento del plazo, salvo, que las partes lo condicionen en una forma distinta, como es, por ejemplo, la suscripción del acta de recibo final, evento en el cual será este último momento en que empiece a computarse el término de liquidación. &lt;/p&gt; &lt;p&gt; En este sentido, se pronunció el Consejo de Estado indicando que esa Corporación en sede de consulta, ha distinguido entre finalización del contrato, atada al vencimiento del plazo de ejecución, y su extinción, supeditada a la liquidación unilateral. &lt;/p&gt; &lt;p&gt; Conforme lo anterior, una vez en curso el término para liquidar el contrato, la suscripción del acta de recibo final de obra, no interfiere, ni reinicia el término para la liquidación del contrato. &lt;/p&gt;  
+
+</text>
+</avalingua>

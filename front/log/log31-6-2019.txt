@@ -1,0 +1,63 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>16</end_offset>
+    <explanation>&lt;strong>Palabras frecuentes.&lt;/strong> Palabras que, a pesar de no estar recogidas en el diccionario de la RAE, son de uso muy extendido y gozan de una aceptación general.
+</explanation>
+    <information/>
+    <label>palabra frecuente</label>
+    <label_code>pal-frec</label_code>
+    <start_offset>12</start_offset>
+    <suggestion/>
+    <type>warn</type>
+    <word>peixe</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>Me</suggestion>
+    <type>err</type>
+    <word>^me</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>16</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>12</start_offset>
+    <suggestion>peixe.</suggestion>
+    <type>err</type>
+    <word>peixe^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>4</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>1</lexical_warnings>
+    <tokens>4</tokens>
+  </statistics>
+  <text>
+me gusta el peixe
+
+
+</text>
+</avalingua>
+analisado às 1:42:54 pm, July 31st 2019

@@ -1,0 +1,450 @@
+
+html { 
+  width: 100%;
+  min-height: 100%;
+  height: 100%;
+  max-height: 100%;
+}
+body{
+  margin: 0;
+  width: 100%;
+  min-height: 100%;
+  padding: 0;
+  max-height: 100%;
+  
+}
+::-webkit-scrollbar {     
+  background-color: rgb(211, 211, 211);
+  width: 0.3em;
+  height: 0.1em;
+}
+
+::-webkit-scrollbar-thumb:window-inactive,
+::-webkit-scrollbar-thumb {
+  background:  #036
+}
+
+
+#root{
+  width: 100%;
+  min-height: 100%;
+  height: 100%;
+  position: fixed;
+}
+.app{
+  height: 100%;
+  font-family: 'Mali', cursive;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Times New Roman', serif;
+}
+.header-container{
+  display: grid;
+  grid-row: 1;
+  grid-column: 1/4;
+  grid-template-rows: auto;
+  grid-template-columns: 10% 40% 50%;
+  width: 100%;
+  border-style: solid;
+  border-width: 0px 0px 0.2px 0px;
+  border-color: rgba(0, 51, 102, 0.459);
+}
+.header-logo{
+  grid-column: 1;
+}
+.header-right-menu{
+  display:grid;
+  grid-column: 2;
+  grid-template-columns: 33% 33% 33%;
+  text-align: center;
+}
+.leftbutton{
+  list-style-type: none;
+  display: inline;
+  padding: 0.5rem;
+}
+.form-container{
+  grid-row: 1/4;
+  grid-column: 2;
+  height: 100%;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 10% 15% 35% 20% 20%;
+  border-style: solid;
+  border-width: 0px 0.2px 0.2px 0.2px;
+  border-color: #036;
+}
+.dark-overlay{
+  margin: auto;
+  width: 100%;
+  min-height: 100%;
+  grid-column: 2/3;
+  grid-row: 1/4;
+  position: relative;
+  background-color: rgba(0, 51, 102, 0.034);
+}
+.form-tab{
+  display: grid;
+  min-height: 100%;
+  height: 100vh;
+  grid-template-columns: 25% 50% 25%;
+}
+.aval-dep-fblock, .aval-dep-fblock-construtor, .aval-dep-fblock-CWS{
+  grid-column: 1;
+  width: 80%;
+  height: 100%;
+  margin: 0px auto 0px auto;
+  text-align: center;
+}
+.aval-dep-fblock-construtor{
+  display: grid;
+  grid-template-rows: 45% 55%
+}
+#form-regra{
+  min-width: 100%;
+    max-width: 100%;
+    height: 3rem;
+}
+.regra-final{
+  word-wrap: break-word
+}
+
+.aval-formin, .aval-formin-pop{
+  min-width: 99%;
+  min-height: 30%;
+  max-width: 99%;
+    height: 50%;
+  max-height: 95%;
+  border-width: 0px 0px 1px 0px;
+  margin-top:0.95rem;
+  outline: none;
+  word-break: break-all;
+}
+#form-b{
+  height: 30%;
+  margin: 0;
+  min-height: 30%;
+  max-height: 90%;
+}
+.aval-formin-pop{
+  position: relative;
+  min-width: 30%;
+  height: 55%;
+}
+.aval-formin:focus, .aval-formin-pop:focus{
+  border-color: #036;
+}
+.formin-check{
+  width: 6rem;
+  height: 2.5rem;
+  margin: 0px 0.25rem 0rem 0.25rem;
+  color: black;
+  background-color: rgba(255, 255, 255, 0);
+  border-style: solid;
+  border-color: rgba(0, 51, 102, 0.459);  border-width: 0px 0px 2px 0px;
+  outline:none;
+}
+.formin-check:hover, .formin-check:focus{
+  border-color: #036;
+  color: #036;
+  border-width: 0px 0px 2px 0px;
+  outline-style: none;
+}
+.tagmods-popup{
+  z-index: 3;
+  grid-column: 2/3;
+  grid-row: 2;
+  width: 50%;
+  height: 100%;
+  margin: auto;
+  
+}
+.construtor-labels{
+  margin: auto; 
+  background-color: rgb(255, 255, 255);
+  display: grid;
+  grid-gap: 10px;
+  grid-template-rows: 10% 20% 20% 30% 10% 10%;
+  width: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: #036;
+  text-align: center;
+}
+
+.costructor-labels-choices{
+  margin: auto;
+}
+.costructor-labels-choices-3{
+  grid-row: 3
+}
+.ok-button{
+  text-align: right;
+}
+.check-button{
+  height: 2rem;
+  width: 2rem;
+
+}.check-button:hover{
+  background-color: rgba(4, 186, 92, 0.047)
+}
+#footer{
+  grid-row: 3;
+  grid-column: 2;
+  position: relative;
+  text-align: center;
+}
+
+.floating-label{
+  position:absolute;
+  transition: all 300ms;
+  opacity: 0.5;
+  padding: 2em 0 0 1em;
+  z-index: 2;
+}
+.floating-labelb{
+  position:absolute;
+  transition: all 300ms;
+  opacity: 0.5;
+  padding: -0.5em 0 0 5rem;
+  z-index: 2;
+}
+.floating-label{
+  position:absolute;
+  transition: all 300ms;
+  opacity: 0.5;
+  padding: -0.5em 0 0 5rem;
+  z-index: 2;
+}
+.floating-labelo{
+  position:absolute;
+  transition: all 300ms;
+  opacity: 0.5;
+  padding: 3em 0 0 0;
+  z-index: 2;
+}
+.construtor-text{
+  position:relative;
+  margin: 1rem;
+}
+.gerador{
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px;
+  outline:none;
+  max-height: 100%;
+}
+.gerador:hover{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #036;
+  background-color: rgba(6, 74, 175, 0.089);
+}
+.gerador-ok{
+  width: 15rem;
+}
+.text-popup{
+  grid-row: 5;
+}
+.vazio-wrap{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: row;
+  text-align: center;
+}
+/* regras do demostrador */
+.bateria-wrapper{
+  display: grid;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  grid-template-columns: 80% 20%;
+  grid-template-rows: 20% 80%;
+  margin: 0;
+  border-style: solid;
+  border-width: 0px 0px 0.2px 0.2px;
+  border-color: rgba(0, 51, 102, 0.459);
+}
+.bateria-container-txt{
+  height: 30%;
+  grid-row: 1/2;
+  grid-column: 1/2;
+  max-height: 80%;
+}
+.txt-buttons{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.bateria-output{
+width: 100%;
+grid-row: 2/4;
+grid-column: 1;
+max-height: 100%;
+}
+
+.output-box{
+  grid-row: 1;
+  width: 100%;
+  max-width: 100%;
+  height:100%;
+  max-height:100%;
+}
+.out-stats, .out-score{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1rem; 
+  justify-content: space-between
+}
+.stat-out, .score-out{
+  margin: 1rem;
+}
+.historial-log{
+  overflow: scroll;
+  min-height: 100%;
+  max-height: 100%;
+  grid-row: 2;
+}
+.errors{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  grid-row: 2;
+  border-style: solid;
+  border-width: 0px 0px 0px 0px; 
+  display: grid;
+  grid-template-columns: 30% 70%;
+  text-align: center;
+}
+.errors-list{
+  grid-column: 1;
+  width: 100%;
+  overflow: scroll;
+}
+.errors-info{
+  grid-column: 2;
+  width: 100%;
+  overflow: scroll;
+}
+.bateria-history{
+  margin: 0;
+  height: 100%;
+  min-height: 100%;
+  grid-column: 2;
+  grid-row: 1/3;
+  display: grid;
+  grid-template-rows: 5% 95%;
+  grid-row-gap: 1em;
+  text-align: center;
+  border-style: solid;
+  border-width: 0px 0px 0px 0.2px;
+  border-color: rgba(0, 51, 102, 0.459);
+}
+
+.formin-wide{
+  width: 8rem;
+  height: 2rem;
+  margin: 0.25rem;
+  color: black;
+  background-color: rgba(255, 255, 255, 0);
+  border-style: solid;
+  border-width: 0px 0px 1px 0px ;
+  outline:none;
+  text-overflow: clip;
+  white-space: nowrap;
+}
+.formin-wide:hover, .formin-wide:focus{
+  border-color: #036;
+  color: #036;
+  outline-style: none;
+}
+.log-opts{
+  display: flex;
+  height: 100%;
+  min-height: 100%;
+  border-style: solid;
+  border-color: rgba(0, 51, 102, 0.459);
+  border-width: 0px 0px 1px 0px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.log-queries{
+  grid-row: 1;
+  min-width: 100%;
+  min-height: 100%;
+}
+.bateria-shell{
+  grid-row: 3;
+  text-align: center;
+  display:grid;
+  grid-template-rows: 5% 95%;
+  height: 100%;
+  min-height: 100%;
+}
+#terminal{
+  height: 10rem;
+  background-color: #036;
+  resize: both;
+}
+.settings-wrapper{
+  min-width: 50%;
+  margin: auto;
+  height: 100%;
+  display: grid;
+  grid-template-rows: repeat(6, 16,6%)
+}
+.settings-box{
+  display: flex;
+  text-overflow: clip;
+  margin: auto;
+  justify-content: center;
+}
+.output-wrap{
+  text-align: center;
+  height: 100%;
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 35% 65%;
+}
+.erros-lista{
+  overflow-inline: hide;
+  width: 100%;
+  height: 100%;
+
+}
+.render-diff{
+  width: 100%;
+  max-height: 100%;
+  max-width: 100%;
+}
+@media(max-width:1400px){
+  .form-container, .dark-overlay{
+    grid-column: 1/4;
+  }
+  .tagmods-popup{
+    width: 100%;
+  }
+  .bateria-history{
+    grid-column: 1;
+    width: 30%;
+    grid-row: 4;
+  }
+  .history-menu{
+    grid-template-rows: 20% 80%;
+  }
+  .log-queries{
+    grid-row: 1;
+  }
+  .historial-log{
+    grid-row: 2;
+  }
+  .bateria-wrapper{
+    grid-template-columns: 100%;
+    grid-template-rows: 20% 25% 20% 35%;
+  }
+}

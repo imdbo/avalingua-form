@@ -1,0 +1,1055 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2102</end_offset>
+    <explanation>&lt;strong&gt;Otra lengua.&lt;/strong&gt; Palabras de otras lenguas que forman parte de un discurso en otro idioma.
+</explanation>
+    <information></information>
+    <label>otra lengua</label>
+    <label_code>otra-leng</label_code>
+    <start_offset>2100</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>due</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5610</end_offset>
+    <explanation>&lt;strong&gt;Palabras compuestas.&lt;/strong&gt; Palabras compuestas que no están en el diccionario y que pueden escribirse con guión o separadas.
+</explanation>
+    <information></information>
+    <label>compuesto</label>
+    <label_code>comp</label_code>
+    <start_offset>5595</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>mojeño-ignaciano</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5710</end_offset>
+    <explanation>&lt;strong&gt;Palabras compuestas.&lt;/strong&gt; Palabras compuestas que no están en el diccionario y que pueden escribirse con guión o separadas.
+</explanation>
+    <information></information>
+    <label>compuesto</label>
+    <label_code>comp</label_code>
+    <start_offset>5700</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>uru-chipaya</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8984</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>8981</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>17318</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>17315</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2113</end_offset>
+    <explanation>&lt;strong&gt;Otra lengua.&lt;/strong&gt; Palabras de otras lenguas que forman parte de un discurso en otro idioma.
+</explanation>
+    <information></information>
+    <label>otra lengua</label>
+    <label_code>otra-leng</label_code>
+    <start_offset>2112</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>of</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2507</end_offset>
+    <explanation>&lt;strong&gt;Otra lengua.&lt;/strong&gt; Palabras de otras lenguas que forman parte de un discurso en otro idioma.
+</explanation>
+    <information></information>
+    <label>otra lengua</label>
+    <label_code>otra-leng</label_code>
+    <start_offset>2505</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>due</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2518</end_offset>
+    <explanation>&lt;strong&gt;Otra lengua.&lt;/strong&gt; Palabras de otras lenguas que forman parte de un discurso en otro idioma.
+</explanation>
+    <information></information>
+    <label>otra lengua</label>
+    <label_code>otra-leng</label_code>
+    <start_offset>2517</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>of</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>3250</end_offset>
+    <explanation>&lt;strong&gt;Sufijos.&lt;/strong&gt;Esta palabra  no se encuentra en el diccionario de la RAE, pero está construida con un sufijo productivo.
+</explanation>
+    <information>mente</information>
+    <label>palabra con sufixo</label>
+    <label_code>suffix</label_code>
+    <start_offset>3237</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>–especialmente</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>4439</end_offset>
+    <explanation>&lt;strong&gt;Prefijos.&lt;/strong&gt;Esta palabra no se encuentra en el diccionario de la RAE, pero está construida con un prefijo productivo.
+</explanation>
+    <information>pre</information>
+    <label>palabra con prefixo</label>
+    <label_code>prefix</label_code>
+    <start_offset>4429</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>precolonial</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5010</end_offset>
+    <explanation>&lt;strong&gt;Prefijos.&lt;/strong&gt;Esta palabra no se encuentra en el diccionario de la RAE, pero está construida con un prefijo productivo.
+</explanation>
+    <information>inter</information>
+    <label>palabra con prefixo</label>
+    <label_code>prefix</label_code>
+    <start_offset>4996</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>interculturales</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5554</end_offset>
+    <explanation>&lt;strong&gt;Palabras compuestas.&lt;/strong&gt; Palabras compuestas que no están en el diccionario y que pueden escribirse con guión o separadas.
+</explanation>
+    <information></information>
+    <label>compuesto</label>
+    <label_code>comp</label_code>
+    <start_offset>5535</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>machajuyai-kallawaya</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5592</end_offset>
+    <explanation>&lt;strong&gt;Palabras compuestas.&lt;/strong&gt; Palabras compuestas que no están en el diccionario y que pueden escribirse con guión o separadas.
+</explanation>
+    <information></information>
+    <label>compuesto</label>
+    <label_code>comp</label_code>
+    <start_offset>5576</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>mojeño-trinitario</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2110</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2104</start_offset>
+    <suggestion>profes, roces, troces, proíces, proles</suggestion>
+    <type>err</type>
+    <word>process</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5406</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5401</start_offset>
+    <suggestion>amara, armara, aimara, Aymar, ayeara</suggestion>
+    <type>err</type>
+    <word>aymara</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5414</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5409</start_offset>
+    <suggestion>Armona, Arjona, arpona, Aragona, arana</suggestion>
+    <type>err</type>
+    <word>araona</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5429</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5424</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>bésiro</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5440</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5432</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>canichana</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5450</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5443</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>cavineño</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5460</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5453</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>cayubaba</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5469</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5463</start_offset>
+    <suggestion>Chocobo</suggestion>
+    <type>err</type>
+    <word>chácobo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5477</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5472</start_offset>
+    <suggestion>chiman</suggestion>
+    <type>err</type>
+    <word>chimán</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5487</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5484</start_offset>
+    <suggestion>Eja</suggestion>
+    <type>err</type>
+    <word>ejja</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5508</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5499</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>guarasu’we</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2117</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2115</start_offset>
+    <suggestion>Law</suggestion>
+    <type>err</type>
+    <word>law</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5517</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5511</start_offset>
+    <suggestion>guarayo</suggestion>
+    <type>err</type>
+    <word>guarayu</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5526</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5520</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>itonama</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5565</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5557</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>machineri</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5573</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5568</start_offset>
+    <suggestion>marsopa, jaropa, maroma, marola, Marosa</suggestion>
+    <type>err</type>
+    <word>maropa</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5625</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5619</start_offset>
+    <suggestion>mostén</suggestion>
+    <type>err</type>
+    <word>mosetén</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5633</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5628</start_offset>
+    <suggestion>movida</suggestion>
+    <type>err</type>
+    <word>movima</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5643</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5636</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>pacawara</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5670</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5664</start_offset>
+    <suggestion>Sirion</suggestion>
+    <type>err</type>
+    <word>sirionó</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5687</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5681</start_offset>
+    <suggestion>tapete</suggestion>
+    <type>err</type>
+    <word>tapiete</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5697</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5690</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>toromona</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2128</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2123</start_offset>
+    <suggestion>Common</suggestion>
+    <type>err</type>
+    <word>common</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5721</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5713</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>weenhayek</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5731</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5724</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>yaminawa</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5737</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5734</start_offset>
+    <suggestion>Yuki</suggestion>
+    <type>err</type>
+    <word>yuki</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5747</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5740</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>yuracaré</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5756</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5751</start_offset>
+    <suggestion>zambuco, zabuco, zamujo, zamuro</suggestion>
+    <type>err</type>
+    <word>zamuco</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7704</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7701</start_offset>
+    <suggestion>esta</suggestion>
+    <type>err</type>
+    <word>ésta</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>8267</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>8260</start_offset>
+    <suggestion>aquello, aquellas</suggestion>
+    <type>err</type>
+    <word>aquellos</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>9636</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>9636</start_offset>
+    <suggestion>ª</suggestion>
+    <type>err</type>
+    <word>^ª</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12753</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12747</start_offset>
+    <suggestion>estado, testado, restado, gestado</suggestion>
+    <type>err</type>
+    <word>‘estado</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12780</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12774</start_offset>
+    <suggestion>estado, testado, restado, gestado</suggestion>
+    <type>err</type>
+    <word>‘estado</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2132</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2130</start_offset>
+    <suggestion>Law</suggestion>
+    <type>err</type>
+    <word>law</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12792</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12785</start_offset>
+    <suggestion>derecho, derechos</suggestion>
+    <type>err</type>
+    <word>derecho’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13200</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13189</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>‘reelección’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13295</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13291</start_offset>
+    <suggestion>feudo, pseudo, sebudo, sudo, Seulo</suggestion>
+    <type>err</type>
+    <word>seudo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13380</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13372</start_offset>
+    <suggestion>traición</suggestion>
+    <type>err</type>
+    <word>‘traición</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13393</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13387</start_offset>
+    <suggestion>patria, patrias</suggestion>
+    <type>err</type>
+    <word>patria’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13609</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13602</start_offset>
+    <suggestion>dialogo</suggestion>
+    <type>err</type>
+    <word>‘dialogo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13619</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13611</start_offset>
+    <suggestion>nacional, Nacional</suggestion>
+    <type>err</type>
+    <word>nacional’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13666</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13657</start_offset>
+    <suggestion>traidores</suggestion>
+    <type>err</type>
+    <word>‘traidores</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13679</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13673</start_offset>
+    <suggestion>patria, patrias</suggestion>
+    <type>err</type>
+    <word>patria’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13884</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13875</start_offset>
+    <suggestion>adulterar</suggestion>
+    <type>err</type>
+    <word>‘adulterar</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2515</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2509</start_offset>
+    <suggestion>Proves, preces, proles, broces, roces</suggestion>
+    <type>err</type>
+    <word>process</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13970</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13963</start_offset>
+    <suggestion>popular</suggestion>
+    <type>err</type>
+    <word>popular’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>14047</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>14036</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>‘reelección’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>15429</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>15427</start_offset>
+    <suggestion>en, ben, gen, zen, nen</suggestion>
+    <type>err</type>
+    <word>–en</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>19145</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19139</start_offset>
+    <suggestion>febrero</suggestion>
+    <type>err</type>
+    <word>Febrero</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>19487</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19481</start_offset>
+    <suggestion>febrero</suggestion>
+    <type>err</type>
+    <word>Febrero</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2522</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2520</start_offset>
+    <suggestion>Law</suggestion>
+    <type>err</type>
+    <word>law</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>3529</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>3520</start_offset>
+    <suggestion>ilegalidad, legalidad, alegalidad</suggestion>
+    <type>err</type>
+    <word>‘legalidad</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>3841</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>3836</start_offset>
+    <suggestion>retos</suggestion>
+    <type>err</type>
+    <word>‘retos</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5027</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5014</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>afrobolivianas</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>1453</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>1453</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e intereses</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>3690</end_offset>
+    <explanation>&lt;strong&gt;Él y el.&lt;/strong&gt; &lt;em&gt;Él&lt;/em&gt; es un pronombre personal. &lt;em&gt;El&lt;/em&gt; es un artículo determinado que funciona como determinante de los nombres.&lt;br&gt;Ej.: &lt;em&gt;Él no es así. El libro es para él. Devuélveme el boli, por favor.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>él y no el</label>
+    <label_code>CorrEl</label_code>
+    <start_offset>3688</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el ...</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>7259</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>7259</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e intereses</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>12907</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>12907</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e independiente</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>13134</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>13134</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e independiente</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>16260</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>16260</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e indivisible</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>18916</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>18908</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>esta compuesto</word>
+  </annotation>
+  <score>
+    <score_gram>9.75473020322355</score_gram>
+    <score_lex>9.05395935529082</score_lex>
+    <score_total>9.40434477925718</score_total>
+  </score>
+  <statistics>
+    <forms>927</forms>
+    <grammar_errors>7</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>54</lexical_errors>
+    <lexical_warnings>13</lexical_warnings>
+    <tokens>2854</tokens>
+  </statistics>
+  <text>
+&quot;&lt;p&gt; Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley. &lt;/p&gt; &lt;p&gt; EXPOSICIÓN DE MOTIVOS &lt;/p&gt; &lt;p&gt; 1. Justificación de la reforma &lt;/p&gt; &lt;p&gt; Los derechos otorgados a los ciudadanos por los artículos 24 y 25 de la Constitución son corolario evidente de la concepción social o asistencial del Estado Democrático de Derecho, tal y como ha sido configurado por nuestra Norma Fundamental. En lógica coherencia con los contenidos de estos preceptos constitucionales, y al objeto de asegurar a todas las personas el acceso a la tutela judicial efectiva, el artículo 119 del propio texto constitucional previene que la Justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar. Con todo ello, nuestra Norma Fundamental diseña un marco constitucional regulador del derecho a la tutela judicial que incluye, por parte del Estado, una actividad prestacional encaminada a la provisión de los medios necesarios para hacer que este derecho sea real y efectivo incluso cuando quien desea ejercerlo carezca de recursos económicos. &lt;/p&gt; &lt;p&gt; Suprimidas por la Ley 25/1986 las tasas judiciales, el núcleo de los costes económicos derivados del acceso a la tutela judicial viene determinado por la intervención en el mismo, por imperativo legal, en la mayor parte de las ocasiones, de profesionales especializados en la defensa y representación de los derechos e intereses legítimos. En efecto, una vez que el Estado ha renunciado a la percepción de cualquier cantidad por el acceso al aparato judicial, son los honorarios de abogados, de procuradores y, en su caso, de cualesquiera otros profesionales, así como el coste de la obtención de las pruebas documentales o periciales necesarias, los que implican un coste económico inasumible para los ciudadanos que no disponen de los recursos económicos necesarios para hacerles frente. &lt;/p&gt;  El derecho de acceso a la justicia es uno de los derechos que ha generado en las últimas décadas un replanteamiento. Su origen histórico lo ubicamos en el concepto del due process of law del common law inglés, la norma según la cual los individuos no deben ser privados de su vida, libertad o propiedad sin que previamente se les brinde una oportunidad de defensa judicial efectiva. Dicha garantía es más antigua que las Constituciones escritas, de tal suerte que la Carta Magna de 1215, que definió los derechos de los individuos frente al rey, establecía la garantía del due process of law en los siguientes términos: “En lo sucesivo no se expedirá a ningún hombre libre el requerimiento para la posesión de tierras, cuando su expedición implique la privación del derecho a ser juzgado por el tribunal de su propio señor”  &lt;p&gt; Bogotá, 16 de julio de 2019. Este martes en Bogotá, durante el acto de instalación del II Encuentro Nacional de la Red de Centros de Conciliación y Arbitraje de las Cámaras de Comercio del país, el Director de Métodos Alternativos de Solución de Conflictos del Ministerio de Justicia y del Derecho, Carlos José... &lt;/p&gt; &lt;p&gt; Girardot (Cundinamarca), 12 de julio de 2019. Tener un contacto directo escuchando a la ciudadanía, proteger a los colombianos del flagelo de las drogas –especialmente a los más jóvenes- y racionalizar la política criminal para que solo vayan a la cárcel quienes cometan delitos que así lo ameriten. &lt;/p&gt; &lt;p&gt; Bogotá, 11 de julio de 2019. Este jueves la Ministra de Justicia y del Derecho, Margarita Cabello Blanco, participó en el foro ‘Legalidad en el Estado Social de Derecho’, evento organizado por el Ministerio de Relaciones Exteriores y en el cual expuso ante más de 500 miembros de las tres ramas del... &lt;/p&gt; &lt;p&gt; Cali, 10 de julio de 2019. En el marco del XIII Congreso de la Asociación Colombiana de Facultades de Derecho (Acofade), denominado ‘Retos de las facultades de Derecho en el Siglo XXI’, la Ministra de Justicia y del Derecho, Margarita Leonor Cabello Blanco, reveló que dentro del paquete de reformas que... &lt;/p&gt;  Palabras clave: ley, constitución, deber Artículo 1. Bolivia se constituye en un Estado Unitario Social de Derecho Plurinacional Comunitario, libre, independiente, soberano, democrático, intercultural, descentralizado y con autonomías. Bolivia se funda en la pluralidad y el pluralismo político, económico, jurídico, cultural y lingüístico, dentro del proceso integrador del país. Artículo 2. Dada la existencia precolonial de las naciones y pueblos indígena originario campesinos y su dominio ancestral sobre sus territorios, se garantiza su libre determinación en el marco de la unidad del Estado, que consiste en su derecho a la autonomía, al autogobierno, a su cultura, al reconocimiento de sus instituciones y a la consolidación de sus entidades territoriales, conforme a esta Constitución y la ley. Artículo 3. La nación boliviana está conformada por la totalidad de las bolivianas y los bolivianos, las naciones y pueblos indígena originario campesinos, y las comunidades interculturales y afrobolivianas que en conjunto constituyen el pueblo boliviano. Artículo 4. El Estado respeta y garantiza la libertad de religión y de creencias espirituales, de acuerdo con sus cosmovisiones. El Estado es independiente de la religión. Artículo 5. I. Son idiomas oficiales del Estado el castellano y todos los idiomas de las naciones y pueblos indígena originario campesinos, que son el aymara, araona, baure, bésiro, canichana, cavineño, cayubaba, chácobo, chimán, ese ejja, guaraní, guarasu’we, guarayu, itonama, leco, machajuyai-kallawaya, machineri, maropa, mojeño-trinitario, mojeño-ignaciano, moré, mosetén, movima, pacawara, puquina, quechua, sirionó, tacana, tapiete, toromona, uru-chipaya, weenhayek, yaminawa, yuki, yuracaré y zamuco. II. El Gobierno plurinacional y los gobiernos departamentales deben utilizar al menos dos idiomas oficiales. Uno de ellos debe ser el castellano, y el otro se decidirá tomando en cuenta el uso, la conveniencia, las circunstancias, las necesidades y preferencias de la población en su totalidad o del territorio en cuestión.  ARGENTINA Artículo 21.- Todo ciudadano argentino está obligado a armarse en defensa de la patria y de esta Constitución, conforme a las leyes que al efecto dicte el Congreso y a los decretos del Ejecutivo nacional. Los ciudadanos por naturalización son libres de prestar o no este servicio por el termino de diez años contados desde el día en que obtengan su carta de ciudadanía. BOLIVIA Artículo 8.- Toda persona tiene los siguientes deberes fundamentales: &lt;/p&gt; &lt;p&gt; De acatar y cumplir la Constitución y las leyes de la República. De trabajar, según su capacidad y posibilidades, en actividades socialmente útiles. De adquirir instrucción por lo menos primaria. De contribuir, en proporción a su capacidad económica, al sostenimiento de los servicios públicos. De asistir, alimentar y educar a sus hijos menores de edad, así como de proteger y socorrer a sus padres cuando se hallen en situación de enfermedad, miseria o desamparo. De prestar los servicios civiles y militares que la Nación requiera para su desarrollo, defensa y conservación. De cooperar con los órganos del Estado y la comunidad en el servicio y la seguridad sociales. De resguardar y proteger los bienes e intereses de la colectividad. CHILE Artículo 22.- Todo habitante de la República debe respeto a Chile y a sus emblemas nacionales. Los chilenos tienen el deber fundamental de honrar a la patria, de defender su soberanía y de contribuir a preservar la seguridad nacional y los valores esenciales de la tradición chilena. &lt;/p&gt; &lt;p&gt; El servicio militar y demás cargas personales que imponga la ley son obligatorios en los términos y formas que ésta determine. &lt;/p&gt; &lt;p&gt; Los chilenos en estado de cargar armas deberán hallarse inscritos en los Registros Militares, si no están legalmente exceptuados. &lt;/p&gt; &lt;p&gt; COLOMBIA Artículo 22.- La paz es un derecho y un deber de obligatorio cumplimiento. &lt;/p&gt;   &lt;p&gt; Artículo 11 &lt;/p&gt; &lt;p&gt; La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley. &lt;/p&gt; &lt;p&gt; Ningún español de origen podrá ser privado de su nacionalidad. &lt;/p&gt; &lt;p&gt; El Estado podrá concertar tratados de doble nacionalidad con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España. En estos mismos países, aun cuando no reconozcan a sus ciudadanos un derecho recíproco, podrán naturalizarse los españoles sin perder su nacionalidad de origen. &lt;/p&gt; &lt;p&gt; Artículo 12 &lt;/p&gt; &lt;p&gt; Artículo 13 &lt;/p&gt; &lt;p&gt; Los extranjeros gozarán en España de las libertades públicas que garantiza el presente Título en los términos que establezcan los tratados y la ley. &lt;/p&gt; &lt;p&gt; Solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales. &lt;/p&gt; &lt;p&gt; La extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. Quedan excluidos de la extradición los delitos políticos, no considerándose como tales los actos de terrorismo. &lt;/p&gt; &lt;p&gt; La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España. &lt;/p&gt; &lt;p&gt; Capítulo segundo. Derechos y libertades &lt;/p&gt; &lt;p&gt; Artículo 14 &lt;/p&gt; &lt;p&gt; Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social. &lt;/p&gt; &lt;p&gt; Sección 1.ª De los derechos fundamentales y de las libertades públicas &lt;/p&gt; &lt;p&gt; Artículo 15 &lt;/p&gt; &lt;p&gt; Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes. Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra. &lt;/p&gt;   Constitución Política del Perú de 1993 PREAMBULO El Congreso Constituyente Democrático, invocando a Dios Todopoderoso, obedeciendo el mandato del pueblo peruano y recordando el sacrificio de todas las generaciones que nos han precedido en nuestra Patria, ha resuelto dar la siguiente Constitución: CONSTITUCION POLITICA DEL PERU TITULO I DE LA PERSONA Y DE LA SOCIEDAD CAPITULO I DERECHOS FUNDAMENTALES DE LA PERSONA Artículo 1º La defensa de la persona humana y el respeto de su dignidad son el fin supremo de la sociedad y del Estado. Artículo 2º Toda persona tiene derecho: 1. A la vida, a su identidad, a su integridad moral, psíquica y física y a su libre desarrollo y bienestar. El concebido es sujeto de derecho en todo cuanto le favorece. 2. A la igualdad ante la ley. Nadie debe ser discriminado por motivo de origen, raza, sexo, idioma, religión, opinión, condición económica o de cualquiera otra índole. 3. A la libertad de conciencia y de religión, en forma individual o asociada. No hay persecución por razón de ideas o creencias. No hay delito de opinión. El ejercicio público de todas las confesiones es libre, siempre que no ofenda la moral ni altere el orden público. 4. A las libertades de información, opinión, expresión y difusión del pensamiento mediante la palabra oral o escrita o la imagen, por cualquier medio de comunicación social, sin previa autorización ni censura ni impedimento algunos, bajo las responsabilidades de ley. Los delitos cometidos por medio del libro, la prensa y demás medios de comunicación social se tipifican en el Código Penal y se juzgan en el fuero común. Es delito toda acción que suspende o clausura algún órgano de expresión o le impide circular libremente. Los derechos de informar y opinar comprenden los de fundar medios de comunicación 5. A solicitar sin expresión de causa la información que requiera y a recibirla de cualquier entidad pública, en el plazo legal, con el costo que suponga el pedido. Se exceptúan las informaciones que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional. El secreto bancario y la reserva tributaria pueden levantarse a pedido del Juez, del Fiscal de la Nación, o de una comisión investigadora del Congreso con arreglo a ley y siempre que se refieran al caso investigado. 6. A que los servicios informáticos, computarizados o no, públicos o privados, no suministren informaciones que afecten la intimidad personal y familiar.  &lt;p&gt; Nosotros los ciudadanos hondureños por nacimiento que cumplimos con nuestros deberes ciudadanos, nos encontramos en pie de lucha hasta restablecer el orden constitucional y devolverle a nuestro “Estado de Honduras” el Imperio de “La Ley”, porque nuestro ‘Estado de Honduras’ es un ‘Estado de derecho’. &lt;/p&gt; &lt;p&gt; ARTÍCULO 1.- Honduras es un Estado de derecho, soberano, constituido como república libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, la libertad, la cultura y el bienestar económico y social. &lt;/p&gt; &lt;p&gt; Nosotros jamás permitiremos que nuestra República de Honduras siendo libre, democrática e independiente se instale un Gobierno producto de una ‘reelección’ prohibida en la “Constitución de La República de Honduras” vigente y que después de unas seudo elecciones generales llevadas a cabo, gana el inspirador de este delito de ‘traición a la patria’ y los demás delincuentes de los restantes partidos políticos que participaron, atentando en contra del “Estado de Honduras”, se encuentren en crisis política por quedarse en el Poder y hablando acerca de un ‘dialogo nacional’ para resolver la crisis. No señores ‘traidores a la patria’, ustedes todos ya perdieron su calidad de ciudadano hondureño, entonces qué pretenden. &lt;/p&gt; &lt;p&gt; ARTÍCULO 42.- La calidad de ciudadano se pierde: &lt;/p&gt; &lt;p&gt; 4. Por coartar la libertad de sufragio, ‘adulterar documentos electorales o emplear medios fraudulentos para burlar la voluntad popular’; &lt;/p&gt; &lt;p&gt; 5. Por incitar, promover o apoyar el continuismo o la ‘reelección’ del Presidente de la República. &lt;/p&gt; &lt;p&gt; Creemos que está bien claro lo que expresa nuestra “Constitución de La República de Honduras” vigente. &lt;/p&gt;  DE LA POLÍTICA HIGIENISTA A LA POLÍTICA PROTECCIONISTA DEL PATRIMONIO EDIFICADO: LOS NUEVOS PARADIGMAS EN LA LEY 8/2013, DE 26 DE JUNIO, DE REHABILITACIÓN, REGENERACIÓN Y RENOVACIÓN URBANAS. Ignacio Pemán Gavín Abogado. INDICE I.- Introducción. La evolución del régimen del deber de conservación del propietario de patrimonio edificado II.- Régimen del deber de conservación. Técnica al servicio de la visión higienista III.- Evolución. A partir de 1976; Ley/1990-ley 6/1998-Ley2007. IV.- El cambio sustantivo: 2011-2013. De la ley de economía sostenible a la ley 8/2013, de 26 de junio, de rehabilitación, regeneración y renovación urbana V.- En concreto las medidas de conservación y rehabilitación en la vigente ley 8/2013, de 26 de junio, de rehabilitación, regeneración y renovación urbanas I.- INTRODUCCIÓN. LA EVOLUCIÓN DEL RÉGIMEN DEL DEBER DE CONSERVACIÓN DEL PROPIETARIO DE PATRIMONIO EDIFICADO. El estatuto del propietario del patrimonio edificado ha sido objeto de una evolución desde su primera regulación en la Ley de 12 de mayo de 1956 sobre régimen del suelo y ordenación urbana (en adelante LS/56) hasta la recientemente aprobada Ley 8/2013, de 26 de junio, de rehabilitación, regeneración y renovación urbanas –en adelante Ley 3/R- que ha venido por tercera vez en un período de tres años a modificar, entre otros aspectos colaterales, el régimen del deber de conservación del propietario recogido en el Texto Refundido de la Ley de Suelo -Real Decreto Legislativo 2/2008, de 20 de junio- (en adelante TRLS/2008).  &lt;p&gt; 8.- La forma política del Estado Español es la monarquía parlamentaria, según el artículo... &lt;/p&gt; &lt;p&gt; a) Artículo 1.3 &lt;/p&gt; &lt;p&gt; b) Artículo 1.1 &lt;/p&gt; &lt;p&gt; c) Artículo 3.1 &lt;/p&gt; &lt;p&gt; d) Artículo 2.1 &lt;/p&gt; &lt;p&gt; 9.- Entre los valores superiores del ordenamiento jurídico que proclama la Constitución, figura el de: &lt;/p&gt; &lt;p&gt; a) Pluralismo jurídico. &lt;/p&gt; &lt;p&gt; b) Contraste de pareceres. &lt;/p&gt; &lt;p&gt; c) Igualdad. &lt;/p&gt; &lt;p&gt; d) Libertad económica. &lt;/p&gt; &lt;p&gt; 10.- El Estado español es calificado en la constitución como: &lt;/p&gt; &lt;p&gt; b) Patria común e indivisible de todos los españoles. &lt;/p&gt; &lt;p&gt; c) Nación comunitaria. &lt;/p&gt; &lt;p&gt; d) Patria comunitaria. &lt;/p&gt; &lt;p&gt; 12.- La Constitución reconoce y garantiza: &lt;/p&gt; &lt;p&gt; a) El derecho a la autonomía de las nacionalidades que integran la nación española. &lt;/p&gt; &lt;p&gt; b) El derecho a la autonomía de las regiones que integran la nación española. &lt;/p&gt; &lt;p&gt; c) La solidaridad entre todas las nacionalidades y regiones que integran la nación española. &lt;/p&gt; &lt;p&gt; a) La Monarquía parlamentaria. &lt;/p&gt; &lt;p&gt; b) La soberanía nacional. &lt;/p&gt; &lt;p&gt; 14.- La bandera de España está formada por tres franjas, roja, amarilla y roja: &lt;/p&gt; &lt;p&gt; a) Horizontalmente colocadas, siendo las tres franjas de igual anchura. &lt;/p&gt; &lt;p&gt; b) Horizontalmente colocadas, siendo la amarilla de doble anchura que cada una de las rojas. &lt;/p&gt; &lt;p&gt; c) Horizontalmente colocadas, siendo la roja de doble anchura que cada una de las amarillas. &lt;/p&gt; &lt;p&gt; d) Verticalmente colocadas, siendo la amarilla de doble anchura que cada una de las rojas. &lt;/p&gt; &lt;p&gt; 15.- Según la Constitución, la bandera española: &lt;/p&gt; &lt;p&gt; a) Sólo debe utilizarse en las Comunidades Autónomas, con las banderas propias de cada una de ellas. &lt;/p&gt; &lt;p&gt; b) Se utilizará siempre con las propias de cada Comunidad. &lt;/p&gt; &lt;p&gt; c) Se utilizará solamente en edificios estatales y actos públicos oficiales. &lt;/p&gt; &lt;p&gt; d) Se utilizará en edificios públicos y actos oficiales de las Comunidades Autónomas. &lt;/p&gt; &lt;p&gt; 16.- Los partidos políticos expresan: &lt;/p&gt; &lt;p&gt; a) La voluntad popular. &lt;/p&gt; &lt;p&gt; b) El pluralismo político. &lt;/p&gt; &lt;p&gt; c) La participación política. &lt;/p&gt; &lt;p&gt; d) El instrumento fundamental para la participación política. &lt;/p&gt; &lt;p&gt; 17.- Corresponde a los poderes públicos: &lt;/p&gt; &lt;p&gt; a) Facilitar la participación de los ciudadanos con capacidad en la vida política. &lt;/p&gt; &lt;p&gt; b) Facilitar la participación de los ciudadanos en la vida cultural y social. &lt;/p&gt; &lt;p&gt; c) Afianzar los obstáculos que impidan un equivocado o desmesurado empleo de la libertad individual. &lt;/p&gt; &lt;p&gt; d) Regular los cauces necesarios para alcanzar el disfrute por los ciudadanos de una seguridad plena. &lt;/p&gt; &lt;p&gt; 18.- Con respecto a la arbitrariedad de los poderes públicos, la Constitución: &lt;/p&gt; &lt;p&gt; a) Garantiza su legalización. &lt;/p&gt; &lt;p&gt; b) Garantiza su interdicción. &lt;/p&gt; &lt;p&gt; c) Garantiza su responsabilidad. &lt;/p&gt;   &lt;p&gt; LEYES ESTATUTARIAS &lt;/p&gt; &lt;p&gt; Tienen una categoría superior a las demás clases de leyes (importancia jurídica). &lt;/p&gt; &lt;p&gt; Son las leyes fundamentales para el ejercicio de la democracia. &lt;/p&gt; &lt;p&gt; Son Parámetro de control de constitucionalidad trascendencia. &lt;/p&gt; &lt;p&gt; LEYES ORDINARIAS &lt;/p&gt; &lt;p&gt; Leyes sin mayor trascendencia. &lt;/p&gt; &lt;p&gt; Este tipo de ley esta compuesto por todas las normas legales que no cumplen con la exigencia de tener una específica denominación legal. &lt;/p&gt; &lt;p&gt; Para su aprobación requiere mayoría simple de los miembros asistentes. &lt;/p&gt; &lt;p&gt; Ejemplo: Ley 1617 del 5 de Febrero de 2013: “Por la cual se expide el régimen para los distritos especiales”. &lt;/p&gt; &lt;p&gt; LEYES DE MARCO &lt;/p&gt; &lt;p&gt; Son aquellas que establecen las normas generales y señala los criterios y objetivos a los que debe sujetarse el gobierno con relación a determinados asuntos establecidos en la Constitución. &lt;/p&gt; &lt;p&gt; Ejemplo: Ley 1617 del 5 de Febrero de 2013: “Por la cual se expide el régimen para los distritos especiales”. &lt;/p&gt; &lt;p&gt; LEYES ORGÁNICAS &lt;/p&gt; &lt;p&gt; Las leyes orgánicas como su nombre lo dice regulan los órganos. &lt;/p&gt; &lt;p&gt; Es &quot;&quot;un mandamiento al Congreso en orden a regular su función legislativa, señalándole límites y condicionamientos“. &lt;/p&gt; &lt;p&gt; Para su aprobación requieren que sean votadas afirmativamente por la mitad más uno de los asistentes a la sesión, siempre que estén presentes la mitad más uno de los miembros de la Comisión o la Plenaria respectiva. &lt;/p&gt;&quot;
+
+</text>
+</avalingua>

@@ -1,0 +1,555 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+</text>
+</avalingua>
+analisado às 11:06:37 am, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+</text>
+</avalingua>
+analisado às 11:08:21 am, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+</text>
+</avalingua>
+analisado às 11:57:03 am, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+
+
+</text>
+</avalingua>
+analisado às 12:21:33 pm, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+</text>
+</avalingua>
+analisado às 12:22:08 pm, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+</text>
+</avalingua>
+analisado às 12:22:29 pm, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+</text>
+</avalingua>
+analisado às 12:22:52 pm, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+
+
+
+
+</text>
+</avalingua>
+analisado às 1:17:28 pm, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+</text>
+</avalingua>
+analisado às 1:18:12 pm, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+</text>
+</avalingua>
+analisado às 1:39:08 pm, July 24th 2019<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1</end_offset>
+    <explanation>&lt;strong>Mayúsculas en principio de frase.&lt;/strong>.
+</explanation>
+    <information/>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>0</start_offset>
+    <suggestion>La</suggestion>
+    <type>err</type>
+    <word>^la</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21</end_offset>
+    <explanation>&lt;strong>Falta puntuación final.&lt;/strong> La frase necesita un punto final.
+</explanation>
+    <information/>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>19</start_offset>
+    <suggestion>fea.</suggestion>
+    <type>err</type>
+    <word>fea^</word>
+  </annotation>
+  <score>
+    <score_gram>10</score_gram>
+    <score_lex>0</score_lex>
+    <score_total>5</score_total>
+  </score>
+  <statistics>
+    <forms>6</forms>
+    <grammar_errors>0</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>2</lexical_errors>
+    <lexical_warnings>0</lexical_warnings>
+    <tokens>6</tokens>
+  </statistics>
+  <text>
+la casa de juan es fea
+
+
+
+
+</text>
+</avalingua>
+analisado às 2:05:01 pm, July 24th 2019

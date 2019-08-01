@@ -1,0 +1,386 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5983</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>5980</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>éste</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7165</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>7162</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>éste</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11835</end_offset>
+    <explanation>&lt;strong&gt;Palabras frecuentes.&lt;/strong&gt; Palabras que, a pesar de no estar recogidas en el diccionario de la RAE, son de uso muy extendido y gozan de una aceptación general.
+</explanation>
+    <information></information>
+    <label>palabra frecuente</label>
+    <label_code>pal-frec</label_code>
+    <start_offset>11832</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>mami</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12051</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>12048</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1637</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>1630</start_offset>
+    <suggestion>regordeta, rebordea, regodea</suggestion>
+    <type>err</type>
+    <word>regordea</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>10708</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>10708</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>–</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>10849</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>10837</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>distrayéndolo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11104</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>11104</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>–</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12183</end_offset>
+    <explanation>&lt;strong&gt;Falta puntuación final.&lt;/strong&gt; La frase necesita un punto final.
+</explanation>
+    <information></information>
+    <label>blank</label>
+    <label_code>end</label_code>
+    <start_offset>12180</start_offset>
+    <suggestion>duda.</suggestion>
+    <type>err</type>
+    <word>duda^</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2006</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>1997</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>cirujeando</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>3147</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>3142</start_offset>
+    <suggestion>grito</suggestion>
+    <type>err</type>
+    <word>grito-</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>4083</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>4075</start_offset>
+    <suggestion>preguntó</suggestion>
+    <type>err</type>
+    <word>–preguntó</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>4195</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>4191</start_offset>
+    <suggestion>dijo</suggestion>
+    <type>err</type>
+    <word>–dijo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>4205</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>4200</start_offset>
+    <suggestion>conde, Conde</suggestion>
+    <type>err</type>
+    <word>conde-</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7455</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7450</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>garzul</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>9754</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>9752</start_offset>
+    <suggestion>río, rol, lo, reo, rolo</suggestion>
+    <type>err</type>
+    <word>rlo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>10532</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>10520</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>distrayéndole</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>408</end_offset>
+    <explanation>&lt;strong&gt;Jugar a un deporte y no jugar deporte.&lt;/strong&gt;. Se utiliza la preposición &lt;em&gt;a&lt;/em&gt; después del verbo &lt;em&gt;jugar&lt;/em&gt; y antes de un sustantivo referente a un deporte. Por ej: &lt;em&gt;Jugamos al hockey&lt;/em&gt; y no &lt;em&gt;*jugamos hockey&lt;/em&gt;.
+</explanation>
+    <information></information>
+    <label>Jugar + deporte</label>
+    <label_code>CorrJugarA</label_code>
+    <start_offset>402</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>jugando fútbol</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>2810</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>2807</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>los cara</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>3039</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>3039</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e inteligible</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>6160</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>6156</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el ágora</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>10590</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>10590</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e impidiendo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>11664</end_offset>
+    <explanation>&lt;strong&gt;Él y el.&lt;/strong&gt; &lt;em&gt;Él&lt;/em&gt; es un pronombre personal. &lt;em&gt;El&lt;/em&gt; es un artículo determinado que funciona como determinante de los nombres.&lt;br&gt;Ej.: &lt;em&gt;Él no es así. El libro es para él. Devuélveme el boli, por favor.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>él y no el</label>
+    <label_code>CorrEl</label_code>
+    <start_offset>11663</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el bate</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>11682</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>11682</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e introduciendo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>11768</end_offset>
+    <explanation>&lt;strong&gt;Él y el.&lt;/strong&gt; &lt;em&gt;Él&lt;/em&gt; es un pronombre personal. &lt;em&gt;El&lt;/em&gt; es un artículo determinado que funciona como determinante de los nombres.&lt;br&gt;Ej.: &lt;em&gt;Él no es así. El libro es para él. Devuélveme el boli, por favor.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>él y no el</label>
+    <label_code>CorrEl</label_code>
+    <start_offset>11767</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el bate</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>12009</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>12009</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e infranqueable</word>
+  </annotation>
+  <score>
+    <score_gram>9.58081043316255</score_gram>
+    <score_lex>9.69725197950629</score_lex>
+    <score_total>9.63903120633442</score_total>
+  </score>
+  <statistics>
+    <forms>850</forms>
+    <grammar_errors>9</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>13</lexical_errors>
+    <lexical_warnings>4</lexical_warnings>
+    <tokens>2147</tokens>
+  </statistics>
+  <text>
+&lt;p&gt; Sábado a la mañana, día soleado aunque un poco fresco. La plaza estaba colmada de niños jugando acompañados de sus padres o abuelos. Allí cerca está la estación del ferrocarril y el tren se hace oír con sus bocinazos. Esta vía atraviesa toda la ciudad y parte del gran Buenos Aires. El arrabal está más cerca del centro. Pequeños en bicicleta, otros montados en autos o motos eléctricas, los menos jugando fútbol y muchos más aprovechando las instalaciones de los juegos infantiles instalados por todo el parque. Algunos atrevidos corriendo a las palomas y otros se entretienen dándoles de comer. Allá lejos, en la parte más sombreada, en el rincón más solitario lo vi a él. Un niño de diez años, sentado entre una multitud de palomas. Cada tanto les arrojaba unas migas de pan para que comieran cerca y sin temor. Me senté a media distancia, no quería perturbarlo y mucho menos darle miedo, no había notado mi presencia. De pronto hizo un movimiento rápido y al levantar la vista me vio. Todavía tenía su mano derecha dentro de una pequeña bolsa. Pasaron unos interminables segundos. Nos miramos. Lentamente descubrí su juego y así lentamente me acerqué saludándolo. -¡Hola!, cuando era chico yo también, con mis amigos, cazábamos palomas- le sonreí. El cazador furtivo me miraba tratando de adivinar qué es lo que yo quería de él. Lo observé detenidamente ya muy cerca. La cara de laucha, desconfiado y en guardia, trajo a mi memoria aquella época en que trabajé en una de las tantas villas miserias, ahora se usa el eufemismo de barrios humildes, pero no dejan de ser lugares donde reina , no la pobreza, sino que quien se regordea es la miseria. Casillas precarias, lugares sin servicios, sin seguridad, sin trabajo y sin futuro. Jorge, mi cara de laucha, me confirmó que venía cada tanto en el tren y se llevaba unas diez palomas para comer. Su padre, albañil, no conseguía trabajo y ahora bebía sin parar. La madre salía a limpiar casas cuando encontraba una. Él y sus hermanos ayudaban cirujeando, juntando vidrios, huesos y cartones. Quería tener gallinas pero los vecinos se las roban. El niño adulto hablaba y yo pensaba, cuándo fue que tuvimos una guerra y no me enteré. Y seguimos con el mito de ser el granero del mundo¡Estafadores! Escuchaba a este niño que la vida lo obliga a ser adulto y pensaba en toda esa gente que uno ignora que existe y cuando se los ve nos parten el corazón. Lo ayude a cargar su bolsa y lo invité a desayunar. Luego fuimos de compras y él con los víveres necesarios volvió al tren. Así nos despedimos. Regresé a casa con cierta tranquilidad por mi buena acción que arrancó una sonrisa al hombre de diez años. Por radio daban la buena noticia: el dólar estable, que bajó el riesgo país y que comprar acciones nacionales es un buen negocio. Pensé en llamar a los “cara de laucha” para decirles la buena nueva y que aprovechen sus ahorros para invertir. &lt;/p&gt;
+ &lt;p&gt; … El jefe de la cofradía desdobló el papel, lo leyó y levantó la mano. -El Señor sea bendecido y Su Santidad sea loada -dijo en alta e inteligible voz-; hay perdón de la vida para uno de los reos. -¡Perdón! -exclamó el pueblo a un solo grito-. ¿Hay perdón? Al oír la palabra de perdón, Andrés pareció saltar y levantar la cabeza. -Perdón, ¿para quién? -gritó. Pepino permaneció inmóvil, mudo y jadeante. -Hay perdón de pena de muerte para Pepino, llamado Rocca Priori -dijo el jefe de la cofradía, y pasó el papel al capitán que mandaba los carabineros, el cual, después de haberlo leído, se lo devolvió. -¡Perdón para Pepino! -exclamó Andrés, saliendo del sopor en que parecía estar sumido.- ¿Por qué perdón para él y no para mí? Debíamos morir juntos, me habían prometido que moriría antes que yo, no tienen derecho a hacerme morir solo, ¡no quiero morir solo, no quiero! Y diciendo esto se agarró a los brazos de los dos sacerdotes, retorciéndose, dando alaridos, rugiendo y haciendo esfuerzos insensatos para romper las cuerdas que le ligaban las manos. El verdugo hizo señal a sus dos ayudantes, que bajaron del cadalso y se apoderaron del reo. -¿Qué ha ocurrido? –preguntó Franz, pues como todo esto se decía en lengua italiana, no había comprendido muy bien. -¿No lo adivináis? –Dijo el conde-. Ha ocurrido que esa criatura humana que va a morir está furiosa porque su semejante no muere con ella, y que si la dejasen le desgarraría con sus uñas y con sus dientes más bien que dejarle gozar de la vida de que ella misma se va a ver privada… (Fragmento del conde de monte Cristo de Alexandre Dumas, Auguste Maquet). &lt;/p&gt;   &lt;p&gt; ...Una niña muy bonita, una pequeña princesa que tenía un cutis blanco como la nieve, labios y mejillas rojos como la sangre, y cabellos negros como el azabache. Su nombre era Blancanieves. &lt;/p&gt; &lt;p&gt; A medida que crecía la princesa, su belleza aumentaba día tras día hasta que su madrastra, la reina, se puso muy celosa. Llegó un día en que la malvada madrastra no pudo tolerar más su presencia y ordenó a un cazador que la llevara al bosque y la matara. Como ella era tan joven y bella, el cazador se apiadó de la niña y le aconsejó que buscara un escondite en el bosque. &lt;/p&gt; &lt;p&gt; Blancanieves corrió tan lejos como se lo permitieron sus piernas, tropezando con rocas y troncos de árboles que la lastimaban. Por fin, cuando ya caía la noche, encontró una casita y entró para descansar. Todo en aquella casa era pequeño, pero más lindo y limpio de lo que se pueda imaginar. Cerca de la chimenea estaba puesta una mesita con siete platos muy pequeñitos, siete tacitas de barro y al otro lado de la habitación se alineaban siete camitas muy ordenadas. La princesa, cansada, se echó sobre tres de las camitas, y se quedó profundamente dormida. &lt;/p&gt;   &lt;p&gt; Crises quería rescatar a su hija, por lo que se lo pidió a los Aqueos por medio de una recompensa. Así todos estuvieron de acuerdo en ello, menos Atrida Agamenón, que además de rechazarla amenazó a Crises, por lo que este último pidió a Apolo que con sus flechas pagase sus ofrendas, y así éste descendió del Olimpo y dio con sus saetas a todo lo que allí había (perros, soldados, caballos…) durante nueve días. &lt;/p&gt; &lt;p&gt; Al décimo, Aquileo convocó una reunión en el ágora y mostró su arrepentimiento y deseos de consultar a un sacerdote para saber los motivos que llevaron a Apolo a su ataque y si ofrendándolo, los salvarían de la peste tanto a él como a sus hombres. Así, se levantó Calcante Testórida y le pidió defensa al anterior ante las declaraciones que iba a hacer, y aceptando el anterior, dijo que todos sus males venían porque Apolo estaba enojado por no devolver al sacerdote a su hija Criseida a causa del rechazo de Agamenón, y si querían salvarse de la peste, habían de llevar de vuelta con su padre a Criseida. &lt;/p&gt; &lt;p&gt; Tras esto, el Atrida contesto que si por su culpa era, devolvería a Criseida, pero tendría que ser recompensado. Entonces Aquileo le suplicó la devolviera y Zeus les permitiese atacar Troya, ya que eran aqueos, le pagarían. Pese a ello Agamenón no aceptó dicha recompensa, ya que lo que él deseaba era una fémina, pero a pesar de su inconformidad con el trato, decidió devolver a Criseida y dirigir a Aquileo y a sus hombres. &lt;/p&gt; &lt;p&gt; Éste último, no estando de acuerdo con el Atrida, decidió volver a Ptía; al oír esto Agamenón, le amenazó con arrebatarle a Briseida, recompensa cedida por este a su entonces soldado”. &lt;/p&gt;
+&lt;p&gt; “Cobardía” de Amado Nervo Pasó con su madre. ¡Qué rara belleza! ¡Qué rubios cabellos de trigo garzul! ¡Qué ritmo en el paso! ¡Qué innata realeza de porte! ¡Qué formas bajo el fino tul... Pasó con su madre. Volvió la cabeza: ¡me clavó muy hondo su mirada azul! Quedé como en éxtasis... Con febril premura, “¡Síguela!”, gritaron cuerpo y alma al par. ...Pero tuve miedo de amar con locura, de abrir mis heridas, que suelen sangrar, ¡y no obstante toda mi sed de ternura, cerrando los ojos, la dejé pasar! &lt;/p&gt;  &lt;p&gt; Oh lucía, oh lucía, Que tan alegre yo sería, que tan alegre yo sería, Cuando niño yo veía, Cuando niño yo veía, tu andar alegre. Pues yo veía, como el viento tu cabello mecía, Cuando tú andabas muy alegre, Por el valle verde. Yo veía, yo veía, Como el viento jugueteaba, Con tus cabellos cuando caminabas, Pues yo te veía, pues yo te veía, cuando yo por el sendero andaba, y de cerca te veía. (Autor Diabul) &lt;/p&gt;
+&lt;p&gt; PRIMER ACTO &lt;/p&gt; &lt;p&gt; El baño del departamento de Mónica. Un baño muy bien amueblado y con acabados lujosos. La puerta está del lado izquierdo. Azulejos de color amarillo pastel con figurillas que se engarzan entre sí. El lavamanos tiene dos puertas en la parte inferior, un espejo encima que toca el techo, al lado derecho un retrete y a la diestra de este se encuentra la tina de hidromasaje. Tres cuadros decorativos. Jabones de colores y una maceta. &lt;/p&gt; &lt;p&gt; ESCENA I &lt;/p&gt; &lt;p&gt; Mónica entra al baño, trae en la mano un teléfono inalámbrico, cierra la puerta y se mira en el espejo de forma pensativa y como reconociéndose a sí misma, mirándose extrañada como si su reflejo no fuera el de ella misma. Se toca la cara. &lt;/p&gt; &lt;p&gt; Mónica: Mm! No cabe la menor duda; ya no tengo el mismo aspecto, no soy la misma. Estos últimos veinte años han acabado conmigo. Las bolsas debajo de mis ojos son de insomnio, las patas de gallo al lado de las sienes son el resultado de la experiencia insatisfecha y mediocre que he adquirido; esta marca (señalando la marca que la sonrisa deja al paso del tiempo) es de hipocresía. De vivir siendo la que no soy, mostrándome como muñeca de porcelana a la cual no se le permite quebrarse y fingir afecto por aquellas personas que no soportaba, (suspira con desánimo y resignación). &lt;/p&gt; &lt;p&gt; Hace una pausa leve mientras continúa explorando su cara. &lt;/p&gt; &lt;p&gt; Mónica: Las arrugas en mi frente son por resguardarme en los brazos protectores rlo, pero un poco temerosa, marca con impaciencia un número. &lt;/p&gt; &lt;p&gt; Mónica: hola! (en tono sensual), ya extrañaba oír tu voz. Hace días que no nos vemos y ya te necesito aquí conmigo, en todo lo que he podido pensar sin perder un gramo de concentración es en ti. Te necesito cerca. El no tener tus caricias me ponen loca y me alteran... tú sabes (susurrando). &lt;/p&gt;   &lt;p&gt; Escena 1 &lt;/p&gt; &lt;p&gt; El actor principal (Armando), entra en escena bajando del coche, saludando a los vecinos [moviendo la mano para saludar] y abriendo la puerta de la casa para entrar en ella. &lt;/p&gt; &lt;p&gt; Al abrir la puerta se encuentra con Luisa su esposa a quien saluda [le da un abrazo y besos en la mejilla] &lt;/p&gt; &lt;p&gt; En eso él nota que trata de distraerlo para que no entre al salón de la casa, distrayéndole al contarle que su hijo pepe se portó mal en la escuela e impidiéndole el paso hacia el salón y dirigiéndolo hacia el patio en donde se halla pepe jugando. &lt;/p&gt; &lt;p&gt; Narrador – Armando sospecha que hay algo raro y se imagina que la razón de que su esposa no le permita entrar al salón dándole evasivas y distrayéndolo, es que ella tuviera un amante y este se hallase en el salón escondido y entonces se dice a sí mismo… &lt;/p&gt; &lt;p&gt; Armando -seguro mi esposa me está engañando y por eso trata de que no entre al salón para dar tiempo a escapar a su amante- &lt;/p&gt; &lt;p&gt; Narrador – Armando trata de disimular que hace caso a lo que luisa le dice, regañando a pepe quien se hallaba en el patio jugando con su bate de beisbol a la pelota, preguntándole a este: ¿Qué hiciste en la escuela niño desobediente? ¿Acaso tengo que castigarte? [Tomando el cinturón y haciendo ademanes de que le pegará] &lt;/p&gt; &lt;p&gt; Escena 2 &lt;/p&gt; &lt;p&gt; Pepe– ¡No, papá yo no he hecho nada malo¡ &lt;/p&gt; &lt;p&gt; Entonces armando voltea a ver a luisa con ojos inquisitivos, y entonces exclama ¡Aja! ¡Ya sé lo que está pasando! Mientras se dirige hacia a dentro de la casa, tomando el bate de beisbol e introduciéndose intempestivamente al interior de la casa, dirigiéndose furioso con el bate en la mano, cuando de repente… &lt;/p&gt; &lt;p&gt; Escena 3 &lt;/p&gt; de mami y papi y haber sido lo que ellos querían que fuera y no la que necesito ser o más bien la que soy y se encuentra comprimida dentro de mí; encerrada en una jaula irrompible e infranqueable muy dentro de mí y que sólo el enfrentamiento con mis miedos y conmigo misma rompería liberándola. &lt;/p&gt; &lt;p&gt; ESCENA II &lt;/p&gt; &lt;p&gt; Descuelga el teléfono y sin duda     
+
+</text>
+</avalingua>

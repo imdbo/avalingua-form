@@ -1,29 +1,35 @@
 {
-  "author": "dbo",
-  "name": "front",
-  "version": "0.1.0",
+  "name": "Avatools",
+  "version": "1.0.0",
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
   "dependencies": {
-    "@material-ui/core": "^4.2.0",
+    "codemirror": "^5.48.2",
     "concurrently": "^4.1.1",
+    "cross-env": "^5.2.0",
     "diff": "^4.0.1",
-    "electron-dev": "^1.0.1",
     "electron-is-dev": "^1.1.0",
-    "electron-tabs": "^0.9.5",
+    "fs-extra": "^8.1.0",
     "git-diff": "^2.0.6",
     "jsonpath-plus": "^0.20.1",
     "moment": "^2.24.0",
     "n-readlines": "^1.0.0",
+    "printf": "^0.5.1",
+    "rc-tree": "^2.1.0",
     "react": "^16.8.6",
+    "react-codemirror2": "^6.0.0",
     "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-load-script": "0.0.6",
     "react-responsive": "^7.0.0",
     "react-scripts": "3.0.1",
     "react-xml-parser": "^1.1.2",
     "react-xterm": "^2.0.4",
     "text-file-diff": "^1.0.6",
-    "wait-on": "^3.2.0",
+    "wait-on": "^3.3.0",
+    "xml-beautifier": "^0.4.1",
+    "xml-formatter": "^1.1.0",
     "xml-js": "^1.6.11",
     "xml2js": "^0.4.19",
     "xmldom": "^0.1.27",
@@ -31,14 +37,14 @@
     "xterm": "^3.14.4"
   },
   "scripts": {
-    "react-start": "react-scripts start",
-    "react-build": "react-scripts build",
-    "react-test": "react-scripts test --env=jsdom",
-    "react-eject": "react-scripts eject",
-    "electron-build": "electron-builder",
-    "release": "yarn react-build && electron-builder --publish=always",
-    "build": "yarn react-build && yarn electron-build",
-    "start": "concurrently \"BROWSER=none npm run-script react-start\" \"wait-on http://localhost:3000 && electron .\""
+    "start": "rescripts start",
+    "build": "rescripts build",
+    "test": "rescripts test",
+    "eject": "react-scripts eject",
+    "electron-dev": "concurrently \" BROWSER=none yarn start\" \"wait-on http://localhost:3000 && electron .\"",
+    "postinstall": "electron-builder install-app-deps",
+    "preelectron-pack": "yarn build",
+    "electron-pack": "electron-builder -l"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -49,14 +55,35 @@
       "not dead",
       "not op_mini all"
     ],
+    "rescripts": [
+      "env"
+    ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
     ]
   },
+  "devDependencies": {
+    "@rescripts/cli": "^0.0.11",
+    "@rescripts/rescript-env": "^0.0.10",
+    "electron": "^5.0.7",
+    "electron-builder": "^21.1.1",
+    "typescript": "^3.5.3",
+    "wait-on": "^3.3.0"
+  },
+  "author": {
+    "name": "imdbo",
+    "email": "febratec@gmail.com",
+    "url": "https://github.com/imdbo"
+  },
   "build": {
-    "appId": "com.example.electron-cra",
+    "appId": "com.my-website.my-app",
+    "productName": "Avatools",
+    "copyright": "Copyright © 2019 ${author}",
+    "mac": {
+      "category": "public.app-category.utilities"
+    },
     "files": [
       "build/**/*",
       "node_modules/**/*"
@@ -64,11 +91,5 @@
     "directories": {
       "buildResources": "assets"
     }
-  },
-  "devDependencies": {
-    "webpack-cli": "^3.3.6",
-    "electron": "^5.0.6",
-    "electron-builder": "^20.44.4",
-    "typescript": "3.5.3"
   }
 }

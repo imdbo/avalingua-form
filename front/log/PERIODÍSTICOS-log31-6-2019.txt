@@ -1,0 +1,328 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>740</end_offset>
+    <explanation>&lt;strong&gt;Prefijos.&lt;/strong&gt;Esta palabra no se encuentra en el diccionario de la RAE, pero está construida con un prefijo productivo.
+</explanation>
+    <information>ex</information>
+    <label>palabra con prefixo</label>
+    <label_code>prefix</label_code>
+    <start_offset>729</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>expresidente</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1135</end_offset>
+    <explanation>&lt;strong&gt;Otra lengua.&lt;/strong&gt; Palabras de otras lenguas que forman parte de un discurso en otro idioma.
+</explanation>
+    <information></information>
+    <label>otra lengua</label>
+    <label_code>otra-leng</label_code>
+    <start_offset>1133</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>for</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1775</end_offset>
+    <explanation>&lt;strong&gt;Sufijos.&lt;/strong&gt;Esta palabra  no se encuentra en el diccionario de la RAE, pero está construida con un sufijo productivo.
+</explanation>
+    <information>ito</information>
+    <label>palabra con sufixo</label>
+    <label_code>suffix</label_code>
+    <start_offset>1769</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>clarito</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1843</end_offset>
+    <explanation>&lt;strong&gt;Prefijos.&lt;/strong&gt;Esta palabra no se encuentra en el diccionario de la RAE, pero está construida con un prefijo productivo.
+</explanation>
+    <information>neo</information>
+    <label>palabra con prefixo</label>
+    <label_code>prefix</label_code>
+    <start_offset>1835</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>neolengua</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>10330</end_offset>
+    <explanation>&lt;strong&gt;Terminología.&lt;/strong&gt; Términos propios de determinadas profesiones, ciencias o materias.
+</explanation>
+    <information></information>
+    <label>terminología</label>
+    <label_code>term</label_code>
+    <start_offset>10323</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>salfumán</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12005</end_offset>
+    <explanation>&lt;strong&gt;Sufijos.&lt;/strong&gt;Esta palabra  no se encuentra en el diccionario de la RAE, pero está construida con un sufijo productivo.
+</explanation>
+    <information>ismo</information>
+    <label>palabra con sufixo</label>
+    <label_code>suffix</label_code>
+    <start_offset>11998</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>chavismo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12739</end_offset>
+    <explanation>&lt;strong&gt;Sufijos.&lt;/strong&gt;Esta palabra  no se encuentra en el diccionario de la RAE, pero está construida con un sufijo productivo.
+</explanation>
+    <information>ismo</information>
+    <label>palabra con sufixo</label>
+    <label_code>suffix</label_code>
+    <start_offset>12732</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>chavismo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1068</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>1061</start_offset>
+    <suggestion>informe</suggestion>
+    <type>err</type>
+    <word>‘informe</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>10492</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>10483</start_offset>
+    <suggestion>provincia</suggestion>
+    <type>err</type>
+    <word>provinicia</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11158</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>11145</start_offset>
+    <suggestion>informaciones</suggestion>
+    <type>err</type>
+    <word>informacion.es</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>14565</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>14558</start_offset>
+    <suggestion>alcaldesa</suggestion>
+    <type>err</type>
+    <word>alcadesa</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1077</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>1070</start_offset>
+    <suggestion>semanal</suggestion>
+    <type>err</type>
+    <word>semanal’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1684</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>1675</start_offset>
+    <suggestion>financial</suggestion>
+    <type>err</type>
+    <word>‘financial</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2505</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>2501</start_offset>
+    <suggestion>julio</suggestion>
+    <type>err</type>
+    <word>Julio</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5022</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5015</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>direcció</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5038</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5038</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>›</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5394</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5390</start_offset>
+    <suggestion>afora, aforo, afore, abort, aforé</suggestion>
+    <type>err</type>
+    <word>afort</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5410</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5410</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>›</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>10424</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>10415</start_offset>
+    <suggestion>cogoberno</suggestion>
+    <type>err</type>
+    <word>cogobierno</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>3894</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>3888</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>La titular</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>11539</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>11536</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el área</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>13243</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>13243</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e impuestos</word>
+  </annotation>
+  <score>
+    <score_gram>9.86251145737855</score_gram>
+    <score_lex>9.7250229147571</score_lex>
+    <score_total>9.79376718606783</score_total>
+  </score>
+  <statistics>
+    <forms>769</forms>
+    <grammar_errors>3</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>12</lexical_errors>
+    <lexical_warnings>7</lexical_warnings>
+    <tokens>2182</tokens>
+  </statistics>
+  <text>
+&lt;p&gt; Las dos series más nominadas de la historia repiten y afianzan sus récords entre títulos más arriesgados &lt;/p&gt; &lt;p&gt; La serie de fantasía y Veep, ambas de HBO, vuelven a estar entre las favoritas en los premios de la televisión &lt;/p&gt; &lt;p&gt; La falta de técnicos en activo durante el verano lleva a la cadena pública a suspender por seis semanas la producción del espacio &lt;/p&gt; &lt;p&gt; Seis años después de que el caso Snowden destapara los programas de vigilancia masiva a los ciudadanos, Greenwald reclama más debate sobre el uso de los datos &lt;/p&gt; &lt;p&gt; El hombre que destapó el espionaje masivo del Gobierno estadounidense, ahora pone contra las cuerdas al ministro de Justicia de Brasil, Sergio Moro, el juez que sentenció a prisión al expresidente Lula &lt;/p&gt; &lt;p&gt; Rana Ayyub publicó un superventas que destapaba la implicación de altos cargos de India en la persecución de musulmanes en 2002 y ahora no para de recibir amenazas y ataques en noticias falsas que se ceban en su condición de mujer &lt;/p&gt; &lt;p&gt; &quot;Es el momento de abordar nuevos retos”, dice la presentadora de ‘Informe semanal’ &lt;/p&gt; &lt;p&gt; Jeff Jarvis | Director del Tow-Knight Center for Journalism &lt;/p&gt; &lt;p&gt; &quot;Pedir limosna funciona para un periódico&quot;, dice este gurú que hace años predica nuevas ideas sobre este oficio &lt;/p&gt; &lt;p&gt; No creo que haya muchas profesiones que se cuestionen a sí mismas tanto y con tanta crudeza como el periodismo &lt;/p&gt; &lt;p&gt; Cuatro directivos de la organización se reunieron en secreto en abril con ministros de ese país &lt;/p&gt; &lt;p&gt; El jurado ha valorado su capacidad para abordar temas políticos desde aristas complejas &lt;/p&gt; &lt;p&gt; Premio Orwell de periodismo, el columnista de política internacional en el ‘Financial Times’ vaticina la llegada de una nueva era &lt;/p&gt; &lt;p&gt; Para presumir tanto de hablar clarito, los de Vox acaban de hacer una impagable aportación a la neolengua &lt;/p&gt; &lt;p&gt; El fotoperiodista de EL PAÍS Carlos Rosillo visitó el centro días antes del bombardeo y comprobó las malas condiciones en las que estaban los inmigrantes &lt;/p&gt; &lt;p&gt; La escritora y periodista colombiana Juliana González-Rivera recorre en La invención del viaje la historia de los relatos de viajeros que han conformado el mundo &lt;/p&gt; &lt;p&gt; Todos los medios digitales menos uno reservan contenidos exclusivos para suscriptores, que abonan hasta 80 euros anuales &lt;/p&gt;  &lt;p&gt; El gobernador Cuitláhuac García Jiménez reiteró que vienen en breve más denuncia en contra ex funcionarios estatales, de la pasada y antepasada gestión. &lt;/p&gt; &lt;p&gt; Xalapa, Ver., 16 de Julio de 2019.- Por irregularidades en la ejecución de los trabajos de un contrato de obra pública establecido por la pasada administración estatal, la Secretaría de Desarrollo Social (SEDESOL) presentó una denuncia ante la Fiscalía General de la República (FGR), toda vez que los recursos utilizados para la misma pertenecen al Fondo de Infraestructura Social para las Entidades (FISE) 2018. &lt;/p&gt; &lt;p&gt; Córdoba 16/07/19.- El Ayuntamiento de Córdoba realizó la entrega de nombramientos a 750 nuevos jefes y jefas de manzana en la Arena Córdoba, a personas, que a partir de hoy, ya representan a sus vecinos y comunidades. &lt;/p&gt; &lt;p&gt; Ixtaczoquitlán Veracruz.-Tuvimos una salida con nuestros pequeños del Curso de Verano 2019 hacia LA UNIDAD DEPORTIVA DE CD. IXTAC en el barrio San José de la cabecera municipal, que fue inaugurada el mes pasado, practicamos muchas actividades deportivas, así también empinamos originales papalotes que el equipo de DIF IXTAC elaboró con mucho cariño para ellos. &lt;/p&gt; &lt;p&gt; Ixtaczoquitlán Veracruz.-En una noche llena de magia y desborde de emociones se llevó a cabo el evento titulado “MIS XV PRIMAVERAS” para 15 jovencitas: FABIOLA, EMMA NOHEMI, ALMA CRISTINA, WENDY MICHEL, KAREN VIANEY, JOANNA BELINDA, GUADALUPE, DANIELA, DAMARIS, DIANA, JADE, VALERIA REGINA, ARLETT, BARBARA NATALI Y MARITZA todas originarias del Municipio de Ixtaczoquitlán. &lt;/p&gt; &lt;p&gt; La titular de la Secretaría de Protección Civil del Estado Guadalupe Osorno Maldonado, negó hablar respecto a si solicitó o solicitaría un amparo, para hacer frente a una posible acción en su contra por parte de la Fiscalía General del Estado. &lt;/p&gt; &lt;p&gt; TLALMANALCO, Méx.- El día de hoy, cerca de las 11:00 horas autoridades encontraron el cadáver de Haydeé Alvarado Castillo, estudiante de la UNAM, quien cayó al fondo de una barranca. El cuerpo de la joven se encontraba al fondo de una barranca de 40 metros de altura en la Cañada Acueducto, cerca del Cabo del Negro, en los parajes del Iztaccíhuatl. […] &lt;/p&gt; &lt;p&gt; OZUMBA, MÉX.- 14 DE JUNIO DE 2018.- Esta tarde un hombre de 43 años de edad, perdió la vida luego de que al estar destapando un desagüe en un edificio de dos pisos, la varilla con la que trabajaba toco los cables de alta tención por lo que murió al recibir una descarga eléctrica. Los hechos ocurrieron cerca de las 18:00 […] &lt;/p&gt; &lt;p&gt; Elementos de seguridad pública lograron el aseguramiento de un hombre que fue denunciado como carteristas que operaba en el tianguis de Ozumba. Gracias a una llamada anónima a la direcció Nota completa › &lt;/p&gt; &lt;p&gt; Elementos de seguridad pública lograron el aseguramiento de un hombre que fue denunciado como carteristas que operaba en el tianguis de Ozumba. Graci &lt;/p&gt; &lt;p&gt; Un fuerte incendio se registró la noche de este lunes en las inmediaciones de la comunidad de Mihuacán, en Ayapango, donde el fuego consumió una bodega de pacas de grandes, quedando afort Nota completa › &lt;/p&gt;   &lt;p&gt; Arranca el pleno de investidura en La Rioja &lt;/p&gt; &lt;p&gt; Ha iniciado en el Parlamento de La Rioja la sesión del Parlamento de La Rioja. Este jueves es el turno de la segunda votación a la candidatura de Concha Andreu. La socialista ha iniciado el pleno solicitando de nuevo el voto a Podemos, cuya diputada ha anunciado ya que votará en contra, lo que imposibilita su nombramiento. &quot;A tiempo estamos&quot;, ha asegurado. Tras ella hablarán los representantes del resto de partidos. &lt;/p&gt; &lt;p&gt; 13:08 &lt;/p&gt; &lt;p&gt; Ábalos se reunirá con Coalición Canaria esta tarde &lt;/p&gt; &lt;p&gt; José Luis Ábalos, secretario de organización del PSOE, se reunirá este jueves por la tarde en el Congreso con Coalición Canaria. El partido canario cuenta con dos diputadas y durante las últimas semanas habían planteado su negativa a apoyar un Gobierno del PSOE apoyado en Unidas Podemos. El encuentro se celebrará a las cinco de la tarde. &lt;/p&gt; &lt;p&gt; La reunión se produce en un momento en el que el PSOE ha arrebatado a Coalición Canaria el Gobierno de la Comunidad, varios ayuntamientos y ha iniciado mociones de censura en algunos cabildos. Pese a ello, esta mañana en una entrevista en Ondacero, Ábalos desvinculaba esa situación con la cuestión del Gobierno central. &quot;Siempre han apoyado la gobernabilidad del país&quot;, ha apuntado. &lt;/p&gt; &lt;p&gt; 12:44 &lt;/p&gt; &lt;p&gt; El Constitucional dictamina que los menores transexuales podrán cambiar su género en los registros públicos &lt;/p&gt; &lt;p&gt; El Tribunal Constitucional ha decidido que los menores transexuales tienen derecho a anotar su cambio de sexo en los registros públicos, frente a la legislación vigente que se lo impide. La medida supone para este colectivo la posibilidad de cambiar los datos de su DNI, adecuándolos a su verdadera identidad. El artículo 1 de la ley que regula el cambio registral relativo al sexo obliga a ser mayor de edad para acometer una variación de estas características. El alto tribunal acaba de sentenciar que el articulado de esa ley vulnera los principios de la Constitución. &lt;/p&gt;
+&lt;p&gt; Arranca el pleno de investidura en La Rioja &lt;/p&gt; &lt;p&gt; Ha iniciado en el Parlamento de La Rioja la sesión del Parlamento de La Rioja. Este jueves es el turno de la segunda votación a la candidatura de Concha Andreu. La socialista ha iniciado el pleno solicitando de nuevo el voto a Podemos, cuya diputada ha anunciado ya que votará en contra, lo que imposibilita su nombramiento. &quot;A tiempo estamos&quot;, ha asegurado. Tras ella hablarán los representantes del resto de partidos. &lt;/p&gt; &lt;p&gt; 13:08 &lt;/p&gt; &lt;p&gt; Ábalos se reunirá con Coalición Canaria esta tarde &lt;/p&gt; &lt;p&gt; José Luis Ábalos, secretario de organización del PSOE, se reunirá este jueves por la tarde en el Congreso con Coalición Canaria. El partido canario cuenta con dos diputadas y durante las últimas semanas habían planteado su negativa a apoyar un Gobierno del PSOE apoyado en Unidas Podemos. El encuentro se celebrará a las cinco de la tarde. &lt;/p&gt; &lt;p&gt; La reunión se produce en un momento en el que el PSOE ha arrebatado a Coalición Canaria el Gobierno de la Comunidad, varios ayuntamientos y ha iniciado mociones de censura en algunos cabildos. Pese a ello, esta mañana en una entrevista en Ondacero, Ábalos desvinculaba esa situación con la cuestión del Gobierno central. &quot;Siempre han apoyado la gobernabilidad del país&quot;, ha apuntado. &lt;/p&gt; &lt;p&gt; 12:44 &lt;/p&gt; &lt;p&gt; El Constitucional dictamina que los menores transexuales podrán cambiar su género en los registros públicos &lt;/p&gt; &lt;p&gt; El Tribunal Constitucional ha decidido que los menores transexuales tienen derecho a anotar su cambio de sexo en los registros públicos, frente a la legislación vigente que se lo impide. La medida supone para este colectivo la posibilidad de cambiar los datos de su DNI, adecuándolos a su verdadera identidad. El artículo 1 de la ley que regula el cambio registral relativo al sexo obliga a ser mayor de edad para acometer una variación de estas características. El alto tribunal acaba de sentenciar que el articulado de esa ley vulnera los principios de la Constitución. &lt;/p&gt;  &lt;p&gt; Ciudadanos gestionará Infraestructuras y Cultura, además de la primera vicepresidencia que podría ser para Julia Parra, edil de Sant Joan - Génova bendice el pacto y arropará mañana al nuevo titular de la Diputación con la presencia de Teodoro García Egea &lt;/p&gt; &lt;p&gt; El jefe del Consell acudirá a la toma de posesión del nuevo presidente de la Diputación como gesto para recomponer la relación &lt;/p&gt; &lt;p&gt; La asociación provincial contra las enfermedades nefríticas calcula que hay 2.300 pacientes crónicos abocados a hemodiálisis &lt;/p&gt; &lt;p&gt; La superficie aumenta en 7.000 hectáreas desde enero y ya acaricia las 50.000. Alicante lidera el cultivo de limón con el 95% del total de la Comunidad &lt;/p&gt; &lt;p&gt; Un coche de la Policía ayer junto al inmueble (el de la izquierda) donde ocurrió la agresión. &lt;/p&gt; &lt;p&gt; Ha fallecido como consecuencia de las graves lesiones sufridas tras ingerir salfumán &lt;/p&gt; &lt;p&gt; La vicepresidenta del Gobierno subraya que lo que Podemos pretende &quot;es un cogobierno&quot; &lt;/p&gt; &lt;p&gt; Las máximas superarán los 34 grados en toda la provinicia el sábado y el domingo, pero no es una ola de calor &lt;/p&gt; &lt;p&gt; El Puesto de Mando Avanzado dio por controlado el incendio a las 9 de la mañana de ayer &lt;/p&gt; &lt;p&gt; Salió a nadar con una boya de seguridad por la playa de Els Molins y Bovetes y no volvió a casa &lt;/p&gt; &lt;p&gt; La vicepresidenta de la comisión de Libertades Civiles del Parlamento Europeo remite cartas a la plataforma digital y la productora del documental &lt;/p&gt; &lt;p&gt; redacción &lt;/p&gt; &lt;p&gt; | &lt;/p&gt; &lt;p&gt; Las autoridades de Portugal emitieron una orden de detención europea hace nueve días &lt;/p&gt; &lt;p&gt; La mujer, que paseaba con su marido en el momento del incidente,fue reanimada con un desfibrilador &lt;/p&gt; &lt;p&gt; informacion.es &lt;/p&gt; &lt;p&gt; Un helicóptero del grupo de rescate del Consorcio de Bomberos logra grabar a tres cetáceos después de que el día 5 también fueran avistados &lt;/p&gt; &lt;p&gt; Sube por tercera semana consecutiva, con lo que se consolida una nueva tendencia alcista &lt;/p&gt;   &lt;p&gt; La medida beneficiará a 200 millones de personas que no tendrán recargo en las llamadas que hagan desde otro país del área &lt;/p&gt; &lt;p&gt; Mientras el éxodo venezolano perdure, urge una respuesta coordinada y flexible a la emergencia social &lt;/p&gt; &lt;p&gt; Mark Esper, de 55 años, veterano de guerra y de la lucha de poder en Washington, afronta su audiencia de confirmación en el Senado &lt;/p&gt; &lt;p&gt; Me figuro siempre esas dos locuciones como cabestrantes que el político opositor venezolano adosa para salir de cualquier cenagoso atolladero &lt;/p&gt; &lt;p&gt; Las delegaciones chocan sobre los tiempos: el chavismo quiere una mesa &quot;permanente&quot; y la oposición, una negociación expedita &lt;/p&gt; &lt;p&gt; Guaidó se aviene a negociar con el régimen de Maduro mientras intenta mantener unidas a las voces opositoras &lt;/p&gt; &lt;p&gt; Washington se compromete a seguir con la presión seis meses después del reconocimiento de Guaidó como presidente interino &lt;/p&gt; &lt;p&gt; El diálogo, auspiciado por Noruega, continuará en &quot;una mesa que trabajará de manera continua y expedita&quot; &lt;/p&gt; &lt;p&gt; Acierta Guaidó al elegir un comportamiento sereno sin renunciar a los principios por los que fue aclamado presidente encargado de Venezuela &lt;/p&gt; &lt;p&gt; El militar falleció con evidencias de tortura tras una semana de detención bajo custodia de la contrainteligencia militar &lt;/p&gt; &lt;p&gt; El chavismo atribuyó la muerte de Orlando Figuera durante las protestas de 2017 a un crimen político. Enzo Franchini fue arrestado en lunes en Getafe (Madrid) &lt;/p&gt; &lt;p&gt; La Oficina de Asilo deniega sus solicitudes pero les concede un permiso humanitario &lt;/p&gt; &lt;p&gt; CRISTOPHER FIGUERA | Exdirector del Servicio Bolivariano de Inteligencia &lt;/p&gt;   &lt;p&gt; Las 15 plantas de Huelva producen la quinta parte de toda la producción industrial de Andalucía. El impacto en la provincia supera los 27,5 millones en inversión social e impuestos. &lt;/p&gt; &lt;p&gt; El Foro de la Inmigración en Huelva dispondrá de agrupaciones especializadas en varias áreas para abordar la situación de los campamentos de extranjeros de forma integral. &lt;/p&gt; &lt;p&gt; El objetivo es ampliar la oferta de actividades en el Pulmón Verde de Huelva. Pide que se construya el Centro de Interpretación Arqueológica. &lt;/p&gt; &lt;p&gt; La primera sesión de trabajo tendrá lugar hoy jueves a las 20:00 en el Nuevo Colombino. &lt;/p&gt; &lt;p&gt; Sustituye al también onubense Gabriel Carrasco y la pasada campaña estuvo en el Claret en LF 2. &lt;/p&gt; &lt;p&gt; La Bolsa de empleo temporal está carente de profesionales para cubrir las vacaciones. &lt;/p&gt; &lt;p&gt; La formación reclama que la línea marítima entre las provincias sea un servicio público. &lt;/p&gt; &lt;p&gt; La delegada territorial agradece la labor que realizan los abogados y los procuradores. &lt;/p&gt; &lt;p&gt; El Pleno concede la Medalla de Oro al cuidador de la Fuente de Saba y a una joven oboísta. &lt;/p&gt; &lt;p&gt; La iniciativa se desarrolla en el Palacio de Deportes Carolina Marín hasta finales de agosto. &lt;/p&gt; &lt;p&gt; Las propuestas de los grupos modifican el destino de 11 millones en las cuentas, en su mayoría a petición de la coalición de Podemos e IU. &lt;/p&gt; &lt;p&gt; Un hombre irrumpió en el edificio de Kyoto Animation y arrojó un líquido inflamable para prenderle fuego. &lt;/p&gt; &lt;p&gt; La alcadesa Ada Colau está pensando en implantar nuevas medidas adicionales que se podrían implementar a partir del año que viene si los niveles de emisiones son altos. &lt;/p&gt; &lt;p&gt; Este porcentaje es el recogido sobre 751 fallecidos en la carretera el año pasado, 535 de ellos conductores, 143 peatones y 73 acompañantes. &lt;/p&gt; &lt;p&gt; La firma de la estrella lleva comercializados en los últimos 12 meses un total de 50.811 unidades, casi 3.000 unidades más que Audi, según la compañía. &lt;/p&gt; &lt;p&gt; Reprocha al candidato socialista que accediese a la presidencia &quot;con un voto (independentista) que no se ha visto compensado&quot;. &lt;/p&gt; &lt;p&gt; Uno de los fundadores de la formación naranja deja el partido por discrepar del veto de Rivera a Sánchez. La baja se une a las más recientes de Toni Roldán y Javier Nart, este último de la Ejecutiva. &lt;/p&gt; 
+
+</text>
+</avalingua>

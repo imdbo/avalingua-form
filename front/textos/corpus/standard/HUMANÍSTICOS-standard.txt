@@ -1,0 +1,902 @@
+<avalingua>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2391</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>2388</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>18633</end_offset>
+    <explanation>&lt;strong&gt;Latinismos.&lt;/strong&gt; Préstamos aceptables del latín que no debemos rechazar y que son de uso frecuente.
+</explanation>
+    <information></information>
+    <label>latinismo</label>
+    <label_code>lat</label_code>
+    <start_offset>18627</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sapiens</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>24507</end_offset>
+    <explanation>&lt;strong&gt;Sufijos.&lt;/strong&gt;Esta palabra  no se encuentra en el diccionario de la RAE, pero está construida con un sufijo productivo.
+</explanation>
+    <information>mente</information>
+    <label>palabra con sufixo</label>
+    <label_code>suffix</label_code>
+    <start_offset>24493</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>peyorativamente</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>35430</end_offset>
+    <explanation>&lt;strong&gt;Sufijos.&lt;/strong&gt;Esta palabra  no se encuentra en el diccionario de la RAE, pero está construida con un sufijo productivo.
+</explanation>
+    <information>ísimo</information>
+    <label>palabra con sufixo</label>
+    <label_code>suffix</label_code>
+    <start_offset>35420</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>—muchísimos</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5142</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>5139</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>6161</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>6158</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>6518</end_offset>
+    <explanation>&lt;strong&gt;Otra lengua.&lt;/strong&gt; Palabras de otras lenguas que forman parte de un discurso en otro idioma.
+</explanation>
+    <information></information>
+    <label>otra lengua</label>
+    <label_code>otra-leng</label_code>
+    <start_offset>6514</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>click</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>9722</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>9719</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>10293</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>10290</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13269</end_offset>
+    <explanation>&lt;strong&gt;Prefijos.&lt;/strong&gt;Esta palabra no se encuentra en el diccionario de la RAE, pero está construida con un prefijo productivo.
+</explanation>
+    <information>auto</information>
+    <label>palabra con prefixo</label>
+    <label_code>prefix</label_code>
+    <start_offset>13256</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>autorreflexión</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>18053</end_offset>
+    <explanation>&lt;strong&gt;Acentos diacríticos.&lt;/strong&gt; Desde la última actualización de la RAE, el uso del acento diacrítico en palabras tónicas (más de una sílaba) no se recomienda.  empleo tradicional de la tilde en el adverbio solo y los pronombres demostrativos no cumple el requisito fundamental que justifica el uso de la tilde diacrítica, que es el de oponer palabras tónicas o acentuadas a palabras átonas o inacentuadas formalmente idénticas, ya que tanto solo como los demostrativos son siempre palabras tónicas en cualquiera de sus funciones. Por eso, a partir de ahora se podrá prescindir de la tilde en estas formas incluso en casos de ambigüedad. La recomendación general es, pues, la de no tildar nunca estas palabras.
+</explanation>
+    <information></information>
+    <label>diacríticos</label>
+    <label_code>diacritico</label_code>
+    <start_offset>18050</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sólo</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>18625</end_offset>
+    <explanation>&lt;strong&gt;Latinismos.&lt;/strong&gt; Préstamos aceptables del latín que no debemos rechazar y que son de uso frecuente.
+</explanation>
+    <information></information>
+    <label>latinismo</label>
+    <label_code>lat</label_code>
+    <start_offset>18619</start_offset>
+    <suggestion></suggestion>
+    <type>warn</type>
+    <word>sapiens</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>98</end_offset>
+    <explanation>&lt;strong&gt;Falsos amigos.&lt;/strong&gt; Palabras reconocidas y válidas ortográficamente pero mal usadas sintácticamente. Por ejemplo: &lt;em&gt;*El numero 2&lt;/em&gt;, no es el presente del verbo &lt;em&gt;numerar&lt;/em&gt;, sino el sustantivo &lt;em&gt;número&lt;/em&gt;.
+</explanation>
+    <information></information>
+    <label>falso amigo</label>
+    <label_code>fakes</label_code>
+    <start_offset>96</start_offset>
+    <suggestion>más</suggestion>
+    <type>err</type>
+    <word>mas</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>55</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>47</start_offset>
+    <suggestion>filosofía</suggestion>
+    <type>err</type>
+    <word>filosofia</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5274</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5274</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>–</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>5719</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>5711</start_offset>
+    <suggestion>noviembre</suggestion>
+    <type>err</type>
+    <word>Noviembre</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>7849</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>7846</start_offset>
+    <suggestion>esta</suggestion>
+    <type>err</type>
+    <word>ésta</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11059</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>11054</start_offset>
+    <suggestion>teoría</suggestion>
+    <type>err</type>
+    <word>teoria</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11590</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>11580</start_offset>
+    <suggestion>Aristóteles</suggestion>
+    <type>err</type>
+    <word>aristóteles</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11629</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>11622</start_offset>
+    <suggestion>Cristian</suggestion>
+    <type>err</type>
+    <word>cristian</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11634</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>11631</start_offset>
+    <suggestion>Wolf</suggestion>
+    <type>err</type>
+    <word>wolf</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11733</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>11727</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>uberweg</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>11869</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>11866</start_offset>
+    <suggestion>Pero</suggestion>
+    <type>err</type>
+    <word>^pero</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12585</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12583</start_offset>
+    <suggestion>así</suggestion>
+    <type>err</type>
+    <word>asi</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>263</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>255</start_offset>
+    <suggestion>constituye</suggestion>
+    <type>err</type>
+    <word>costituye</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>12837</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>12830</start_offset>
+    <suggestion>Sócrates</suggestion>
+    <type>err</type>
+    <word>sócrates</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>13399</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>13392</start_offset>
+    <suggestion>Sócrates</suggestion>
+    <type>err</type>
+    <word>sócrates</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>17770</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>17762</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>ánthropos</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>19266</end_offset>
+    <explanation>&lt;strong&gt;Falta el símbolo de interrogación inicial.&lt;/strong&gt;
+</explanation>
+    <information></information>
+    <label>interrogación</label>
+    <label_code>interr</label_code>
+    <start_offset>19266</start_offset>
+    <suggestion>¿&lt;</suggestion>
+    <type>err</type>
+    <word>^^&lt;</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>19472</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19465</start_offset>
+    <suggestion>episteme</suggestion>
+    <type>err</type>
+    <word>epísteme</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>19548</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19540</start_offset>
+    <suggestion>filosofía</suggestion>
+    <type>err</type>
+    <word>filosofia</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>19796</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>19784</start_offset>
+    <suggestion>epistemología</suggestion>
+    <type>err</type>
+    <word>epistemologia</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21239</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>21229</start_offset>
+    <suggestion>sociedades</suggestion>
+    <type>err</type>
+    <word>‘sociedades</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21248</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>21241</start_offset>
+    <suggestion>simples</suggestion>
+    <type>err</type>
+    <word>simples’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>21263</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>21252</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>‘primitivas’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>995</end_offset>
+    <explanation>&lt;strong&gt;Mayúsculas en principio de frase.&lt;/strong&gt;.
+</explanation>
+    <information></information>
+    <label>mayúsculas</label>
+    <label_code>cap</label_code>
+    <start_offset>989</start_offset>
+    <suggestion>Podemos</suggestion>
+    <type>err</type>
+    <word>^podemos</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>23045</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>23043</start_offset>
+    <suggestion>cal, yal, pal, tal, gal</suggestion>
+    <type>err</type>
+    <word>—al</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>23082</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>23074</start_offset>
+    <suggestion>modernos</suggestion>
+    <type>err</type>
+    <word>modernos—</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>24519</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>24509</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>‘primitiva’</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>25293</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>25286</start_offset>
+    <suggestion>aquello, aquellas</suggestion>
+    <type>err</type>
+    <word>aquellos</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>26691</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>26684</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>sociĕtas</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>33226</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>33222</start_offset>
+    <suggestion>estas</suggestion>
+    <type>err</type>
+    <word>éstas</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>34023</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>34015</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>anthropos</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>35349</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>35346</start_offset>
+    <suggestion>muy</suggestion>
+    <type>err</type>
+    <word>—muy</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>35367</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>35357</start_offset>
+    <suggestion>artefactos</suggestion>
+    <type>err</type>
+    <word>artefactos—</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>35442</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>35432</start_offset>
+    <suggestion>artefactos</suggestion>
+    <type>err</type>
+    <word>artefactos—</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1085</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>1076</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>conclucion</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>35941</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>35928</start_offset>
+    <suggestion>sociocultural</suggestion>
+    <type>err</type>
+    <word>socio-cultural</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>36035</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>36032</start_offset>
+    <suggestion>esta</suggestion>
+    <type>err</type>
+    <word>ésta</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>37085</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>37076</start_offset>
+    <suggestion>septiembre</suggestion>
+    <type>err</type>
+    <word>Septiembre</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>1213</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>1210</start_offset>
+    <suggestion>Gaos</suggestion>
+    <type>err</type>
+    <word>gaos</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>2638</end_offset>
+    <explanation>&lt;strong&gt;Locuciones.&lt;/strong&gt; Expresiones multipalabra con algún error en su formación.
+</explanation>
+    <information></information>
+    <label>locución</label>
+    <label_code>loc</label_code>
+    <start_offset>2637</start_offset>
+    <suggestion>sobre la base de</suggestion>
+    <type>err</type>
+    <word>en base a</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>3591</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>3591</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>–</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>lex</class>
+    <end_offset>4894</end_offset>
+    <explanation>&lt;strong&gt;Errores ortográficos.&lt;/strong&gt; Palabras que no se encuentran en el diccionario de la RAE  y que probablemente sean un error ortográfico o tipográfico.
+</explanation>
+    <information></information>
+    <label>error ortográfico</label>
+    <label_code>ort</label_code>
+    <start_offset>4894</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>–</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>981</end_offset>
+    <explanation>&lt;strong&gt;Él y el.&lt;/strong&gt; &lt;em&gt;Él&lt;/em&gt; es un pronombre personal. &lt;em&gt;El&lt;/em&gt; es un artículo determinado que funciona como determinante de los nombres.&lt;br&gt;Ej.: &lt;em&gt;Él no es así. El libro es para él. Devuélveme el boli, por favor.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>él y no el</label>
+    <label_code>CorrEl</label_code>
+    <start_offset>980</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el agua</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>3742</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>3739</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el alma</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>4416</end_offset>
+    <explanation>&lt;strong&gt;Dequeísmo.&lt;/strong&gt;  Existe dequeísmo cuando se introduce la preposición &lt;em&gt;de&lt;/em&gt; entre un verbo transitivo y la completiva en función complemento directo. No se debe decir &lt;em&gt;considera de que todo está mal&lt;/em&gt;, sino: &lt;em&gt;considera que todo está mal&lt;/em&gt;.
+</explanation>
+    <information></information>
+    <label>Dequeísmo</label>
+    <label_code>CorrDeQueismo</label_code>
+    <start_offset>4415</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>de que</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>4462</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>4459</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>el alma</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>12540</end_offset>
+    <explanation>&lt;strong&gt;Concordancia.&lt;/strong&gt; Los nombres y adjetivos concuerdan con los determinantes en género y número.&lt;br&gt;Ej.: &lt;em&gt;Cruzaron el puente romano. Bebieron toda la leche.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>concordancia det-nombre 1</label>
+    <label_code>CorrNoConcordL</label_code>
+    <start_offset>12534</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>un actitud</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>15740</end_offset>
+    <explanation>&lt;strong&gt;O/u.&lt;strong&gt; Esta conjunción disyuntiva &lt;em&gt;o&lt;/em&gt; se escribe &lt;em&gt;u&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;o-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Puedes escoger uno u otro. ¿Qué prefieres medicina tradicional u homeopatía? Había 70 u 80 asistentes.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>o/u</label>
+    <label_code>CorrO</label_code>
+    <start_offset>15740</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>u objeto</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>15754</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>15754</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e irreal</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>23085</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>23085</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e informó</word>
+  </annotation>
+  <annotation>
+    <id>0</id>
+    <class>gram</class>
+    <end_offset>36734</end_offset>
+    <explanation>&lt;strong&gt;Y/e.&lt;/strong&gt; La conjunción &lt;em&gt;y&lt;/em&gt; se escribe &lt;em&gt;e&lt;/em&gt; cuando precede a una palabra que comienza por &lt;em&gt;i-&lt;/em&gt;.&lt;br&gt;Ej.: &lt;em&gt;Necesitamos aguja e hilo. Cada momento es único e irrepetible.&lt;/em&gt;&lt;br&gt;Pero esta conjunción mantiene su forma &lt;em&gt;y&lt;/em&gt; cuando la palabra que sigue comienza por diptongo &lt;em&gt;i&lt;/em&gt; + vocal.&lt;br&gt;Ej.: &lt;em&gt;Este artista trabaja con madera y hierro.&lt;/em&gt;
+</explanation>
+    <information></information>
+    <label>y/e</label>
+    <label_code>CorrY</label_code>
+    <start_offset>36734</start_offset>
+    <suggestion></suggestion>
+    <type>err</type>
+    <word>e ideologías</word>
+  </annotation>
+  <score>
+    <score_gram>9.8511412504135</score_gram>
+    <score_lex>9.65266291763149</score_lex>
+    <score_total>9.75190208402249</score_total>
+  </score>
+  <statistics>
+    <forms>1526</forms>
+    <grammar_errors>9</grammar_errors>
+    <grammar_warnings>0</grammar_warnings>
+    <lexical_errors>42</lexical_errors>
+    <lexical_warnings>12</lexical_warnings>
+    <tokens>6046</tokens>
+  </statistics>
+  <text>
+&lt;p&gt; La antropología filosofía es la rama de la filosofia que estudia al ser humano como tal los mas característico y valioso en todo individuo es su calidad de persona palabra con varios significados. Con la palabra sustancia podemos entender aquello que costituye la esencia fundamental de algo que se producen inmutable. La sustancia es inmutable a pesar de lo cambios que se produce a lo largo del tiempo las características que cambian son los accidentes es decir la sustancia de un individuo es su persona EL SENTIDO DE LA VIDA Desde los primeros filósofos griegos el hombre a sido considerado como una unidad de cuerpo y alma como organismos vivientes tenemos todo en común con las demás personas pero como ser humano pensante soy una interacción entre la conciencia . El pensar y el amar no pueden atribuirse a ningún otro ser que sea distinto de este que soy yo en carne y hueso. El mito de la creación es fundamental agrícola celebra facultades germinales de la tierra y el agua .podemos observar que la igual que la cultura maya la creación creación del universo En conclucion diremos que la esencia del ser humano es su racionalidad pero mediado por su primigenia forma de vida natural por eso para gaos no son suficientes. &lt;/p&gt; &lt;p&gt; El ser humano es un sutil equilibrio de potencial inestabilidad. Su Unicidad se muestra ya en las tres fases de desarrollo de la infancia temprana: mantener el equilibrio y andar, así como posteriormente aprender a hablar y pensar. &lt;/p&gt; &lt;p&gt; Solamente el ser humano puede alcanzar estas tres facultades, que al mismo tiempo son la base de cualquier desarrollo y aprendizaje posteriores. &lt;/p&gt; &lt;p&gt; La observación de estas etapas del desarrollo demuestra que la actividad motora del niño tiene una influencia formativa sobre el cuerpo y pone los cimientos para el desarrollo de las facultades cognoscitivas. &lt;/p&gt; &lt;p&gt; Ello es válido especialmente en los primeros años de la infancia, pero al mismo tiempo es un aspecto fundamental de todo aprendizaje, por lo que debe ser contemplado en el currículum escolar. &lt;/p&gt; &lt;p&gt; En los tres primeros años de vida el niño pasa por una evolución progresiva de importancia vital para su desarrollo humano. &lt;/p&gt; &lt;p&gt; J.G. Herder denominó estas frases en su escrito “Ideas sobre la filosofía de la Historia de la Humanidad” como las tres etapas que constituyen la especificidad humana, ya que entre todos los seres sólo el hombre posee estas tres capacidades. &lt;/p&gt; &lt;p&gt; Como primer paso el niño aprende a elevarse en contra de la fuerza de la gravedad y, manteniéndose en equilibrio, camina sobre sus dos piernas. Alrededor de esa época el niño comienza a hablar y en base a su capacidad para hablar aparece el primer pensar autónomo. El niño comienza a preguntar lo que significa esto o aquello y empieza a recordar el pasado. Pocos meses después de su nacimiento el bebé comienza a alzar su cabeza. Una vez que ha desarrollado suficientemente la musculatura para mantener la cabeza en su posición erguida comienza a moverse a través del espacio. Primero se “arrastra” sobre el suelo, pero pronto eleva las rodillas bajo su cuerpo, los brazos levantan a pulso el tronco y comienza a gatear. A cada paso conseguido en el proceso del movimiento le sigue otro nuevo. Paso a paso el niño se libera de la fuerza de la gravedad. &lt;/p&gt;  &lt;p&gt; El concepto filosófico del ser humano ha sido estudiado desde tres puntos de vista diferentes: la relación entre mente (alma) y cuerpo, la forma de actuar según la razón o según los sentimientos y, por último, el análisis del ser humano como un ser personal. &lt;/p&gt; &lt;p&gt; · Mente / Cuerpo – Para empezar, hay que saber distinguir qué es el cuerpo y qué es la mente. El cuerpo es la parte física del ser humano mientras que la mente o el alma es la parte abstracta, lo que se podría denominar como la “esencia” de la persona. &lt;/p&gt; &lt;p&gt; En clase se debatieron dos puntos de vista diferentes respecto a la relación entre el cuerpo y la mente. Por un lado (del que yo formo parte) estaban los que pensaban que el cuerpo y la mente van unidos y que no existe una sin la otra, que en realidad, la mente es parte del cuerpo , ya que, al fin y al cabo, no somos más que un cerebro y la serie de reacciones químicas y eléctricas que ocurren ahí. &lt;/p&gt; &lt;p&gt; Por el otro lado, existía la opinión, mucho más espiritual, de que no, que aunque estén de acuerdo con que en un principio cuerpo y mente van unidos, están convencidos de que una vez que el cuerpo ya no está, el alma de la persona sigue existiendo eternamente. &lt;/p&gt; &lt;p&gt; Personalmente, no estoy de acuerdo con este último punto de vista ya que aunque lo más fácil es pensar que nosotros y la gente que queremos siempre estará ahí, no me parece lo más realista. De hecho me parece un punto de vista un poco egocéntrico, es decir, ¿tan importante te crees como para no poder desaparecer de este mundo? Yo, no lo creo. &lt;/p&gt; &lt;p&gt; · Razón o sentimientos – ¿Cómo actúas?¿Guiado por la razón o por los sentimientos? Después de debatirlo en clase, todos llegamos a la conclusión de que nadie es capaz de actuar solo por la razón (ya que existe el instinto y los reflejos) ni nadie que actúe guiado tan sólo por los sentimientos (dado que, como seres humanos, tenemos implícita la capacidad de razonar). &lt;/p&gt; &lt;p&gt; · ¿Persona o ser humano? – Para mí esta pregunta es absurda ya que me parece que tanto persona como ser humano son sinónimos. Sin embargo, solo habían dos o tres personas que estaban de acuerdo conmigo. El resto decía que el animal “ser humano” solo es persona cuando tiene todos sus derechos, y en el momento en el que no tiene alguno de ellos, como por ejemplo, que no tiene comida, deja de serlo para pasar a ser un ser humano, un animal. &lt;/p&gt;  &lt;p&gt; Hoy 15 de Noviembre es el Día Mundial de la Filosofía. Lo celebro con toda la felicidad del mundo compartida con quien ahora mismo está leyendo estas palabras. De algún modo, me produce una especie de alivio la existencia real de la capacidad del ser humano de pensar, acertado Siddharta “Feliz aquel que ha superado su ego”, claro Confucio “Lo que se sabe, se sabe, y lo que no se sabe, no se sabe. En eso consiste la verdadera sabiduría”, sabio Sócrates “Sólo sé que no sé nada”, ideal Platón “Si lo particular tiene un significado, ha de ser universal”, afortunado John Locke “No hay nada en la mente que no haya estado antes en los sentidos”, atroz Maquiavelo “El fin justifica los medios”, intuitivo Descartes “Pienso, luego existo”, exacto Auguste Rodin con la escultura de “El Pensador”. Os invito a hacer click en la imagen y visitar la declaración de este día por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura; PIENSO lo mismo que la UNESCO: Que “la Filosofía es capaz de trabajar en aras de un mejor entendimiento del mundo”. Feliz día. &lt;/p&gt; &lt;p&gt; “¡Oh, filosofía, que nos guías! &lt;/p&gt; &lt;p&gt; ¡Oh, filosofía, indagadora de la virtud y ahuyentadora de los vicios! &lt;/p&gt; &lt;p&gt; ¿Qué seríamos y qué habrían sido todas las edades del hombre sin ti?” &lt;/p&gt; &lt;p&gt; 2 comentarios: &lt;/p&gt; &lt;p&gt; Me gusta mucho como has encauzado a los auténticos pensadores, que lo han demostrado a lo largo de los siglos, años, días y momentos; la filosofía y el pensamiento siempre han existido por necesidad del humano, todo el mundo piensa, pero no todo el mundo sabe pensar, primero ay que estar en la naturaleza mucho tiempo para aprender a pensar, y después si realmente lo deseas, el pensamiento hará el resto, y a partir de ese momento iras aprendiendo a pensar, piensa. &lt;/p&gt; &lt;p&gt; Hola Tano, muchas gracias por tus palabras, por compartir tus pensamientos sobre el pensar ;-) Me resulta muy interesante lo que escribes: &quot;todo el mundo piensa, pero no todo el mundo sabe pensar&quot;. Pensaré en ello. Saludicos. &lt;/p&gt;   &lt;p&gt; Abordamos aquí una pregunta fundamental: ¿Qué somos nosotros?. Ya la máxima délfica indicaba “Conócete a ti mismo“. Ésta es una tarea esencial que todo ser humano debe hacer para intentar guiar su vida y situarse en el mundo. &lt;/p&gt; &lt;p&gt; La antropología es la disciplina que intenta conocer qué es el ser humano. Este estudio se realiza desde distintos puntos de vista y así surgen los distintos tipos de antropología: &lt;/p&gt; &lt;p&gt; 1. Antropología cultural &lt;/p&gt; &lt;p&gt; Hace un estudio de la evolución de los distintos grupos humanos en sus estructuras sociales y en sus producciones culturales haciendo también un estudio comparativo entre ellos. Analiza pues sus conocimientos, creencias, costumbres, tradiciones, técnicas, estructuras de poder, relaciones familiares, etc. Hace, en definitiva, un estudio de sus distintos modos de vida. &lt;/p&gt; &lt;p&gt; 2. Antropología física &lt;/p&gt; &lt;p&gt; Estudia al ser humano centrándose en el conjunto de sus aspectos biológicos. Para saber cómo somos, qué somos, hay que saber de dónde venimos, es por ello que estudiamos las distintas teorías sobre el origen y la evolución del ser humano como especie. &lt;/p&gt; &lt;p&gt; Cuando nos situamos ante la pregunta por el origen del ser humano como especie la respuesta va a determinar nuestra manera de concebir al ser humano y su lugar en el conjunto de la Naturaleza: no es lo mismo pensar que somos un ser especial y que la Naturaleza está a nuestro servicio que pensar que somos simplemente una especie más que ha desarrollado unas capacidades singulares. &lt;/p&gt; &lt;p&gt; La pregunta que nos formulamos sobre el origen del ser humano como especie está directamente vinculada a la pregunta por el origen de la diversidad de las especies. Veremos su desarrollo en la historia de la ciencia y su evolución nos permitirá entender cómo influye una concepción filosófica, la concepción del tiempo, en el desarrollo científico. &lt;/p&gt; &lt;p&gt; El modo en que formulamos las preguntas y qué respuestas nos parecen satisfactorias está determinado por no sólo por lo que observamos en la Naturaleza sino también por un marco conceptual mucho más amplio que en este caso ejemplificamos con la idea que se tiene del tiempo. &lt;/p&gt; &lt;p&gt; 3. Antropología filosófica &lt;/p&gt; &lt;p&gt; Seguimos intentado responder la cuestión qué es el ser humano ahora desde una perspectiva filosófica. Se trata de determinar: &lt;/p&gt; &lt;p&gt; a) Cuáles son los rasgos específicos que nos diferencian del resto de los animales. &lt;/p&gt; &lt;p&gt; A partir del evolucionismo nos definimos como un animal más siendo la diferencia entre ellos y nosotros, aunque muy significativa, sólo gradual. En general se ha considerado que la actividad específica que nos diferencia de los animales es nuestra capacidad para pensar, algo que nos ha definido como animal racional. Esta capacidad para pensar indisolublemente unida al desarrollo de un lenguaje articulado es la que nos ha permitido crear una realidad más allá de la vivida inmediatamente y adquirir conciencia del mundo (tener una representación mental de él). &lt;/p&gt; &lt;p&gt; b) Cómo se ha definido a lo largo de la filosofía al ser humano. &lt;/p&gt;   &lt;p&gt; EL ORIGEN DEL PENSAMIENTO FILOSOFICO &lt;/p&gt; &lt;p&gt; jueves, 28 de junio de 2012 &lt;/p&gt; &lt;p&gt; Por: Juan Hessen &lt;/p&gt; &lt;p&gt; La esencia de la filosofía. &lt;/p&gt; &lt;p&gt; La posición de la teoría del conocimiento en el sistema de la filosofía. &lt;/p&gt; &lt;p&gt; La historia de la teoria del conocimiento. &lt;/p&gt; &lt;p&gt; Primera Parte: Teoría general del conocimiento : Investigación fenomenológica preliminar. &lt;/p&gt; &lt;p&gt; la teoría del conocimiento es una disciplina filosófica, se puede definir de muchas maneras la filosofía, pero ninguna da con una definición acertada, la palabra filosofía procede de la lengua griega, todas las definiciones esenciales que se puedan encontrar en la historia discrepan tanto unas de otras que es imposible extraer una definición esencial, según las definiciones que dan platón, aristóteles, misma forma en la edad media cristian wolf no dan una definición esencial a la filosofía. &lt;/p&gt; &lt;p&gt; pero la definición que da federico uberweg dice que la filosofía es “la ciencia de los principios” ya se puede partir de este contenido el concepto esencial de la filosofía. pero se tropieza con la dificultad de principio, es donde se extrae el contenido histórico de la filosofía, así de esta forma se debe tener un concepto de la filosofía, saber que es la filosofía y así sacar el concepto de los hechos y por ende es la definición esencial de la filosofía. &lt;/p&gt; &lt;p&gt; existen sistemas que desde su aparición, la humanidad los ha considerado como productos filosóficos del espíritu, se puede evidenciar que tales sistemas tienen rasgos esenciales comunes a pesar de todas las diferencias que presentan y tienen una tendencia a la universalidad hacia todos los objetos. &lt;/p&gt; &lt;p&gt; la actitud del filósofo ante la totalidad de los objetos es un actitud intelectual, una actitud de pensamiento, asi hemos podido lograr un concepto esencial de la filosofía considerando los distintos sistemas en su conexión histórica, entonces desde este punto de vista podría resultar comprensibles las contradictorias definiciones de la filosofía. &lt;/p&gt; &lt;p&gt; sócrates el creador de la filosofía occidental donde se expresa la actitud teórica del espíritu griego, se dice que sus pensamientos y aspiraciones se enderezan a edificar la vida humana sobre la reflexión y el saber. &lt;/p&gt; &lt;p&gt; platón la reflexión filosófica se extiende hacia la conciencia humana, no solo a los objetos, los valores y las virtudes sino al conocimiento científico, según esto la filosofía se presenta como una autorreflexión del espíritu, sobre sus valores teóricos y prácticos, de lo verdadero, lo bueno y lo bello de acuerdo a lo expresado por sócrates y platón. &lt;/p&gt;  &lt;p&gt; Reflexión al mundo actual &lt;/p&gt; &lt;p&gt; Los medios de comunicación proponen lo transitorio o lo que está de moda. La ciencia y la tecnología nos ofrecen un mundo artificial en donde todo se desecha y cada día se busca lo nuevo. Las instituciones educativas van al ritmo de los tiempos y a veces olvidan cuál es su verdadera finalidad. &lt;/p&gt; &lt;p&gt; En un mundo acelerado y de cambia rápidos, el ser humano corre el peligro en confundirse en lo que es importante para la vida y lo superfluo que brinda el mundo de hoy. Una reflexión madura y consiente debe ser el reto del ser humano para enfrentarse al mundo al actual y todo lo que ella nos ofrece y que cada vez vuelve más superficial nuestras vidas. &lt;/p&gt; &lt;p&gt; Importancia de la filosofía &lt;/p&gt; &lt;p&gt; Grado once. &lt;/p&gt; &lt;p&gt; Justificación &lt;/p&gt; &lt;p&gt; La influencia es un saber bien fundado, ordenado y adquirido por demostración; busca conocer toda la realidad del hombre y de los seres. Puede por tanto orientar la actividad del hombre individual y social, mostrándole el sentido o no de sus realizaciones. &lt;/p&gt; &lt;p&gt; Objetivos &lt;/p&gt; &lt;p&gt; Conocer la importancia de la filosofía para la reflexión y comprensión del mundo que nos rodea. &lt;/p&gt; &lt;p&gt; Valorar la importancia del hombre en el mundo, el papel que le corresponde y hacia donde debe tender sin dejarse llevar por el hedonismo ya sea físico, informático o tecnológico. &lt;/p&gt; &lt;p&gt; Ayudar al alumno por medio del blog a aprender de forma más practica el contenido del tema expuesto teniendo como herramienta de estudio este medio de enseñanza que ademas de ser un medio de información sirve también como medio para la educación. &lt;/p&gt; &lt;p&gt; Propósito del grado &lt;/p&gt; &lt;p&gt; Aprender lo que es la filosofía y la importancia para el pensamiento humano en la actualidad, con el fin de ayudar a tener un pensamiento más claro, crítico y reflexivo del mundo actual &lt;/p&gt;  &lt;p&gt; La filosofía es el árbol del conocimiento humano. Las raíces es la metafísica, el tronco son las ciencias físicas, las ramas son todas las ciencias, pero predomina, las ciencias biológicas y las ciencias sociales. &lt;/p&gt; &lt;p&gt; El hombre pensante a través de la historia al aplicar su inteligencia ha creado, pueblos, ciudades y civilizaciones con diferentes grados de cultura. La unidad básica de la inteligencia es de pensar una idea, que es una representación mental de una cosa u objeto real e irreal. Un concepto es una idea general y abstracta que puede expresarse o comunicarse. Pensar es crear y ordenar ideas y conceptos, pero también almacenarlos en la memoria como conocimientos del mundo. Pensar es un proceso mental interno de un sujeto que piensa en objetos externos, los pensamientos resultados de pensar y la forma de expresar o comunicar los pensamientos o conocimientos como ideas y conceptos con palabras. &lt;/p&gt; &lt;p&gt; La filosofía es el conocimiento o saber del universo, se extiende más allá de todas las ciencias particulares del conocimiento científico que estudian todos los objetos o cosas determinadas. La filosofía estudia lo general y total, su causa primaria y final o trascendental, los problemas del hombre y su solución racional, la dirección y control de la vida del hombre en todos los aspectos incluyendo los valores humanos, todo con el fin de encontrar su posición en el cosmos y finalmente de seguir influenciando directa o indirectamente la vida y el destino de la humanidad con los sistemas filosóficos actuales y los que han surgido a lo largo de la historia. Cada sistema filosófico en el pasado, muestra la diversidad de pensamientos que se han desarrollado y van desde los mitos del hombre primitivo, pasando por el sentido común hasta el pensamiento científico que busca la verdad. &lt;/p&gt; &lt;p&gt; Estudiaremos como el pensamiento del hombre ha evolucionado, representado por los filósofos y científicos de las distintas épocas de la historia, hasta la actual y como el hombre común puede conocerlos y utilizarlos, tal como el sistema axiológico o de valores humanos, en su proyecto de vida, dando a su existencia razón y finalidad de vivir en la sociedad de la información y del conocimiento. Todo esto ha sido posible con la comunicación humana de legar cada generación hasta la actual los conocimientos filosóficos, científicos y tecnológicos. &lt;/p&gt;   &lt;p&gt; La filosofía del ser &lt;/p&gt; &lt;p&gt; miércoles, 14 de noviembre de 2012 &lt;/p&gt; &lt;p&gt; La filosofía antropológica del griego ánthropos, &quot;hombre&quot;, y , logos , &quot;razonamiento&quot;, significa &quot;el conocimiento del hombre a través de la luz de la filosofía&quot; y es una de varias ramas de la filosofía donde se hace el estudio del hombre, toma al ser humano como objeto y a la vez sujeto del conocimiento, tomando a la vez no sólo su cuerpo también su alma. &lt;/p&gt; &lt;p&gt; El hombre siempre ha sido objeto de experimentaciones científicas &lt;/p&gt; &lt;p&gt; Su planteamiento consiste en utilizar las enseñanzas de las ciencias humanas, tales como la filosofía para tratar de identificar una posición específica en el entorno natural. Busca la relación entre el hombre y el mundo. Preguntas que se pueden hacer en la Antropología filosófica: &lt;/p&gt; &lt;p&gt; ¿Qué es el hombre? &lt;/p&gt; &lt;p&gt; Desde el punto científico el hombre es una especie de primate que con el paso del tiempo fue evolucionando a lo que somos ahora homo sapiens sapiens pero desde el punto de vista de la filosofía el hombre es un ser racional compuesto de cuerpo físico y un alma, el hombre es un ente más del mundo, es el ente del ser diría Heidegger o el ser siendo , es la especie que puede desde la razón plantear desafíos a la naturaleza y a sí mismo, y es además quien busca las respuestas a los problemas del universo. &lt;/p&gt; &lt;p&gt; ¿De dónde venimos? &lt;/p&gt; &lt;p&gt; Desde el punto científico venimos de un proceso evolutivo constante que nos ha llevado hasta la actualidad pero desde el punto de vista de la religión provenimos de la creación de un ser poderoso y omnipotente. &lt;/p&gt; &lt;p&gt; Hacia dónde vamos? &lt;/p&gt; &lt;p&gt; El ser humano posee la decisión de tomar el camino que mejor le parezca; pero desde un punto de vista más metafísico todos tendríamos un destino. EPISTEMOLOGÍA La epistemología del griego epísteme que significa &quot;conocimiento&quot;, y logos, &quot;estudio&quot; es la rama de la filosofia cuyo objeto es el estudio del conocimiento. Su objetivo es ocuparse de los problemas que llevan a la obtención del conocimiento y los criterios por los cuales se le justifica, así como de una definición clara de cada uno de ellos. La epistemologia se divide en elementos del conocimiento: &lt;/p&gt; &lt;p&gt; Sujeto cognoscente &lt;/p&gt; &lt;p&gt; Objeto cognoscible &lt;/p&gt; &lt;p&gt; Idea &lt;/p&gt; &lt;p&gt; Sujeto cognoscente: Individuo que puede obtener un conocimiento cualquiera. Objeto cognoscible: Aquello que ha sido o que puede ser conocido por cualquier sujeto cognoscente. &lt;/p&gt; &lt;p&gt; Idea: Conocimiento de un objeto que se graba en la mente. &lt;/p&gt; &lt;p&gt; Preguntas acerca de la epistemología: &lt;/p&gt; &lt;p&gt; ¿Cuál es la diferencia entre conocimiento y opinión? &lt;/p&gt;
+La antropología académica o profesional surgió en la segunda mitad del siglo XIX. Desde entonces se han desarrollado diferentes interpretaciones sobre su objeto de estudio: la cultura. De hecho, existen tantas definiciones sobre cultura como teorías antropológicas o incluso, como antropólogos y antropólogas. Todas estas teorías han producido un conocimiento acumulativo. Es decir, cada nuevo planteamiento se ha generado al considerar las aportaciones de las corrientes teóricas previas. En antropología entendemos por corriente teórica la dirección o actitud concreta adquirida a la hora de explicar los fenómenos culturales. La antropológica surgió en el siglo XIX en la sociedad moderna. Sin embargo, la antropología se diferenciaba del resto de ciencias sociales de la época en que su ámbito de estudio se encontraba precisamente fuera de la propia sociedad de producción. Hasta bien entrado el siglo XX, la antropología se dedicó al estudio de las ‘sociedades simples’ o ‘primitivas’ mientras que la sociología se encargó del estudio de las sociedades modernas o complejas. Aquello que distinguía a la antropología del resto de las ciencias sociales era, precisamente, el estudio de las culturas lejanas. A partir de la segunda mitad del siglo XX y como resultado de la desaparición de numerosas culturas exóticas debido, en gran medida, al largo proceso colonizador, la antropología comenzó a desarrollarse también dentro de las propias sociedades modernas. En la actualidad, la antropología estudia todo tipo de culturas, incluida la occidental. En cualquier caso, el interés por las culturas lejanas comenzó con anterioridad. Previamente al surgimiento de la antropología ya se habían producido numerosas descripciones sobre diversas culturas exóticas de la mano de viajeros, geógrafos, religiosos, etc. Los libros sagrados (hebreos, musulmanes o hindús) también recogen abundante información sobre la cultura de los pueblos antiguos.   &lt;p&gt; La antropología es fundamentalmente multicultural. Los primeros estudios antropológicos analizaban pueblos y culturas no occidentales, pero su labor actual se centra, en gran medida, en las modernas culturas occidentales (las aglomeraciones urbanas y la sociedad industrial). Los antropólogos consideran primordial realizar trabajos de campo y dan especial importancia a las experiencias de primera mano, participando en las actividades, costumbres y tradiciones de la sociedad a estudiar. &lt;/p&gt; &lt;p&gt; 2. Historia Desde tiempos remotos, viajeros, historiadores y eruditos han estudiado y escrito sobre culturas de pueblos lejanos. El historiador griego Herodoto describió las culturas de varios pueblos del espacio geográfico conocido en su tiempo; interrogó a los informantes clave, observó y analizó sus formas de vida —al igual que los antropólogos modernos—, e informó sobre las diferencias existentes entre ellas, en aspectos tan importantes como la organización familiar y las prácticas religiosas. Mucho más tarde, el historiador romano Tácito, en su libro Germania (hacia el 98 d.C.), reseñó el carácter, las costumbres y la distribución geográfica de los pueblos germánicos. &lt;/p&gt; &lt;p&gt; En el siglo XIII, el aventurero italiano Marco Polo viajó a través de China y otras zonas de Asia, aportando con sus escritos una información muy amplia sobre los pueblos y costumbres del Lejano Oriente. Durante el siglo XV se exploraron nuevos campos de conocimiento debido al descubrimiento por los exploradores europeos de los diferentes pueblos y culturas del Nuevo Mundo, África, el sur de Asia y los Mares del Sur, que dio como resultado la introducción de ideas revolucionarias acerca de la historia cultural y biológica de la humanidad. &lt;/p&gt; &lt;p&gt; A lo largo del siglo XVIII, los estudiosos de la Ilustración francesa, como Anne Robert Jacques Turgot y Jean Antoine Condorcet, comenzaron a elaborar teorías sobre la evolución y el desarrollo de la civilización humana desde sus albores. Estos planteamientos antropológicos y filosóficos chocaban con el relato bíblico de la creación y con los dogmas teológicos que afirmaban que determinadas culturas y pueblos no occidentales habían caído en desgracia divina y, por ello, habían degenerado hacia una situación denominada peyorativamente ‘primitiva’. &lt;/p&gt;  &lt;p&gt; El ser humano es una criatura con una historia relativamente corta en comparación con otras. Y más corta aún es la historia de la que el ser humano actual tiene verdadera constancia, no conociéndose la mayor parte de sucesos que vivieron nuestros antepasados antes de la invención de la escritura. &lt;/p&gt; &lt;p&gt; En este sentido, diferentes ramas de la ciencia han intentado explorar tanto en nuestro presente como en nuestro pasado para estudiar las diferentes maneras en que la civilización y la humanidad en general se han ido organizando. Entre ellas destacan la antropología y la sociología, dos disciplinas con distintas características y objetos de estudio que sin embargo y debido a la similitud de las temáticas que tocan a menudo son confundidas por aquellos que no se dedican a ellas. &lt;/p&gt; &lt;p&gt; En este artículo pretendemos hacer una breve distinción entre ellas, primero realizando una breve descripción de estas ciencias sociales, y luego explicando las diferencias entre sociología y antropología. &lt;/p&gt; &lt;p&gt; La definición de estas dos ciencias sociales &lt;/p&gt; &lt;p&gt; Se entiende por antropología a la disciplina o rama de la ciencia dedicada al estudio del ser humano en sus diversos aspectos, centrándose generalmente en la evolución del hombre a través de los tiempos. La antropología es una ciencia amplia, que pretende estudiar al ser humano desde una perspectiva global, con tendencia al análisis cualitativo y descriptivo, &lt;/p&gt; &lt;p&gt; Existen una gran diversidad de ramas dentro de la antropología, que básicamente tienen en cuenta por un lado la evolución del ser humano en cuanto a especie animal y por el otro el desarrollo sociocultural que ha llevado a cabo a lo largo de dicha evolución. Así la antropología puede valorar tanto cómo ha evolucionado una lengua hasta como el ser humano se ha adaptado a los cambios de temperatura o como han ido variando tradiciones y creencias. &lt;/p&gt;  &lt;p&gt; Antes de entrar de lleno a definir la palabra sociedad que ahora nos ocupa es fundamental que investiguemos y descubramos el origen etimológico de la misma. En concreto, podemos subrayar que aquel se encuentra en el latín y más exactamente en el término sociĕtas. &lt;/p&gt; &lt;p&gt; Sociedad es un término que describe a un grupo de individuos marcados por una cultura en común, un cierto folclore y criterios compartidos que condicionan sus costumbres y estilo de vida y que se relacionan entre sí en el marco de una comunidad. Aunque las sociedades más desarrolladas son las humanas (de cuyo estudio se encargan las ciencias sociales como la sociología y la antropología), también existen las sociedades animales (abordadas desde la sociobiología o la etología social). &lt;/p&gt; &lt;p&gt; En este último sentido, por tanto, podríamos decir que las sociedades de animales son aquellas que se van constituyendo de una forma totalmente natural. Así, de esta manera, un ejemplo de lo que estamos señalando sería el siguiente: “El profesor de Ciencias Naturales nos subrayó que las abejas son unos de los grupos de seres vivos que viven en sociedad”. &lt;/p&gt; &lt;p&gt; Las sociedades de carácter humano están constituidas por poblaciones donde los habitantes y su entorno se interrelacionan en un contexto común que les otorga una identidad y sentido de pertenencia. El concepto también implica que el grupo comparte lazos ideológicos, económicos y políticos. Al momento de analizar una sociedad, se tienen en cuenta aspectos como su nivel de desarrollo, los logros tecnológicos alcanzados y la calidad de vida. &lt;/p&gt; &lt;p&gt; Los expertos en el análisis de las sociedades establecen una serie de señas de identidad o de características que exponen que son imprescindibles que se cumplan para que las reuniones o asociaciones de grupos se consideren sociedades como tal. &lt;/p&gt; &lt;p&gt; Así, entre otras cosas, requieren tener una ubicación en una zona geográfica común, estar constituidos a su vez en diversos grupos cada uno con su propia función social, deben tener una cultura común, pueden considerarse una población en su totalidad… &lt;/p&gt; &lt;p&gt; De la misma forma establecen que las sociedades tienen una serie de funciones que pueden clasificarse en dos. Por un lado estarían las generales y por otro lado las específicas. Respecto a las primeras destacarían el hecho de que son los instrumentos a través de los cuales se hacen posibles las relaciones humanas o que desarrollan y establecen una serie de normas de comportamiento que son comunes para todos sus miembros. &lt;/p&gt; &lt;p&gt; La sociedad existe desde que el hombre comenzó a poblar el planeta, aunque su forma de organización sufrió variaciones a lo largo de la historia. La sociedad del hombre prehistórico se encontraba organizada de modo jerárquico, donde un jefe (el más fuerte o sabio del conjunto) concentraba el poder. A partir de la Grecia antigua, la tendencia absolutista del poder empezó a modificarse, ya que los estamentos inferiores de la sociedad pudieron llegar a ciertos sectores de importancia en la toma de decisiones a través de la democracia. &lt;/p&gt;  &lt;p&gt; La Sociedad Argentina de Antropología (SAA), fue constituida en 1936 por un grupo de pioneros dedicados a la Antropología y a otras disciplinas afines. El día de su inauguración, en el Museo Mitre, se encontraba un grupo destacado de la antropología argentina: Francisco de Aparicio, Eduardo Casanova, José Imbelloni, Fernando Márquez Miranda, Enrique Palavecino, Félix Outes y Milcíades Vignati. La Sociedad ha tenido una vida larga y fecunda, aunque con los altibajos propios de las entidades de esta naturaleza, inevitablemente ligada de algún modo a los vaivenes políticos y económicos del país. Hoy lleva casi siete décadas dedicadas al quehacer antropológico nacional. &lt;/p&gt; &lt;p&gt; En 1938 ya aparecía el primer fruto de esta nueva asociación, el tomo 1 de Relaciones correspondiente al año 1937, dirigido por Francisco de Aparicio, conformado por 17 artículos y una memoria que reseñaba las actividades de la Sociedad. Este tomo fue seguido por otros tres en 1940, 1942 y 1944, este último con 24 artículos distribuidos en 298 páginas. Al poco tiempo se inauguraba también un boletín impreso “Boletín de la Sociedad Argentina de Antropología” que sirvió de canal de comunicación con los socios, que hoy se continúa por Internet. &lt;/p&gt; &lt;p&gt; Otra labor destacada llevada a cabo por la Sociedad, fue la realización de las Semanas de Antropología, reuniones anuales de especialistas de la ciencia que se llevaban a cabo en distintas ciudades del interior y en la propia capital. &lt;/p&gt; &lt;p&gt; El aludido ritmo ascendente de Sociedad se interrumpió en 1945 viéndose privada, por primera vez, del subsidio que recibía. Este hecho iba a inaugurar una serie de altibajos en la historia de la Sociedad que iba a imprimir un estado de incertidumbre a nuestra asociación. A partir de la década de 1970 nuevas figuras, como las de Eduardo M. Cigliano y Carlos J. Gradin, imprimieron renovada fuerza y carácter a la Sociedad. &lt;/p&gt; &lt;p&gt; Carlos J. Gradin &lt;/p&gt; &lt;p&gt; Gradin pudo concretar la edición de 16 tomos de Relaciones a través de una gran dedicación personal y contando con la colaboración del CONICET que subsidió la impresión de Relaciones por largos años. A pesar de contar con esta importante ayuda, el aporte de los socios fue siempre el principal soporte económico de la publicación, como continúa siéndolo en la actualidad. Durante los ´70 aparecen los tomos V (1970) al XIII (1979). En la década del ´80 se editan los tomos XIV1 (1980) al XVII2 (1988-89). &lt;/p&gt; &lt;p&gt; Entre la década del ´90 y los primeros años de este nuevo siglo, Relaciones logra adquirir una regularidad en su edición que no había conseguido anteriormente: el tomo XVIII (1990-92) y los tomos XIX al XXVII que son editados entre 1993 y 2002, alcanzando y afianzando la tan deseada periodicidad anual de nuestra publicación. &lt;/p&gt;   &lt;p&gt; Entender la complejidad de las sociedades y culturas humanas, siendo conscientes de su riqueza, es un factor clave para comprender y aceptar la diversidad. Un requisito que, en un mundo cada vez más globalizado, se convierte en un aspecto irrenunciable, así como una competencia transversal que aporta un importante valor añadido a cualquier perfil profesional. (UNIBA 2016) &lt;/p&gt; &lt;p&gt; La antropología, al igual que la sociología con quien comparte las sociedades, la cultura y su diversidad como objetos de estudio, sigue siendo esa gran desconocida entre el Gran público. Todavía se piensa en la antropología como una ciencia dedicada exclusivamente a los pueblos indígenas y culturas exóticas lejanas y aisladas de la civilización occidental. Nada más lejos de la realidad, porque en la actualidad la antropología dirige su atención tanto a las sociedades más originarias como a las más avanzadas, entendiendo éstas últimas como las más afectadas por los grandes cambios que el mundo ha experimentado en las últimas décadas: expansión del capitalismo, grandes flujos migratorios, revolucionarios avances tecnológicos en las comunicaciones y el transporte, etc.). Como dice Kottak: “la antropología sigue siendo un campo excitante” que estudia en perspectiva comparativa “todas las sociedades, antiguas y modernas, simples y complejas”, y en un mundo cada vez más globalizado, la antropología tiene ante sí el gran reto de demostrar su trascendental relevancia. &lt;/p&gt; &lt;p&gt; «Gente». Lienzo de María Burgaz &lt;/p&gt; &lt;p&gt; La antropología &lt;/p&gt; &lt;p&gt; En primer lugar, antes de abordar definiciones exhaustivas, conviene saber la procedencia del término Antropología. Proviene de la conjunción de los vocablos griegos: anthropos (humano) y logos (conocimiento). &lt;/p&gt; &lt;p&gt; Se suele encuadrar a la Antropología en el doble ámbito de las ciencias sociales y en el de la tradición de las humanidades. En este sentido, muchas veces se dice que la Antropología es una ciencia social integradora que se dedica al estudio del ser humano de forma holística. El holismo se refiere al estudio de todos los aspectos del ser humano: su pasado, presente y futuro, su naturaleza biológica y social, el lenguaje y la cultura. &lt;/p&gt;  &lt;p&gt; Por definición, las sociedades humanas son entidades poblacionales. Dentro de la población existe una relación entre los sujetos y el entorno; ambos realizan actividades en común y es esto lo que les otorga una identidad propia. De otro modo, toda sociedad puede ser entendida como una cadena de conocimientos entre varios ámbitos: económico, político, cultural, deportivo y de entretenimiento. &lt;/p&gt; &lt;p&gt; Los habitantes, el entorno y los proyectos o prácticas sociales hacen parte de una cultura, pero existen otros aspectos que ayudan a ampliar el concepto de sociedad y el más interesante y que ha logrado que la comunicación se desarrolle constantemente es la nueva era de la información, es decir la tecnología alcanzada en los medios de producción, desde una sociedad primitiva con simple tecnología especializada de cazadores —muy pocos artefactos— hasta una sociedad moderna con compleja tecnología —muchísimos artefactos— prácticamente en todas las especialidades. Estos estados de civilización incluirán el estilo de vida y su nivel de calidad que, asimismo, será sencillo y de baja calidad comparativa en la sociedad primitiva, y complejo o sofisticado con calidad comparativamente alta en la sociedad industrial. &lt;/p&gt; &lt;p&gt; También, es importante resaltar que la sociedad está conformada por las industrias culturales. Es decir, la industria es un término fundamental para mejorar el proceso de formación socio-cultural de cualquier territorio, este concepto surgió a partir de la Revolución Industrial, y de ésta se entiende que fue la etapa de producción que se fue ejecutando en la sociedad en la medida en que el hombre producía más conocimiento y lo explotaba en la colectividad. &lt;/p&gt; &lt;p&gt; En la sociedad, el sujeto puede analizar, interpretar y comprender todo lo que lo rodea por medio de las representaciones simbólicas que existen en la comunidad. Es decir, los símbolos son indispensables para el análisis social y cultural del espacio en que se encuentra el hombre y a partir de la explicación simbólica de los objetos se puede adquirir una percepción global del mundo. &lt;/p&gt; &lt;p&gt; Por último, la sociedad de masas (sociedad) está integrada por diversas culturas y cada una tiene sus propios fundamentos e ideologías que hacen al ser humano único y diferente a los demás. &lt;/p&gt;  &lt;p&gt; Los antropólogos de empresa son clave para entender las relaciones dentro de las empresas y el comportamiento de los mercados y consumidores fuera de ellas. &lt;/p&gt; &lt;p&gt; Los antropólogos especialistas de redes sociales definieron el impacto de los atentados del 11 de Septiembre en la población de Nueva York. &lt;/p&gt; &lt;p&gt; Los antropólogos culturales especializados en etnicidad y nacionalismo han sido básicos para definir las políticas de cohesión en el proceso de formación de la Unión Europea. &lt;/p&gt; &lt;p&gt; Los antropólogos forenses, en numerosos lugares de América del Sur, han sido la única alternativa para encontrar a víctimas, devolver el nombre a los fallecidos y darle la tranquilidad a sus familias. &lt;/p&gt; &lt;p&gt; Los antropólogos de la salud estudian la experiencia de salud/enfermedad en las distintas sociedades y grupos del planeta, relacionando las comunicaciones de los afectados con sus marcos culturales y tradiciones. Así, aplican la antropología aportando ayudas para solucionar los problemas o interviniendo. &lt;/p&gt; &lt;p&gt; A través de la investigación antropológica, los epidemiólogos encontraron las vías de transmisión del SIDA. &lt;/p&gt; 
+
+</text>
+</avalingua>
