@@ -15,7 +15,7 @@
     "jsonpath-plus": "^0.20.1",
     "moment": "^2.24.0",
     "n-readlines": "^1.0.0",
-    "printf": "^0.5.1",
+    "printf": "^0.6.1",
     "rc-tree": "^2.1.0",
     "react": "^16.8.6",
     "react-codemirror2": "^6.0.0",
